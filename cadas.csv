@@ -1,0 +1,2713 @@
+﻿list_name,name,label,dis_filter
+cadas,LBN54001,Aaba - عبا الكورة,LBD0011
+cadas,LBN320001,Aabadiye - عبادية,LBD0003
+cadas,LBN44001,Aabba - عبا,LBD0014
+cadas,LBN63001,Aabbassiye - عباسية,LBD0022
+cadas,LBN52001,Aabdelle - عبدللي,LBD0009
+cadas,LBN36001,Aabdine - عبدين نقاش,LBD0012
+cadas,LBN53001,Aabdine Bcharre - عبدين بشري,LBD0005
+cadas,LBN34001,Aabeidat - عبيدات,LBD0016
+cadas,LBN31001,Aabey - عبيه,LBD0002
+cadas,LBN34002,Aaboud - عبود,LBD0016
+cadas,LBN61001,Aabra - عبرا,LBD0021
+cadas,LBN35001,Aabri - عبري,LBD0018
+cadas,LBN52002,Aabrine - عبرين,LBD0009
+cadas,LBN57001,Aachach - عشاش,LBD0026
+cadas,LBN35002,Aachqout - عشقوت,LBD0018
+cadas,LBN43001,Aadaisse - عديسة مرجعيون,LBD0019
+cadas,LBN44002,Aadchit ech Chqif - عدشيت الشقيف,LBD0014
+cadas,LBN43002,Aadchit el Qoussair - عدشيت القصير,LBD0019
+cadas,LBN61002,Aaddoussiye - عدّوسية,LBD0021
+cadas,LBN61003,Aadloun - عدلون,LBD0021
+cadas,LBN11001,Aadlyeh - العدلية,LBD0006
+cadas,LBN55001,Aadoui - عدوة,LBD0013
+cadas,LBN51001,Aadouiye - عدوي,LBD0001
+cadas,LBN62067,Aadour - عاضور,LBD0017
+cadas,LBN21173,Aadous - عدّوس,LBD0004
+cadas,LBN36002,Aafs - عفص,LBD0012
+cadas,LBN34067,Aafs jbeil - عفص,LBD0016
+cadas,LBN35003,Aafs kesrwane - عفص كسروان,LBD0018
+cadas,LBN54002,Aafsdiq - عفصديق,LBD0011
+cadas,LBN62001,Aaichiye - عيشية,LBD0017
+cadas,LBN51002,Aaidamoun - عيدمون,LBD0001
+cadas,LBN23001,Aaiha - عيحا,LBD0020
+cadas,LBN34004,Aainat - عينات,LBD0016
+cadas,LBN41001,Aainata - عيناتا بنت جبيل,LBD0007
+cadas,LBN36003,Aairoun - عيرون,LBD0012
+cadas,LBN41003,Aaitaroun - عيترون,LBD0007
+cadas,LBN63002,Aaitit - عيتيت,LBD0022
+cadas,LBN51003,Aaiyat - عيات,LBD0001
+cadas,LBN35004,Aajaltoun - عجلتون,LBD0018
+cadas,LBN51004,Aakkar El Attiqa - عكار العتيقة,LBD0001
+cadas,LBN52003,Aalali - علالي,LBD0009
+cadas,LBN31002,Aaley ej Jdide - عاليه الجديدة,LBD0002
+cadas,LBN25001,Aali en Nahri - علي النهري,LBD0025
+cadas,LBN44003,Aali et Taher - علي الطاهر,LBD0014
+cadas,LBN34005,Aalita - عاليتا,LBD0016
+cadas,LBN21001,Aallaq - علاق,LBD0004
+cadas,LBN57002,Aalma - علما,LBD0026
+cadas,LBN63003,Aalma ech Chaab - علما الشعب,LBD0022
+cadas,LBN43003,Aalmane - علمانة,LBD0019
+cadas,LBN33001,Aalmane Ech Chouf - علمان الشوف,LBD0008
+cadas,LBN51260,Aamara - عماره,LBD0001
+cadas,LBN34006,Aamchit - عمشيت,LBD0016
+cadas,LBN21009,Aamchki - عمشكي,LBD0004
+cadas,LBN36004,Aammariye - عمّارية,LBD0012
+cadas,LBN33002,Aammatour - عمّاطور,LBD0008
+cadas,LBN24001,Aammiq - عميق,LBD0024
+cadas,LBN33003,Aammiq chouf - عميق الشوف,LBD0008
+cadas,LBN43005,Aamra - عمرة,LBD0019
+cadas,LBN63004,Aamrane - عمران,LBD0022
+cadas,LBN31003,Aamroussieh Choueifat - عمروسية الشويفات,LBD0002
+cadas,LBN24002,Aana - عانا,LBD0024
+cadas,LBN34007,Aannaya - عنَايا,LBD0016
+cadas,LBN33004,Aanout - عانوت,LBD0008
+cadas,LBN61004,Aanqoun - عنقون,LBD0021
+cadas,LBN34008,Aaouaini - عويني,LBD0016
+cadas,LBN51009,Aaouinat - العوينات,LBD0001
+cadas,LBN52004,Aaoura - عورا البترون,LBD0009
+cadas,LBN22001,Aaqabe - عقبة,LBD0010
+cadas,LBN23002,Aaqbe - عقبة راشيّا,LBD0020
+cadas,LBN36005,Aaqbe Zalqa - عقبة الزلقا,LBD0012
+cadas,LBN57003,Aaqbet Sibaal - عقبة سبعل,LBD0026
+cadas,LBN61005,Aaqbiye - العاقبية,LBD0021
+cadas,LBN33005,Aaqline - عقلين,LBD0008
+cadas,LBN62113,Aaqmata - عقماتا,LBD0017
+cadas,LBN34009,Aaqoura - عاقورة,LBD0016
+cadas,LBN61006,Aaqtanit - عقتنيت,LBD0021
+cadas,LBN36006,Aaraar - عرعار,LBD0012
+cadas,LBN34217,Aarab el Lahib - عرب اللهيب,LBD0016
+cadas,LBN43004,Aarab el Louaize - عرب اللويزة,LBD0019
+cadas,LBN51010,Aarab Jourmnaya - جرمنايا,LBD0001
+cadas,LBN35005,Aarabe Ghosta - عربة غوسطا,LBD0018
+cadas,LBN31005,Aaramoun - عرمون,LBD0002
+cadas,LBN35006,Aaramoun Kesrwane - عرمون كسروان,LBD0018
+cadas,LBN62002,Aaramta - عرمتى,LBD0017
+cadas,LBN34010,Aarasta - عرستا,LBD0016
+cadas,LBN320002,Aarbaniye - عربانية,LBD0003
+cadas,LBN57004,Aarbet Qozhaiya - عربة قزحيا,LBD0026
+cadas,LBN57005,Aardat - عردات,LBD0026
+cadas,LBN51011,Aarida - عريضا,LBD0001
+cadas,LBN62003,Aariye - عاريه,LBD0017
+cadas,LBN57006,Aarjess - عرجس,LBD0026
+cadas,LBN51078,Aarmeh - عرمه,LBD0001
+cadas,LBN61007,Aarnaba - عرنابة,LBD0021
+cadas,LBN44007,Aarnoun - أرنون,LBD0014
+cadas,LBN51012,Aarqa - عرقا,LBD0001
+cadas,LBN62114,Aarqoub - العرقوب,LBD0017
+cadas,LBN21002,Aarsal - عرسال,LBD0004
+cadas,LBN52005,Aartez - عرطز,LBD0009
+cadas,LBN55004,Aassaimout - عصيموت,LBD0013
+cadas,LBN55005,Aassoun - عاصون,LBD0013
+cadas,LBN36007,Aatchane - عطشانة,LBD0012
+cadas,LBN33006,Aatrine - عترين,LBD0008
+cadas,LBN51262,Aayoun - عيون,LBD0001
+cadas,LBN34011,Aayoun el Aalaq - عيون العلاق,LBD0016
+cadas,LBN51013,Aayoun El Ghezlane - عيون الغزلان,LBD0001
+cadas,LBN35007,Aayoun es Simane - عيون السيمان,LBD0018
+cadas,LBN21003,Aayoun Orghoush - عيون ارغش,LBD0004
+cadas,LBN41002,Aayta ej Jabal Zott - عيتا الجبل الزط,LBD0007
+cadas,LBN23003,Aaz el Aarab - عز العرب,LBD0020
+cadas,LBN33007,Aazibett tahta - عزبيات التحتا,LBD0008
+cadas,LBN62004,Aazour - عازور,LBD0017
+cadas,LBN35008,Aazrane - عزرانة,LBD0018
+cadas,LBN44004,Aazze - عزه,LBD0014
+cadas,LBN63006,Aazziye - عزِّيه,LBD0022
+cadas,LBN31006,Aazzouniye - العزونيه,LBD0002
+cadas,LBN320003,Abbdiyeh al Jadideh - عبادية الجديدة,LBD0003
+cadas,LBN51072,Abde - العبده,LBD0001
+cadas,LBN25003,Ablah - ابلح,LBD0025
+cadas,LBN63007,Abou Chach - أبو شاش,LBD0022
+cadas,LBN61008,Abou el Assouad - ابو الاسود,LBD0021
+cadas,LBN55091,Abou Hamad - ابو حمد,LBD0013
+cadas,LBN36008,Abou Mizane - أبو ميزان,LBD0012
+cadas,LBN42001,Abou Qamha - أبو قمحة,LBD0015
+cadas,LBN56018,Abou Samra - ابو سمرا,LBD0023
+cadas,LBN11002,Achrafiye - الاشرفية,LBD0006
+cadas,LBN34012,Adonis - ادونيس,LBD0016
+cadas,LBN35010,Adonis Kesserwan - أدونيس كسروان,LBD0018
+cadas,LBN34013,Afqa - افقا,LBD0016
+cadas,LBN55007,Afqa El Minieh - افقا المنيه,LBD0013
+cadas,LBN35011,Aghbe - إغبة,LBD0018
+cadas,LBN54003,Ain Aakrine - عين عكرين,LBD0011
+cadas,LBN36009,Ain Aalaq - عين علق,LBD0012
+cadas,LBN36010,Ain Aar - عين عار,LBD0012
+cadas,LBN23004,Ain Aarab - عين عرب,LBD0020
+cadas,LBN43006,Ain Aarab Marjaayoun - عين عرب مرجعيون,LBD0019
+cadas,LBN23005,Ain Aata - عين عطا,LBD0020
+cadas,LBN33008,Ain Aazime - عين عزيمة,LBD0008
+cadas,LBN35012,Ain Abaal - عين ابعل,LBD0018
+cadas,LBN63008,Ain Abu Aabdalla - عين أبو عبدالله,LBD0022
+cadas,LBN22002,Ain al Jadideh - عين الجديدة الهرمل,LBD0010
+cadas,LBN31007,Ain Al Saydeh -  عين السيدة,LBD0002
+cadas,LBN31008,Ain Anoub - عين عنوب,LBD0002
+cadas,LBN63009,Ain Baal - عين بعل,LBD0022
+cadas,LBN33009,Ain Bal - عينبال,LBD0008
+cadas,LBN21004,Ain Bourday - عين بورداي,LBD0004
+cadas,LBN34014,Ain Bqechqoch - عين بقشقش,LBD0016
+cadas,LBN31009,Ain Dara - عين داره,LBD0002
+cadas,LBN31010,Ain Drafil - عين درافيل,LBD0002
+cadas,LBN41004,Ain Ebel - عين ابل,LBD0007
+cadas,LBN34015,Ain ed Deir - عين الدير,LBD0016
+cadas,LBN61009,Ain Ed Delb - عين الدلب,LBD0021
+cadas,LBN35013,Ain Ed Delbe - عين الدلبة,LBD0018
+cadas,LBN34016,Ain Ed Delbe Jbeil - عين الدلبة جبيل,LBD0016
+cadas,LBN21005,Ain Ej Jaouze - عين الجوزة,LBD0004
+cadas,LBN31011,Ain ej Jdide - عين الجديدة,LBD0002
+cadas,LBN35014,Ain Ej Jorn - عين الجرن,LBD0018
+cadas,LBN33010,Ain El Assad - عين الاسد,LBD0008
+cadas,LBN52006,Ain el Batie - عين البطيه,LBD0009
+cadas,LBN22091,Ain el bayda - عين البيضاء,LBD0010
+cadas,LBN52007,Ain el Blat - عين البلاط,LBD0009
+cadas,LBN21006,Ain El Bnaiye - عين البنية,LBD0004
+cadas,LBN31012,Ain el Fraidis -  عين الفريديس,LBD0002
+cadas,LBN25004,Ain el Ghmiqa - عين الغميقة,LBD0025
+cadas,LBN34003,Ain el Ghouaibe - عين الغويبة,LBD0016
+cadas,LBN31013,Ain el Halzoun - عين الحلزون,LBD0002
+cadas,LBN33193,Ain el Haour - عين الحور,LBD0008
+cadas,LBN61010,Ain el Hiloue - عين الحلوة,LBD0021
+cadas,LBN31014,Ain el Jaouze - عين الجوزه,LBD0002
+cadas,LBN36011,Ain El Kharroube - عين الخروبة,LBD0012
+cadas,LBN31015,Ain el Marj - عين المرج,LBD0002
+cadas,LBN62005,Ain el Mir el Estabel - عين المير إسطبل,LBD0017
+cadas,LBN36012,Ain El Qabou - عين القبو,LBD0012
+cadas,LBN34017,Ain el Qadah - عين القدح,LBD0016
+cadas,LBN36013,Ain el Qassis - عين القسيس,LBD0012
+cadas,LBN11004,Ain El Tine - عين التينة,LBD0006
+cadas,LBN36186,Ain el-Kach - عين القش,LBD0012
+cadas,LBN52008,Ain er Raha - عين الراحا,LBD0009
+cadas,LBN31016,Ain er Remmane - عين الرمانة,LBD0002
+cadas,LBN35015,Ain Er Rihane - عين الريحان,LBD0018
+cadas,LBN36014,Ain Er Rihane el meten - عين الريحان المتن,LBD0012
+cadas,LBN320004,Ain er Roummane - عين الرمانة بعبدا,LBD0003
+cadas,LBN51015,Ain er Rsas - عين الراس,LBD0001
+cadas,LBN55008,Ain es Safsaf - عين الصفصاف,LBD0013
+cadas,LBN36015,Ain Es Safsaf el meten - عين الصفصاف المتن,LBD0012
+cadas,LBN34019,Ain es Salib - عين الصليب,LBD0016
+cadas,LBN21007,Ain es Saouda - عين السودا,LBD0004
+cadas,LBN320005,Ain es Sihha - عين الصحة,LBD0003
+cadas,LBN36016,Ain Es Sindiane - عين السنديانة,LBD0012
+cadas,LBN62006,Ain et Taghra - عين التغرى,LBD0017
+cadas,LBN35016,Ain Et Tannour - عين التنور,LBD0018
+cadas,LBN55009,Ain Et Tine - عين التينه المنيه,LBD0013
+cadas,LBN24003,Ain et Tine West Bekaa - عين التينة بقاع الغربي,LBD0024
+cadas,LBN36017,Ain et Toufaha - عين التفاحة,LBD0012
+cadas,LBN51016,Ain ez Zeit - عين الزيت,LBD0001
+cadas,LBN51333,Ain Faouar - عين الفوار,LBD0001
+cadas,LBN34020,Ain Ghalboun - عين غلبون,LBD0016
+cadas,LBN31017,Ain Hala - عين حالا,LBD0002
+cadas,LBN23006,Ain Hircha - عين حرشة,LBD0020
+cadas,LBN42002,Ain Jerfa - عين جرفا,LBD0015
+cadas,LBN35017,Ain Jouaiya - عين جويا,LBD0018
+cadas,LBN34021,Ain Jrain - عين جرين,LBD0016
+cadas,LBN34022,Ain Kfaa - عين كفاع,LBD0016
+cadas,LBN25005,Ain Kfar Zabad - عين كفر زبد,LBD0025
+cadas,LBN31018,Ain Ksour - عين كسور,LBD0002
+cadas,LBN62007,Ain Majdalain - عين مجدلين,LBD0017
+cadas,LBN320006,Ain Mouaffaq - عين موفق,LBD0003
+cadas,LBN11003,Ain Mreisse - عين المريسه,LBD0006
+cadas,LBN36018,Ain Najm - عين نجم,LBD0012
+cadas,LBN33194,Ain Ouzain - عين وزين,LBD0008
+cadas,LBN44005,Ain Qana - عين قانا,LBD0014
+cadas,LBN33013,Ain Qeni - عين قني,LBD0008
+cadas,LBN42003,Ain Qenya - عين قنيا,LBD0015
+cadas,LBN36019,Ain Saade - عين سعادة,LBD0012
+cadas,LBN42004,Ain Tanta - عين تنتا حاصبيا,LBD0015
+cadas,LBN51017,Ain Tinta - عين تنتا,LBD0001
+cadas,LBN57007,Ain Tourine - عينطورين,LBD0026
+cadas,LBN31019,Ain Trez - عين تراز,LBD0002
+cadas,LBN51018,Ain Yaaqoub - عين يعقوب,LBD0001
+cadas,LBN36020,Ain Zaitoune - عين الزيتونة,LBD0012
+cadas,LBN24004,Ain Zebde - عين زبدة,LBD0024
+cadas,LBN33014,Ain Zhalta - عين زحلتا,LBD0008
+cadas,LBN31020,Ainab - عيناب,LBD0002
+cadas,LBN21008,Ainata - عيناتا,LBD0004
+cadas,LBN35018,Aintoura - عينطورة,LBD0018
+cadas,LBN36021,Aintoura el meten - عينطورة المتن,LBD0012
+cadas,LBN41005,Aita Ech Chaab - عيتا الشعب,LBD0007
+cadas,LBN23007,Aita el Foukhar - عيتا الفخار,LBD0020
+cadas,LBN24005,Aitanit - عيتنيت,LBD0024
+cadas,LBN31021,Aitat - عيتات,LBD0002
+cadas,LBN57008,Aitou - أيطو,LBD0026
+cadas,LBN36022,Aiyoun - عيون المتن,LBD0012
+cadas,LBN51019,Akroum - اكروم,LBD0001
+cadas,LBN57009,Al Aaqbe - عقبة علما,LBD0026
+cadas,LBN21192,Al Ansar Baalbek - الأنصار بعلبك,LBD0004
+cadas,LBN25019,Al Faour - الفاعور,LBD0025
+cadas,LBN11059,Al Hikmat - حكمة,LBD0006
+cadas,LBN31022,Aley - عاليه,LBD0002
+cadas,LBN54004,Al-Hraiche - حريشه,LBD0011
+cadas,LBN33015,Almane ed Daiaa - علمان الضيعة,LBD0008
+cadas,LBN51102,El Massoudieh - المسعودية,LBD0001
+cadas,LBN34023,Almat ech Chemaliye - علمات الشمالية,LBD0016
+cadas,LBN34024,Almat Ej Jnoubiye - علمات الجنوبية,LBD0016
+cadas,LBN24014,Al-Wakf - الوقف بقاع الغربي,LBD0024
+cadas,LBN55002,Amar - عيمر,LBD0013
+cadas,LBN51006,Amaret el Baykat - عمار البيكات,LBD0001
+cadas,LBN51074,Amayer - العماير,LBD0001
+cadas,LBN54005,Amioun - اميون,LBD0011
+cadas,LBN62008,Anane - أنان,LBD0017
+cadas,LBN51007,Andqat - عندقت,LBD0001
+cadas,LBN25002,Anjar - عنجر,LBD0025
+cadas,LBN36105,Antelias - انطلياس,LBD0012
+cadas,LBN44006,Arab Salim - عرب صاليم,LBD0014
+cadas,LBN320007,Arayia - عاريا,LBD0003
+cadas,LBN51021,Ard es Soud - ارض السود,LBD0001
+cadas,LBN57010,Arde - أرده,LBD0026
+cadas,LBN53002,Ariz - أرز,LBD0005
+cadas,LBN61011,Arkey - اركي,LBD0021
+cadas,LBN320008,Arsoun - ارصون,LBD0003
+cadas,LBN61012,Arzay - أرزي,LBD0021
+cadas,LBN63010,Arzoun - ارزون,LBD0022
+cadas,LBN57011,Aslout - اسلوت,LBD0026
+cadas,LBN57012,Asnoun - اصنون,LBD0026
+cadas,LBN52009,Assia - اسيا,LBD0009
+cadas,LBN51008,Awade - العواده,LBD0001
+cadas,LBN34025,Aydamoun - عيدامون,LBD0016
+cadas,LBN35065,Ayn Es Safra - عين الصفرا,LBD0018
+cadas,LBN42005,Ayn et Tine - عين التينة حاصبيا,LBD0015
+cadas,LBN62009,Azibeh - عزيبة,LBD0017
+cadas,LBN55006,Azqey - عزقي,LBD0013
+cadas,LBN320009,Baabda - بعبدا,LBD0003
+cadas,LBN36023,Baabdat - بعبدات,LBD0012
+cadas,LBN34026,Baachta - بعشتا,LBD0016
+cadas,LBN33016,Baadarane - بعدران,LBD0008
+cadas,LBN320106,Baajour - بعجور,LBD0003
+cadas,LBN33017,Baal en Naame - بعل الناعمه,LBD0008
+cadas,LBN21010,Baalbek - بعلبك,LBD0004
+cadas,LBN320010,Baalchmay - بعلشميه,LBD0003
+cadas,LBN320011,Baalchmay ej Jdide - بعلشميه الجديدة,LBD0003
+cadas,LBN51267,Baaliye - بعليا,LBD0001
+cadas,LBN24006,Baaloul - بعلول,LBD0024
+cadas,LBN62010,Baanoub - بعانوب,LBD0017
+cadas,LBN31023,Baaouerta - بعورته,LBD0002
+cadas,LBN33018,Baaqline - بعقلين,LBD0008
+cadas,LBN36024,Baaqrif - بعقريف,LBD0012
+cadas,LBN33019,Baasir - بعاصير,LBD0008
+cadas,LBN21011,Baayoun - قاع بعيون,LBD0004
+cadas,LBN55010,Baazqoun - بعزقون,LBD0013
+cadas,LBN56019,Bab Al Ramel - باب الرمل,LBD0023
+cadas,LBN11005,Bab Idriss - باب إدريس,LBD0006
+cadas,LBN24007,Bab Maraa - باب مارع,LBD0024
+cadas,LBN62011,Baba - بيبه,LBD0017
+cadas,LBN61013,Babliye - بابلية,LBD0021
+cadas,LBN11006,Bachoura - باشورة,LBD0006
+cadas,LBN33020,Bachqiye - باشقية,LBD0008
+cadas,LBN51022,Baddouaa - بدويا,LBD0001
+cadas,LBN63011,Bafliye - بافليه,LBD0022
+cadas,LBN54006,Bahbouch - بحبوش,LBD0011
+cadas,LBN35019,Bahhara - بحارة,LBD0018
+cadas,LBN55012,Bahsa - البحصة,LBD0013
+cadas,LBN56020,Bahsas - البحصاص,LBD0023
+cadas,LBN33021,Baiqoun - بيقون,LBD0008
+cadas,LBN31024,Baissour - بيصور,LBD0002
+cadas,LBN62012,Baissour Jezzine - بيصور جزين,LBD0017
+cadas,LBN43007,Baiyouda - بويضة مرجعيون,LBD0019
+cadas,LBN51023,Bajaa - بجعة,LBD0001
+cadas,LBN55013,Bakhaoun - بخعون,LBD0013
+cadas,LBN23008,Bakka - بكا,LBD0020
+cadas,LBN23009,Bakkifa - بكيفا راشيا,LBD0020
+cadas,LBN52010,Balaa - بلعة,LBD0009
+cadas,LBN51024,Balde - بلدي,LBD0001
+cadas,LBN34027,Balhoss - بلحص,LBD0016
+cadas,LBN35020,Balloune - بلونة,LBD0018
+cadas,LBN36025,Balouaa - بالوع,LBD0012
+cadas,LBN53003,Bane - بان,LBD0005
+cadas,LBN51268,Bani Sakher - بني صخر,LBD0001
+cadas,LBN36026,Baouchriye - بوشرية,LBD0012
+cadas,LBN33022,Baqaoun - بقعون,LBD0008
+cadas,LBN33023,Baqse - بقسه,LBD0008
+cadas,LBN25006,Bar Elias - بر الياس,LBD0025
+cadas,LBN34028,Barbara - بربارة,LBD0016
+cadas,LBN51025,Barcha - برشا,LBD0001
+cadas,LBN54008,Barghoun - برغون,LBD0011
+cadas,LBN53004,Barhalioun - برحليون,LBD0005
+cadas,LBN63012,Barich - باريش,LBD0022
+cadas,LBN34029,Barij - بريج,LBD0016
+cadas,LBN33024,Barja - برجا,LBD0008
+cadas,LBN33025,Barouk - الباروك,LBD0008
+cadas,LBN21012,Barqa - برقا,LBD0004
+cadas,LBN54009,Barsa - برصا,LBD0011
+cadas,LBN61015,Barti - برتي,LBD0021
+cadas,LBN52011,Barzakine - برزقين,LBD0009
+cadas,LBN52012,Basbina - بسبينا,LBD0009
+cadas,LBN36027,Baskinta - بسكنتا,LBD0012
+cadas,LBN57013,Baslouqit - بسلوقيت,LBD0026
+cadas,LBN11007,Basta Faouka - بسطا الفوقا,LBD0006
+cadas,LBN11060,Basta Tahta - بسطا التحتا,LBD0006
+cadas,LBN33026,Bater - باتر,LBD0008
+cadas,LBN35021,Batha - بطحا,LBD0018
+cadas,LBN42006,Bathaniye - بيتسنيا,LBD0015
+cadas,LBN33027,Batloun - بتلون,LBD0008
+cadas,LBN63013,Batouliye - باتوليه,LBD0022
+cadas,LBN54010,Batroumine - بترومين,LBD0011
+cadas,LBN52013,Batroun - بترون,LBD0009
+cadas,LBN23010,Bayader el Aadas - بيادر العدس,LBD0020
+cadas,LBN35022,Bayader Fatqa - بيادر فتقا,LBD0018
+cadas,LBN57014,Bayader Rachaaine - بيادر رشعين,LBD0026
+cadas,LBN25007,Bayyadat - البياضة,LBD0025
+cadas,LBN53005,Bazaoun - بزعون,LBD0005
+cadas,LBN63014,Bazouriye - بازورية,LBD0022
+cadas,LBN57015,Bchama - بشاما,LBD0026
+cadas,LBN31025,Bchamoun - بشامون,LBD0002
+cadas,LBN57016,Bchannine - بشنين,LBD0026
+cadas,LBN53006,Bcharre - بشري,LBD0005
+cadas,LBN33028,Bchatfine - بشتفين,LBD0008
+cadas,LBN52014,Bcheale - بشعلة,LBD0009
+cadas,LBN33029,Bchella Ech Chouf - بشله الشوف,LBD0008
+cadas,LBN36028,Bchellama - بشلامة,LBD0012
+cadas,LBN34030,Bchelli - بشلّلي,LBD0016
+cadas,LBN55015,Bchennata - بشناتا,LBD0013
+cadas,LBN31026,Bdedoun - بدادون,LBD0002
+cadas,LBN54011,Bdeihoun - بدبهون,LBD0011
+cadas,LBN54012,Bdibba - بدبا,LBD0011
+cadas,LBN22003,Bdita - بديتا,LBD0010
+cadas,LBN51026,Bebnine - ببنين,LBD0001
+cadas,LBN55014,Bechhara - بشحارة,LBD0013
+cadas,LBN54013,Bechmizzine - بشمزين,LBD0011
+cadas,LBN21013,Bechouat - بشوات,LBD0004
+cadas,LBN55016,Bechtayel - بشتايل,LBD0013
+cadas,LBN34031,Bechtelida - بشتليدا,LBD0016
+cadas,LBN52015,Bechtoudar-Aoura - بشتودار,LBD0009
+cadas,LBN31027,Bedghane - بدغان,LBD0002
+cadas,LBN63015,Bedias - بدياس,LBD0022
+cadas,LBN21014,Bednayel - بدنايل,LBD0004
+cadas,LBN54014,Bednayel el koura - بدنايل الكورة,LBD0011
+cadas,LBN34032,Behdaidat - بحديدات,LBD0016
+cadas,LBN55011,Behouaita - بحويتا,LBD0013
+cadas,LBN51027,Beino - بينو,LBD0001
+cadas,LBN11009,Beirut - بيروت,LBD0006
+cadas,LBN11061,Beirut Central District - وسط بيروت,LBD0006
+cadas,LBN57017,Beit Aabeid - بيت عبيد,LBD0026
+cadas,LBN22004,Beit Aallam - بيت علام,LBD0010
+cadas,LBN22005,Beit Aallaou - بيت علاّو,LBD0010
+cadas,LBN57018,Beit Aaoukar - بيت عوكر,LBD0026
+cadas,LBN51028,Beit Ali Adraa - بيت علي عدرة,LBD0001
+cadas,LBN51029,Beit Ayoub - بيت ايوب,LBD0001
+cadas,LBN55017,Beit Bakkour - بيت بكور,LBD0013
+cadas,LBN57019,Beit Barakat - بيت بركات,LBD0026
+cadas,LBN21015,Beit Chama - بيت شاما,LBD0004
+cadas,LBN36029,Beit Chebab - بيت شباب,LBD0012
+cadas,LBN52016,Beit Chlala - بيت شلالا,LBD0009
+cadas,LBN51030,Beit Daoud - بيت داوود,LBD0001
+cadas,LBN55018,Beit Daoud Izal - بيت داوود عزال,LBD0013
+cadas,LBN33030,Beit ed Dine - بيت الدين,LBD0008
+cadas,LBN35023,Beit Eid - بيت عيد,LBD0018
+cadas,LBN34033,Beit El Boume - بيت البومة,LBD0016
+cadas,LBN55019,Beit El Faqs - بيت الفقس,LBD0013
+cadas,LBN51031,Beit el Haj - بيت الحاج,LBD0001
+cadas,LBN51032,Beit el Haouch - بيت الحوش,LBD0001
+cadas,LBN57020,Beit el Hraqsa - بيت الحرقصى,LBD0026
+cadas,LBN36030,Beit El Koukko - بيت الككو,LBD0012
+cadas,LBN35024,Beit El Kreidi - بيت كريدي,LBD0018
+cadas,LBN21016,Beit es Satiti - بيت الستيته,LBD0004
+cadas,LBN22006,Beit es Semmaqa - بيت السماقة,LBD0010
+cadas,LBN51189,Beit Ghattas - بيت غطاس,LBD0001
+cadas,LBN21017,Beit Habchi - بيت حبشي,LBD0004
+cadas,LBN55020,Beit Haouik - بيت حاويك,LBD0013
+cadas,LBN55021,Beit Hasna - بيت حسنة,LBD0013
+cadas,LBN34034,Beit Hbaq - بيت حبّاق,LBD0016
+cadas,LBN22007,Beit Hira - بيت حيرا,LBD0010
+cadas,LBN55022,Beit jida - بيت جدا,LBD0013
+cadas,LBN55023,Beit Kanj - بيت كنج,LBD0013
+cadas,LBN52017,Beit Kassab - بيت كسّاب,LBD0009
+cadas,LBN35025,Beit Khachbou - بيت خشبو,LBD0018
+cadas,LBN51033,Beit Khlaiyel - بيت خلايل,LBD0001
+cadas,LBN57021,Beit Knaty - بيت قناطي,LBD0026
+cadas,LBN23011,Beit Lahia - بيت لهيا,LBD0020
+cadas,LBN41006,Beit Lif - بيت ليف,LBD0007
+cadas,LBN21018,Beit Mchik - مزرعة بيت مشيك,LBD0004
+cadas,LBN51034,Beit Mellat - بيت ملات,LBD0001
+cadas,LBN53007,Beit Menzer - بيت منذر,LBD0005
+cadas,LBN36031,Beit Meri - بيت مري,LBD0012
+cadas,LBN55024,Beit Moumne - بيت مومنة,LBD0013
+cadas,LBN55025,Beit Radouane - بيت رضوان,LBD0013
+cadas,LBN41007,Beit Yahnoun - بيت ياحون,LBD0007
+cadas,LBN51035,Beit Younes - بيت يونس,LBD0001
+cadas,LBN55026,Beit Zoud - بيت زود,LBD0013
+cadas,LBN21019,Bejjaje - بجاجة,LBD0004
+cadas,LBN34035,Bejje - بجه,LBD0016
+cadas,LBN34036,Bekhaaz - بخعاز,LBD0016
+cadas,LBN34037,Bekouane - بكونا,LBD0016
+cadas,LBN51036,Bellanet el Hissa - بلانة الحيصة,LBD0001
+cadas,LBN36032,Belle Vue - بلّفو,LBD0012
+cadas,LBN43008,Beni Haiyane - بني حيان,LBD0019
+cadas,LBN33031,Benoeti - بنواتي,LBD0008
+cadas,LBN62013,Benouati - بنواتي جزين,LBD0017
+cadas,LBN41008,Bent Jubail - بنت جبيل,LBD0007
+cadas,LBN34038,Bentaael - بنتاعل,LBD0016
+cadas,LBN36033,Beqaata En Nahr - بقعاتا النهر,LBD0012
+cadas,LBN35026,Beqaatet Aachqout - بقعاتة عشقوت,LBD0018
+cadas,LBN51037,Berbara - برباره,LBD0001
+cadas,LBN25008,Berbara zahle - بربارة زحلة,LBD0025
+cadas,LBN22008,Berghoch - برغش,LBD0010
+cadas,LBN42007,Berghoz - برغز,LBD0015
+cadas,LBN34042,Berket Hejoula - بركة حجولا,LBD0016
+cadas,LBN51038,Berqayel - برقايل,LBD0001
+cadas,LBN63016,Bestiyat - بستيات,LBD0022
+cadas,LBN21020,Betdaai - بتدعي,LBD0004
+cadas,LBN51039,Bezbina - بزبينا,LBD0001
+cadas,LBN34039,Beziyoun - بزيون,LBD0016
+cadas,LBN320012,Bhala - بحالا,LBD0003
+cadas,LBN31028,Bhamdoun ed Dayaa - بحمدون الضيعة,LBD0002
+cadas,LBN31029,Bhamdoun el Mhatta - بحمدون المحطة,LBD0002
+cadas,LBN36034,Bhannes - بحنس,LBD0012
+cadas,LBN62014,Bhannine - بحنين,LBD0017
+cadas,LBN55027,Bhannine El Minieh - بحنين المنيه,LBD0013
+cadas,LBN34040,Bhassis - بحسيس,LBD0016
+cadas,LBN36035,Bhersaf - بحرصاف,LBD0012
+cadas,LBN31030,Bhouara - بحوارا,LBD0002
+cadas,LBN36036,Biaqout - بياقوت,LBD0012
+cadas,LBN31031,Bihat - بهات,LBD0002
+cadas,LBN52018,Bijdarfel - بجدرفل,LBD0009
+cadas,LBN36037,Bikfayia - بكفيا,LBD0012
+cadas,LBN53008,Billa - بلا,LBD0005
+cadas,LBN35027,Biqaatet Kannane - بقعاتة كنعان,LBD0018
+cadas,LBN320104,Bir el AAbed - بئر العبد,LBD0003
+cadas,LBN34041,Bir El Hait - بير الهيت,LBD0016
+cadas,LBN41009,Bir es Sanassel - بير السناسل,LBD0007
+cadas,LBN320013,Bir Hassan - بئر حسن,LBD0003
+cadas,LBN33032,Bire - بيرة,LBD0008
+cadas,LBN51040,Bire Akkar - البيره عكار,LBD0001
+cadas,LBN23012,Bire rachaya - بيرة راشّيا,LBD0020
+cadas,LBN62015,Bisri - بسري,LBD0017
+cadas,LBN61014,Bissariyeh - بيسارية,LBD0021
+cadas,LBN62016,Biyad - البياض,LBD0017
+cadas,LBN63017,Biyad Sour - البياض صور,LBD0022
+cadas,LBN22009,Biyout Aawad - بيوت عواد,LBD0010
+cadas,LBN22010,Biyout el Ain - بيوت العين,LBD0010
+cadas,LBN22011,Biyout el Hajj Hassan - بيوت الحاج حسن,LBD0010
+cadas,LBN22012,Biyout er Rouais - بيوت الرويس,LBD0010
+cadas,LBN22013,Biyout es Souh - بيوت السوح,LBD0010
+cadas,LBN35028,Bizhel - بزحل,LBD0018
+cadas,LBN62017,Bkassine - بكاسين,LBD0017
+cadas,LBN33033,Bkechtine - بكشتين,LBD0008
+cadas,LBN54015,Bkeftine - بكفتين,LBD0011
+cadas,LBN31032,Bkhechtay - بخشتيه,LBD0002
+cadas,LBN33035,Bkifa - بكيفا,LBD0008
+cadas,LBN35029,Bkirke - بكركي,LBD0018
+cadas,LBN34043,Bkourkaz - بكركز,LBD0016
+cadas,LBN31033,Blaibel - بليبل,LBD0002
+cadas,LBN21021,Blaiqa - بليقة,LBD0004
+cadas,LBN53009,Blaouza - بلوزا,LBD0005
+cadas,LBN34044,Blat - بلاط,LBD0016
+cadas,LBN43009,Blat Marjaayoun - بلاط مرجعيون,LBD0019
+cadas,LBN35030,Blat Mazraat Kfar Dibiane - بلاط كفر ذبيان,LBD0018
+cadas,LBN43010,Blida - بليدا,LBD0019
+cadas,LBN31034,Bmahray - بمهريه,LBD0002
+cadas,LBN320014,Bmariam - بمريم,LBD0003
+cadas,LBN34045,Bmehrine - بمهرين,LBD0016
+cadas,LBN31035,Bmekkine - بمكين,LBD0002
+cadas,LBN61016,Bnaafoul - بنعفول,LBD0021
+cadas,LBN36038,Bnabil - بنابيل,LBD0012
+cadas,LBN31036,Bnaiye - البينه,LBD0002
+cadas,LBN57023,Bnechaai - بنشعي,LBD0026
+cadas,LBN54016,Bnehrane - بنهران,LBD0011
+cadas,LBN34046,Boaatara - بعتارا,LBD0016
+cadas,LBN36039,Bolonia - بولونيا,LBD0012
+cadas,LBN33036,Boqaata - بقعاتا,LBD0008
+cadas,LBN52019,Borj - البرج كفر عبيدا,LBD0009
+cadas,LBN63018,Borj ech Chmali - برج الشمالي,LBD0022
+cadas,LBN51041,Borj el Arab - برج العرب,LBD0001
+cadas,LBN320015,Borj el Brajne - برج البراجنة,LBD0003
+cadas,LBN63019,Borj el Haoua - برج الهوا,LBD0022
+cadas,LBN43011,Borj El Mlouk - برج الملوك,LBD0019
+cadas,LBN63021,Borj el Qibli - برج قبلي,LBD0022
+cadas,LBN55028,Borj El Yahoudiye - برج اليهودية,LBD0013
+cadas,LBN36040,Borj Hammoud - برج حمّود,LBD0012
+cadas,LBN41010,Borj Qalaouiye - برج قلويه,LBD0007
+cadas,LBN63022,Borj Rahhal - برج رحال,LBD0022
+cadas,LBN33037,Borjein - البرجين,LBD0008
+cadas,LBN31037,Botros - بطرس,LBD0002
+cadas,LBN22014,Bou Sawaya - بو صوايا,LBD0010
+cadas,LBN31115,Bou Zraid - بو زريدة,LBD0002
+cadas,LBN31038,Bou Zraide - بو زريده,LBD0002
+cadas,LBN22015,Bouaida - بويضة,LBD0010
+cadas,LBN35031,Bouar - بوار,LBD0018
+cadas,LBN25009,Bouarej - بوارج,LBD0025
+cadas,LBN21022,Boudai - بوداي,LBD0004
+cadas,LBN33038,Boudine - بودين,LBD0008
+cadas,LBN57078,Bouhairet Toula - بحيرة تولا,LBD0026
+cadas,LBN31039,Bourdine - بردين,LBD0002
+cadas,LBN63023,Bourghliye - برغلية,LBD0022
+cadas,LBN11010,Bourj Abi Haidar - برج أبو حيدر,LBD0006
+cadas,LBN57024,Bousit - بوسيط,LBD0026
+cadas,LBN62018,Bouslaya - بوصلايا,LBD0017
+cadas,LBN22017,Boustane - بستان,LBD0010
+cadas,LBN52020,Boustane El Aassi - بساتين العصي,LBD0009
+cadas,LBN51344,Boustane El Herch - بستان الحرش,LBD0001
+cadas,LBN63025,Boustane Sour - بستان صور,LBD0022
+cadas,LBN320016,Boutchai - بطشيه,LBD0003
+cadas,LBN33039,Boutme - بطمة,LBD0008
+cadas,LBN53010,Bqaa Kafra - بقاع كفرا,LBD0005
+cadas,LBN55029,Bqaa Safrin - بقاع صفرين,LBD0013
+cadas,LBN35032,Bqaatouta - بقعتوتا,LBD0018
+cadas,LBN33040,Bqaiaa - بقيعة,LBD0008
+cadas,LBN52021,Bqaiaa et Dahr Abi Yaghi - بقيعة البترون,LBD0009
+cadas,LBN35033,Bqaq Ed Dine - بقاق الدين,LBD0018
+cadas,LBN55030,Bqarsouna - بقرصونه,LBD0013
+cadas,LBN34047,Bqarta - بقرتا,LBD0016
+cadas,LBN51271,Bqayaa - البقيعه,LBD0001
+cadas,LBN36041,Bqennaya - بقنايا,LBD0012
+cadas,LBN53011,Bqerqacha - بقرقاشا,LBD0005
+cadas,LBN51042,Bqerzala - بقرزلا,LBD0001
+cadas,LBN52022,Bqosmaiya - بقسميا,LBD0009
+cadas,LBN61017,Bqosta - بقسطا,LBD0021
+cadas,LBN41011,Braachit - برعشيت,LBD0007
+cadas,LBN44008,Braiqaa - بريقع,LBD0014
+cadas,LBN53012,Braissat - بريسات,LBD0005
+cadas,LBN61018,Brak et Tall - براك التل,LBD0021
+cadas,LBN61019,Bramiye - برامية,LBD0021
+cadas,LBN320017,Brazilia - برازيليا,LBD0003
+cadas,LBN22018,Breij - البريج,LBD0010
+cadas,LBN33041,Brih - بريح,LBD0008
+cadas,LBN22019,Brissa - بريصا,LBD0010
+cadas,LBN21023,Britel - بريتال,LBD0004
+cadas,LBN34048,Broqta - برقتا,LBD0016
+cadas,LBN36042,Broumana - برمانا المتن,LBD0012
+cadas,LBN35034,Broummana Kfar Dibian - برمانا كفر ذبيان,LBD0018
+cadas,LBN33042,Bsaba - بسابا,LBD0008
+cadas,LBN320101,Bsaba & Ouadi Dlab - بسابا وادي الدلب,LBD0003
+cadas,LBN36043,Bsalim - بصاليم,LBD0012
+cadas,LBN54017,Bsarma - بصرما,LBD0011
+cadas,LBN31040,Bsatine - البساتين,LBD0002
+cadas,LBN36044,Bsatine Ain Saade - بساتين عين سعادة,LBD0012
+cadas,LBN21024,Bsayleh al Fawka - بصيلة الفوقا,LBD0004
+cadas,LBN21025,Bsayleh al Tahta - بصيلة التحتا,LBD0004
+cadas,LBN57025,Bsebaal - بسبعل,LBD0026
+cadas,LBN33043,Bsennay - بصّني,LBD0008
+cadas,LBN31041,Bserrine - بسرين,LBD0002
+cadas,LBN36045,Bsifrine - بسفرين,LBD0012
+cadas,LBN31042,Bsous - بسوس,LBD0002
+cadas,LBN54018,Btaaboura - بتعبورة,LBD0011
+cadas,LBN320102,Btaaline - بتعلين,LBD0003
+cadas,LBN55031,Btahline - بتحلين,LBD0013
+cadas,LBN63026,Btaichiye - بطيشية,LBD0022
+cadas,LBN31043,Btalloun - بطلون,LBD0002
+cadas,LBN31044,Btater - بتاتر,LBD0002
+cadas,LBN320020,Btebyat - بتبيات,LBD0003
+cadas,LBN62019,Bteddine el Loqch - بتدين اللقش,LBD0017
+cadas,LBN36046,Bteghrine - بتغرين,LBD0012
+cadas,LBN320021,Btekhnay - بتخناي,LBD0003
+cadas,LBN55032,Btellaiye - بتلايه,LBD0013
+cadas,LBN55033,Btermaz - بطرماز,LBD0013
+cadas,LBN54019,Btouratij - بتوراتيج,LBD0011
+cadas,LBN54020,Btourram - بطرام,LBD0011
+cadas,LBN51043,Bzaita - بزيتا,LBD0001
+cadas,LBN51044,Bzal - بزال,LBD0001
+cadas,LBN320022,Bzebdine - بزبدين,LBD0003
+cadas,LBN33044,Bzina - بزينا,LBD0008
+cadas,LBN54021,Bziza - بزيزا,LBD0011
+cadas,LBN35035,Bzoummar - بزمار,LBD0018
+cadas,LBN35036,Chaab - شعب,LBD0018
+cadas,LBN34049,Chaabiyat el Fawqa - شعبيات الفوقا,LBD0016
+cadas,LBN63027,Chaaitiyeh - شعيتية,LBD0022
+cadas,LBN21026,Chaat - شعت,LBD0004
+cadas,LBN63028,Chabriha - شبريحا,LBD0022
+cadas,LBN52023,Chabtine - شبطين,LBD0009
+cadas,LBN51045,Chadra - شدره,LBD0001
+cadas,LBN63029,Chahour - شحور,LBD0022
+cadas,LBN35037,Chahtoul - شحتول,LBD0018
+cadas,LBN34050,Chaloumas - شلوماس,LBD0016
+cadas,LBN63030,Chamaa - شمع,LBD0022
+cadas,LBN34051,Chamat - شامات,LBD0016
+cadas,LBN62020,Chamkha - شامخة,LBD0017
+cadas,LBN31045,Chamlikh - شاملخ,LBD0002
+cadas,LBN11011,Champ de courses - ميدان سباق الخيل,LBD0006
+cadas,LBN25011,Chamssine - شمسين,LBD0025
+cadas,LBN31046,Chanay - شانيه,LBD0002
+cadas,LBN51046,Chane - شان,LBD0001
+cadas,LBN36047,Chaouiye - شاوية,LBD0012
+cadas,LBN51272,Chaqdouf - الشقدوف,LBD0001
+cadas,LBN41012,Chaqra - شقرا,LBD0007
+cadas,LBN51047,Charbila - شربيلا,LBD0001
+cadas,LBN22020,Charbine - شربين,LBD0010
+cadas,LBN34052,Charbine Mazraat Es Siyad - شربين مزرعة السياد,LBD0016
+cadas,LBN63031,Charnaiye - شارنية,LBD0022
+cadas,LBN31047,Charoun - شارون,LBD0002
+cadas,LBN44009,Charqiye - شرقية,LBD0014
+cadas,LBN31048,Chartoun - شرتون,LBD0002
+cadas,LBN320108,Chatila - شاتيلا,LBD0003
+cadas,LBN52024,Chatine - شاتين,LBD0009
+cadas,LBN51237,Chattaha - شطاحة,LBD0001
+cadas,LBN52025,Chawi - شاوي,LBD0009
+cadas,LBN320023,Chbaniye - شبانية,LBD0003
+cadas,LBN62021,Chbeil - شبيل,LBD0017
+cadas,LBN36048,Chbouq - شبوق,LBD0012
+cadas,LBN42008,Chebaa - شبعا,LBD0015
+cadas,LBN24008,Chebreqiyet Aammiq - شبرقية عميق,LBD0024
+cadas,LBN25010,Chebrqiyet Tabet - شبرقية تابت,LBD0025
+cadas,LBN63032,Chehabiye - شهابية,LBD0022
+cadas,LBN35057,Chehhara - شحارة,LBD0018
+cadas,LBN51064,Cheikh Mohammad - الشيخ محمد,LBD0001
+cadas,LBN51273,Cheikh Aayash - الشيخ عياش,LBD0001
+cadas,LBN51274,Cheikh Hmairine - شيخ حمارين,LBD0001
+cadas,LBN51275,Cheikh Taba - الشيخ طابا,LBD0001
+cadas,LBN51048,Cheikh Taba es Sahl - الشيخ طابا السهل,LBD0001
+cadas,LBN51049,Cheikh Zennad Talbibe - الشيخ زناد,LBD0001
+cadas,LBN51050,Cheikhlar - شيخلار,LBD0001
+cadas,LBN34053,Chekhnaya - شخنايا,LBD0016
+cadas,LBN52026,Chekka - شكَا,LBD0009
+cadas,LBN31049,Chemlane - شملان,LBD0002
+cadas,LBN36049,Cherchar - شرشار,LBD0012
+cadas,LBN36050,Cherin - شرين,LBD0012
+cadas,LBN33045,Chhim - شحيم,LBD0008
+cadas,LBN320024,Chiayah - شياح,LBD0003
+cadas,LBN63033,Chihine - شيحين,LBD0022
+cadas,LBN34054,Chikhane - شيخان,LBD0016
+cadas,LBN51051,Chir Hmairine - شير حمارين,LBD0001
+cadas,LBN53013,Chira - شيرا,LBD0005
+cadas,LBN21027,Chlifa - شليفا,LBD0004
+cadas,LBN33046,Chmaarine - شمعرين,LBD0008
+cadas,LBN320025,Chmaissa - شميسة,LBD0003
+cadas,LBN55034,Chmis - الشميس,LBD0013
+cadas,LBN36051,Chmis Antelias - شميس أنطلياس,LBD0012
+cadas,LBN33047,Chmis chouf - شميس,LBD0008
+cadas,LBN21028,Chmistar - شمسطار,LBD0004
+cadas,LBN34055,Chmout - شموت,LBD0016
+cadas,LBN35038,Chnanaair - شننعير,LBD0018
+cadas,LBN52027,Chnata - شناتا,LBD0009
+cadas,LBN22021,Chouaghir - شواغير,LBD0010
+cadas,LBN42009,Chouaia - شويّا,LBD0015
+cadas,LBN36052,Chouaiya - شويا,LBD0012
+cadas,LBN62022,Choualiq - شواليق جزين,LBD0017
+cadas,LBN33048,Choualiq Deir El Qamar - شواليق دير القمر,LBD0008
+cadas,LBN34056,Chouata - شواتا,LBD0016
+cadas,LBN35039,Chouaya - شويا يحشوش,LBD0018
+cadas,LBN36053,Choueir - شوير,LBD0012
+cadas,LBN35040,Chouene - شوان,LBD0018
+cadas,LBN320026,Chouit - شويت,LBD0003
+cadas,LBN44010,Choukine - شوكين,LBD0014
+cadas,LBN33049,Chourit - شوريت,LBD0008
+cadas,LBN31050,Chqif Btalloun - شقيف بطلون,LBD0002
+cadas,LBN35041,Christ Roi - يسوع الملك,LBD0018
+cadas,LBN25012,Chtaura - شتورا,LBD0025
+cadas,LBN320027,Cite Sportive - المدينة الرياضية,LBD0003
+cadas,LBN11062,Corniche El Naher - كورنيش النهر,LBD0006
+cadas,LBN52028,Daael - داعل,LBD0009
+cadas,LBN35042,Daasse - دعسه,LBD0018
+cadas,LBN51052,Dabadeb - داباديب,LBD0001
+cadas,LBN33050,Dabche - دبشه,LBD0008
+cadas,LBN51065,Daghle - الدغلة,LBD0001
+cadas,LBN51053,Dahr Aayas - ضهر عياس,LBD0001
+cadas,LBN52029,Dahr Abi Yaghi - ضهر ابي ياغي,LBD0009
+cadas,LBN25013,Dahr al Harf - ضهر الحرف,LBD0025
+cadas,LBN54022,Dahr AlAin - ضهر العين,LBD0011
+cadas,LBN35043,Dahr Badris - ضهر بدريس,LBD0018
+cadas,LBN25014,Dahr Blait - ضهر البلايط,LBD0025
+cadas,LBN36054,Dahr Broummana - ضهر برمانا,LBD0012
+cadas,LBN33051,Dahr ech Chqif - ضهر الشقيف,LBD0008
+cadas,LBN62023,Dahr ed Deir - ضهر الدير,LBD0017
+cadas,LBN33052,Dahr el Aaqline - ضهر عقلين,LBD0008
+cadas,LBN23013,Dahr el Ahmar - ضهر الاحمر,LBD0020
+cadas,LBN36055,Dahr el Bacheq - ضهر الباشق,LBD0012
+cadas,LBN320028,Dahr el Baidar - ضهر البيدر,LBD0003
+cadas,LBN51054,Dahr El Ballane - ضهر البلانه,LBD0001
+cadas,LBN52030,Dahr el Ghbare - ضهر الغبار,LBD0009
+cadas,LBN36056,Dahr el Hossein - ضهر الحسين المتن,LBD0012
+cadas,LBN51055,Dahr el Houssain - ضهر الحسين,LBD0001
+cadas,LBN33053,Dahr el Mghara - ضهر المغارة,LBD0008
+cadas,LBN31051,Dahr El Ouahch - ضهر الوحش,LBD0002
+cadas,LBN35044,Dahr el Qattine - ضهر القطين,LBD0018
+cadas,LBN52031,Dahr El Qotlob - ضهر القطلب,LBD0009
+cadas,LBN62024,Dahr er Ramle - ضهر الرملة,LBD0017
+cadas,LBN25015,Dahr es Souane - ضهر الصوان,LBD0025
+cadas,LBN36057,Dahr Es Souane Meten - ضهر الصوان المتن,LBD0012
+cadas,LBN51278,Dahr Laissineh - ضهر ليسينه,LBD0001
+cadas,LBN52032,Dahr Mar Risha - ضهر مار ريشا,LBD0009
+cadas,LBN55035,Dairaiya - داريا المنيه,LBD0013
+cadas,LBN24009,Dakoue - دكوة,LBD0024
+cadas,LBN25016,Dalhamiye - دلهميه,LBD0025
+cadas,LBN33054,Dalhoun - دلهون,LBD0008
+cadas,LBN56021,Dam Wal Farz - الضم و الفرز,LBD0023
+cadas,LBN33055,Damour - الدامور,LBD0008
+cadas,LBN57079,Danha - دنها,LBD0026
+cadas,LBN51279,Danke et El Amriyeh - دنكة و العامرية,LBD0001
+cadas,LBN61020,Daoudiye - الداودية,LBD0021
+cadas,LBN36058,Daoura - دورة,LBD0012
+cadas,LBN34057,Daouret Edde Jbayl - دورة إده جبيل,LBD0016
+cadas,LBN21029,Daouret en Naml - دورة النمل,LBD0004
+cadas,LBN51280,Daousse Baghdadi - دوسة بغدادي,LBD0001
+cadas,LBN31052,Daqqoun - دقون,LBD0002
+cadas,LBN11013,Dar Al Fatwa - دارالفتوى,LBD0006
+cadas,LBN54023,Dar Baachtar - دار بعشتار,LBD0011
+cadas,LBN54024,Dar Chmizzine - دار شمزين,LBD0011
+cadas,LBN21030,Dar el Ouassaa - دار الواسعة,LBD0004
+cadas,LBN35045,Daraaoun - درعون,LBD0018
+cadas,LBN33056,Daraiya - داريا الشوف,LBD0008
+cadas,LBN57026,Darayia - داريا,LBD0026
+cadas,LBN62025,Darayia Jezzine - داريا جزين,LBD0017
+cadas,LBN35046,Darayia Kesrwane - داريا كسروان,LBD0018
+cadas,LBN61021,Darb es Sim - درب السيم,LBD0021
+cadas,LBN51057,Darine - دارين,LBD0001
+cadas,LBN33057,Dawha - الدوحة,LBD0008
+cadas,LBN52034,Dawrat - دورة كفر عبيدا,LBD0009
+cadas,LBN36059,Daychouniye - ديشونية,LBD0012
+cadas,LBN35047,Dayr Saydet el Haqle - دير سيدة الحقلة,LBD0018
+cadas,LBN52036,Dayr Shouwah - دير شواح,LBD0009
+cadas,LBN51281,Dayret Nahr el Kabir - دائرة النهر الكبير,LBD0001
+cadas,LBN36060,Dbaiye - ضبية,LBD0012
+cadas,LBN63034,Debaal - دبعل,LBD0022
+cadas,LBN55036,Debaal El Minieh - دبعل المنيه,LBD0013
+cadas,LBN41013,Debl Oummiya - دبل امية,LBD0007
+cadas,LBN54025,Dedde - دده,LBD0011
+cadas,LBN42010,Dehayrjate - الدحيرجات,LBD0015
+cadas,LBN63035,Deir Aamess - ديرعامص,LBD0022
+cadas,LBN24010,Deir Ain ej Jaouze - دير عين الجوزة,LBD0024
+cadas,LBN55037,Deir Amar - دير عمار,LBD0013
+cadas,LBN33058,Deir Baba - دير بابا,LBD0008
+cadas,LBN35048,Deir Baklouche - دير بقلوش,LBD0018
+cadas,LBN52037,Deir Billa - ديربلا,LBD0009
+cadas,LBN36061,Deir Chamra - دير شمرا,LBD0012
+cadas,LBN62026,Deir Chkedif - شقاديف,LBD0017
+cadas,LBN51058,Deir Dalloum - دير دلوم,LBD0001
+cadas,LBN33059,Deir Dourite - دير دوريت,LBD0008
+cadas,LBN23014,Deir el Aachayer - دير العشاير,LBD0020
+cadas,LBN21031,Deir El Ahmar - دير الاحمر,LBD0004
+cadas,LBN54007,DEIR EL BALAMAND - دير البلمند,LBD0011
+cadas,LBN25017,Deir el Ghazal - دير الغزال,LBD0025
+cadas,LBN320029,Deir el Harf - دير الحرف,LBD0003
+cadas,LBN33060,Deir El MKhales - دير المخلص الشوف,LBD0008
+cadas,LBN36062,Deir el Qalaa - دير القلعة,LBD0012
+cadas,LBN33061,Deir el Qamar - دير القمر,LBD0008
+cadas,LBN34058,Deir el Qattara - دير القطارة,LBD0016
+cadas,LBN62093,Deir El Qattine - دير قطِين,LBD0017
+cadas,LBN33062,Deir er Rahbat - دير الراهبات,LBD0008
+cadas,LBN33063,Deir es Saide - دير السيدة,LBD0008
+cadas,LBN36063,Deir es Salib - دير الصليب,LBD0012
+cadas,LBN44011,Deir ez Zahrani - دير الزهراني,LBD0014
+cadas,LBN35049,Deir Hrach - دير حراش,LBD0018
+cadas,LBN51059,Deir Janine - دير جنين,LBD0001
+cadas,LBN52035,Deir Kfifane - دير كفيفان,LBD0009
+cadas,LBN320030,Deir Khouna - دير خونة,LBD0003
+cadas,LBN63036,Deir Kifa - دير كيفا,LBD0022
+cadas,LBN36064,Deir Ma Yohanna El Khenchara - ديرمار يوحنا الخنشارة,LBD0012
+cadas,LBN62028,Deir Machmouche - دير مشموشه,LBD0017
+cadas,LBN36065,Deir Mar Chaaya - دير مار شعيا,LBD0012
+cadas,LBN320031,Deir Mar Elias - دير مار الياس,LBD0003
+cadas,LBN36066,Deir Mar Jergos - دير مار جرجس,LBD0012
+cadas,LBN51060,Deir Mar Jeryos - دير مار جريس,LBD0001
+cadas,LBN34059,Deir Mar Maroun - دير مار مارون,LBD0016
+cadas,LBN21032,Deir Mar Maroun Baalbek - دير مار مارون بعلبك,LBD0004
+cadas,LBN34060,Deir Mar Sarkis - دير مار سركيس,LBD0016
+cadas,LBN36067,Deir Mar Simaane - دير مار سمعان,LBD0012
+cadas,LBN320032,Deir Mar Youhanna - دير مار يوحنا,LBD0003
+cadas,LBN52038,Deir Mar Youhanna Douma - دير مار يوحنا دوما,LBD0009
+cadas,LBN52039,Deir Mar Youssef Jrabta - دير مار يوسف جربتا,LBD0009
+cadas,LBN43012,Deir Mimas - دير ميماس,LBD0019
+cadas,LBN62081,Deir Moukhalles - دير  المخلص,LBD0017
+cadas,LBN55038,Deir Nbouh - دير نبوح,LBD0013
+cadas,LBN35051,Deir Nisbey - دير نسبيه,LBD0018
+cadas,LBN41014,Deir Ntar - دير نطار,LBD0007
+cadas,LBN63037,Deir Qanoun - دير قانون,LBD0022
+cadas,LBN63038,Deir Qanoun en Nahr - دير قانون النهر,LBD0022
+cadas,LBN31053,Deir Qoubil - دير قوبل,LBD0002
+cadas,LBN33064,Deir Qouche - دير كوشه,LBD0008
+cadas,LBN35052,Deir Ram Bou Daqen - دير رام بو دقن,LBD0018
+cadas,LBN320033,Deir Saiya - دير سيا,LBD0003
+cadas,LBN35050,Deir saydet Louaize - دير سيدة اللويزة,LBD0018
+cadas,LBN43013,Deir Siriane - دير سريان,LBD0019
+cadas,LBN24011,Deir Tahnich - دير طحنيش,LBD0024
+cadas,LBN36068,Deir Tamich - دير طاميش,LBD0012
+cadas,LBN61022,Deir Taqla - دير تقلا,LBD0021
+cadas,LBN25018,Deir Zenoun - دير زنون,LBD0025
+cadas,LBN35053,Deir Ziraaya - دير زرعيا,LBD0018
+cadas,LBN36069,Deir-er-Raai es Saleh - دير الراعي الصالح,LBD0012
+cadas,LBN61110,Dekerman - الدكرمان,LBD0021
+cadas,LBN36070,Dekouane - دكوانة,LBD0012
+cadas,LBN36071,Delb - دلب,LBD0012
+cadas,LBN35054,Delbta - دلبتا,LBD0018
+cadas,LBN33065,Delghani - دلغاني,LBD0008
+cadas,LBN42011,Dellafi - دلافة,LBD0015
+cadas,LBN51061,Denke - دنكي,LBD0001
+cadas,LBN35055,Deraali - درعليه,LBD0018
+cadas,LBN63039,Derdghaiya - دردغايا,LBD0022
+cadas,LBN52040,Derya - دريا,LBD0009
+cadas,LBN31054,Dfoun - دفون,LBD0002
+cadas,LBN63040,Dhaira - ظهيرة,LBD0022
+cadas,LBN33066,Dhour Ain Al Haour - ضهور عين الحور,LBD0008
+cadas,LBN320034,Dhour Al Aabaydiyeh - ضهور العبادية,LBD0003
+cadas,LBN61098,Dhour Darb es Sim - ضهور درب السيم,LBD0021
+cadas,LBN36072,Dhour Ech Choueir - ضهور الشوير,LBD0012
+cadas,LBN51282,Dibbabiye - دبابية,LBD0001
+cadas,LBN43014,Dibbine - دبين,LBD0019
+cadas,LBN33067,Dibbiye - دبية,LBD0008
+cadas,LBN36073,Dik El Mehdi - ديك المحدي,LBD0012
+cadas,LBN53014,Dimane - ديمان,LBD0005
+cadas,LBN62030,Dimechqiye - دمشقية,LBD0017
+cadas,LBN51062,Dinbou Ain al zahab - دنبو عين الذهب,LBD0001
+cadas,LBN320035,Dlaibe - دليبه,LBD0003
+cadas,LBN34061,Dmalsa - دملصا,LBD0016
+cadas,LBN33068,Dmit - دميت,LBD0008
+cadas,LBN33069,Douair Ed Dibbiye - دوير الدبية,LBD0008
+cadas,LBN33070,Douair El Hara - دوير الحارة,LBD0008
+cadas,LBN36074,Douar - دوار,LBD0012
+cadas,LBN34062,Douar Bou chahine - دوار بو شاهين,LBD0016
+cadas,LBN41015,Doubiye - دوبية,LBD0007
+cadas,LBN34063,Doueir - الدوير,LBD0016
+cadas,LBN51284,Doueir Aadouiye - دوير عدويه,LBD0001
+cadas,LBN44012,Doueir El Nabatieh - الدوير النبطية,LBD0014
+cadas,LBN31055,Doueir er Remmane - دوير الرمان,LBD0002
+cadas,LBN52041,Douma - دوما,LBD0009
+cadas,LBN52042,Douq - دوق,LBD0009
+cadas,LBN21033,Douris - دوريس,LBD0004
+cadas,LBN35056,Dqarine - دقارين,LBD0018
+cadas,LBN55039,Ech Chalout - شالوط,LBD0013
+cadas,LBN33071,Ech Charbine - شربين,LBD0008
+cadas,LBN51063,Ech Cheikh Maarouf - الشيخ معروف,LBD0001
+cadas,LBN63128,Ech Choumara - الشومارا,LBD0022
+cadas,LBN35058,Ech Chqif Bqaatouta - شقيف بقعتوتا,LBD0018
+cadas,LBN35059,Ed Dahr - الضهر,LBD0018
+cadas,LBN35060,Ed Dahr Ghbale - ضهر غبالة,LBD0018
+cadas,LBN33072,Ed Dalhamiye - دلهميه الدبيه,LBD0008
+cadas,LBN51066,Ed Daoura - الدوره,LBD0001
+cadas,LBN22023,Ed Daoura el hermel - الدورة الهرمل,LBD0010
+cadas,LBN35061,Ed Daoura Shaile - دورة سهيلة,LBD0018
+cadas,LBN51067,Ed Daousse - الدوسة,LBD0001
+cadas,LBN34064,Ed Darje - درجه,LBD0016
+cadas,LBN51068,Ed Debbabiye el Charqiye - الدبابية الشرقية,LBD0001
+cadas,LBN51069,Ed Debbabiye el Gharbiye - الدبابية الغربية,LBD0001
+cadas,LBN56001,Ed Debbagha - الدباغة,LBD0023
+cadas,LBN63121,Ed Dikiye - الديكية,LBD0022
+cadas,LBN34065,Edde - إده,LBD0016
+cadas,LBN52043,Edde el Batroun - إده البترون,LBD0009
+cadas,LBN35009,Edma et Dafne - أدما والدفنه,LBD0018
+cadas,LBN57027,Ehden - اهدن,LBD0026
+cadas,LBN34066,Ehmej - اهمج,LBD0016
+cadas,LBN35062,Ej Jaayel - جعايل غبالة,LBD0018
+cadas,LBN11014,Ej Jeitaoui - جعيتاوي,LBD0006
+cadas,LBN36075,Ej Jouaniye - الجوانية,LBD0012
+cadas,LBN33073,Ej Jreid - جريد,LBD0008
+cadas,LBN57028,Ejbeaa - اجبع,LBD0026
+cadas,LBN51071,El Aabboudiye - العبودية,LBD0001
+cadas,LBN21034,El Aaiara - عيارة,LBD0004
+cadas,LBN34068,El Aambra - العمبرا,LBD0016
+cadas,LBN11016,El Aamliye - عاملية,LBD0006
+cadas,LBN51075,El Aamriye - العمارية,LBD0001
+cadas,LBN51076,El Aaouaichat - العويشات,LBD0001
+cadas,LBN35063,El Aaqaybe Kesrouane - عقيبة,LBD0018
+cadas,LBN54026,El Aaqbe - عقبة,LBD0011
+cadas,LBN33074,El Aaqbe joun - عقبة جون,LBD0008
+cadas,LBN44013,El Aaqide - عقيدة,LBD0014
+cadas,LBN34069,El Aarich - عريش,LBD0016
+cadas,LBN51077,El Aarida - العريضة,LBD0001
+cadas,LBN51079,El Aayoun - العيون,LBD0001
+cadas,LBN52044,El Aazeqa - عزيقه,LBD0009
+cadas,LBN35064,El Aazra et el Aazr - عذره والعذر,LBD0018
+cadas,LBN61024,El Achrafiye - أشرفية المية ومية,LBD0021
+cadas,LBN21035,El Ain - العين,LBD0004
+cadas,LBN22016,El Baaoul - البعول,LBD0010
+cadas,LBN54027,El Bahsas - بحصاص,LBD0011
+cadas,LBN320036,El Baqle - بقلة,LBD0003
+cadas,LBN21036,El Barake - البركة,LBD0004
+cadas,LBN51081,El Barde - بردي,LBD0001
+cadas,LBN34070,El Barraniye - برانية,LBD0016
+cadas,LBN63041,El Bass -  البصَ,LBD0022
+cadas,LBN33075,El Battal - بطال,LBD0008
+cadas,LBN44014,El Bayad - نبطية البياض,LBD0014
+cadas,LBN55040,El Beddaoui - بداوي,LBD0013
+cadas,LBN34071,El Bhayri - بحيري,LBD0016
+cadas,LBN41016,El Birke -  البركه بنت جبيل,LBD0007
+cadas,LBN41017,El Biyad - البياد,LBD0007
+cadas,LBN63042,El Biyada - بياضة,LBD0022
+cadas,LBN34072,El Biyade - البياضة جبيل,LBD0016
+cadas,LBN31056,El Blat -  بلاط  سلفايا,LBD0002
+cadas,LBN34073,El Borj - برج,LBD0016
+cadas,LBN51082,El Borj Akkar - البرج عكار,LBD0001
+cadas,LBN36076,El Borj El Khenchara - برج الخنشارة,LBD0012
+cadas,LBN63043,El Borj En-Naqoura - برج الناقورة,LBD0022
+cadas,LBN34074,El Boustane - بستان يانوح,LBD0016
+cadas,LBN54028,El Bqaiaa - البقيعة,LBD0011
+cadas,LBN36077,El Braij Qornet Chahouane - بريج قرنة شهوان,LBD0012
+cadas,LBN23015,El Faqaa - الفقعة,LBD0020
+cadas,LBN21037,El Faqrat - فقرات,LBD0004
+cadas,LBN36078,El Firdaous - فردوس,LBD0012
+cadas,LBN51083,El Fraidis - فريديس,LBD0001
+cadas,LBN31057,El Ftaihat - الفتيحات,LBD0002
+cadas,LBN11017,El Ghabe - غابي,LBD0006
+cadas,LBN51084,El Ghawaya - القبيات غوايا,LBD0001
+cadas,LBN35066,El Ghouabi - غوابي,LBD0018
+cadas,LBN36079,El Habach - حباش,LBD0012
+cadas,LBN51085,El Haissa - الحيصة,LBD0001
+cadas,LBN11018,El Hamra - حمرا,LBD0006
+cadas,LBN52045,El Hamra JRANE - حمرا جران,LBD0009
+cadas,LBN35067,El Hara Mairouba - حارة ميروبا,LBD0018
+cadas,LBN52046,El Harf - حرف,LBD0009
+cadas,LBN62031,El Harf Jezzine - الحرف جزين,LBD0017
+cadas,LBN57029,El Hariq - حريق,LBD0026
+cadas,LBN55041,El Hazmiye - حازمية المنيه,LBD0013
+cadas,LBN52047,El Heri - هري,LBD0009
+cadas,LBN51086,El Hichi - الهيشه,LBD0001
+cadas,LBN11064,El Horge - حرش,LBD0006
+cadas,LBN51088,El Houaich - الحويش,LBD0001
+cadas,LBN57030,El Houakir - حواكير,LBD0026
+cadas,LBN62032,El Houraniye - حورانية,LBD0017
+cadas,LBN34077,El Houssoun - حصون,LBD0016
+cadas,LBN34078,El Hraifat - الحريفات,LBD0016
+cadas,LBN24012,El Jazira - الجزيرة,LBD0024
+cadas,LBN57031,El Khaldiye - خالدية,LBD0026
+cadas,LBN35068,El Kharayeb - خرايب,LBD0018
+cadas,LBN35069,El Kharayeb Dlebta - الخرايب دلبتا,LBD0018
+cadas,LBN55042,El Kharnoub - خرنوب المنيه,LBD0013
+cadas,LBN51089,El Kharnoubeh - الخرنوبه,LBD0001
+cadas,LBN33076,El Kherbe - الخربة الشوف,LBD0008
+cadas,LBN51092,El Khirbe - الخربة,LBD0001
+cadas,LBN51091,El Khirbe Msalla - الخربة مصلا,LBD0001
+cadas,LBN51090,El Khirbe Qleiaat - الخربة قليعات,LBD0001
+cadas,LBN51093,El Khoder - الخضر اكروم,LBD0001
+cadas,LBN33077,El Khraibe - خريبة بيرة الشوف,LBD0008
+cadas,LBN52048,El Khraize - خريزه,LBD0009
+cadas,LBN63044,El Kleile - قليلة,LBD0022
+cadas,LBN51094,El Kneisse - الكنيسة,LBD0001
+cadas,LBN51336,El Kouraniye - الكورانية,LBD0001
+cadas,LBN51097,El Krahne - الكراهنة,LBD0001
+cadas,LBN51098,El Kroum - الكروم,LBD0001
+cadas,LBN21038,El Laouze - اللوزة,LBD0004
+cadas,LBN36080,El Loueize - لويزة نقاش,LBD0012
+cadas,LBN320037,El Maadan - المعادن,LBD0003
+cadas,LBN35070,El Maaden - معادن,LBD0018
+cadas,LBN21039,El Maalqa - معلقة الجديدة,LBD0004
+cadas,LBN36081,El Machrah - مشرح,LBD0012
+cadas,LBN61025,El Mahmoudiye - محمودية,LBD0021
+cadas,LBN51100,El Majdal el Aamayer - المجدل العماير,LBD0001
+cadas,LBN51101,El Majdel Akkar - المجدل عكار,LBD0001
+cadas,LBN42013,El Majidiye - مجيدية حاصبيا,LBD0015
+cadas,LBN11019,El Majidiye Beirut - مجيدية (بيروت),LBD0006
+cadas,LBN56024,El Maloula - الملولة,LBD0023
+cadas,LBN11020,El Manara - منارة,LBD0006
+cadas,LBN36082,El Manazil - منازل,LBD0012
+cadas,LBN24013,El Marj - المرج,LBD0024
+cadas,LBN34080,El Marj Lassa - مرج لاسا,LBD0016
+cadas,LBN35071,El Marji - مرج,LBD0018
+cadas,LBN21040,El Marmagha - مرماغا,LBD0004
+cadas,LBN320038,El Marmah - مرمح,LBD0003
+cadas,LBN35072,El Massiaf - مصيف,LBD0018
+cadas,LBN51104,El Mbar kiye - المباركية,LBD0001
+cadas,LBN320039,El Mdaoura - مدورا,LBD0003
+cadas,LBN22024,El Mdawesh - مداوش,LBD0010
+cadas,LBN55044,El Medine ej jdide - مدينة الجديدة,LBD0013
+cadas,LBN33078,El Meghraiqa - مغريقا,LBD0008
+cadas,LBN51106,El Melkiye - الملكي,LBD0001
+cadas,LBN44015,El Midane - الميدان,LBD0014
+cadas,LBN52049,El Midane Kfifane - ميدان كفيفان,LBD0009
+cadas,LBN56002,El Mina - المينا,LBD0023
+cadas,LBN55045,El Minie - المنيه,LBD0013
+cadas,LBN51108,El Mqaiteaa - المقيطع,LBD0001
+cadas,LBN33079,El Msayed - المصايد,LBD0008
+cadas,LBN62033,El Msous - مصوص,LBD0017
+cadas,LBN34082,El Mtolle - مطله جبيل,LBD0016
+cadas,LBN22025,El Ouaqf - الوقف,LBD0010
+cadas,LBN63045,El Ouardani - ورداني,LBD0022
+cadas,LBN31058,El Ouata - الوطا,LBD0002
+cadas,LBN320040,El Ouzaai - اوزاعي,LBD0003
+cadas,LBN34083,El Owaynate - عوينات,LBD0016
+cadas,LBN21135,El Qaa - القاع,LBD0004
+cadas,LBN62034,El Qabaa - قبع,LBD0017
+cadas,LBN52051,El Qabaah - قبع كفيفان,LBD0009
+cadas,LBN35073,El Qacha - قشا,LBD0018
+cadas,LBN57032,El Qadriye - قادريه,LBD0026
+cadas,LBN36084,El Qalaa - قلعة,LBD0012
+cadas,LBN36083,El Qalaa Sin el fil - قلعة سن الفيل,LBD0012
+cadas,LBN51109,El Qantara - القنطرة,LBD0001
+cadas,LBN35074,El Qarqouf - قرقوف,LBD0018
+cadas,LBN33081,El Qateaa - قتيعا,LBD0008
+cadas,LBN51110,El Qatlabe - القبيات القطلبه,LBD0001
+cadas,LBN21041,El Qerrami - قرامي,LBD0004
+cadas,LBN51111,El Qlaiaat - القليعات,LBD0001
+cadas,LBN51112,El Qorne - القرنة,LBD0001
+cadas,LBN22026,El Qraita - قريتي,LBD0010
+cadas,LBN51114,El Qsair - القصير,LBD0001
+cadas,LBN51117,El Rama - الرامه,LBD0001
+cadas,LBN11021,El Wata - الوطى,LBD0006
+cadas,LBN11026,El Zarif - ظريف,LBD0006
+cadas,LBN34076,El-Harf - حرف قرطبون,LBD0016
+cadas,LBN36085,En Naas - نعص,LBD0012
+cadas,LBN36086,En Nabaa - النبعه,LBD0012
+cadas,LBN51115,En Nabi Khaled - النبي خالد,LBD0001
+cadas,LBN55048,En Nabi Kzaiber - النبي كزيبر,LBD0013
+cadas,LBN23016,En Nabi Safa - نبي صفا,LBD0020
+cadas,LBN55049,En Nabi Youchaa - النبي يوشع,LBD0013
+cadas,LBN52052,En Nahriye - نهريه,LBD0009
+cadas,LBN54030,En Nakhle - نخلة,LBD0011
+cadas,LBN31059,En Njassa - النجاصة,LBD0002
+cadas,LBN21042,En Nouqra - نقرة,LBD0004
+cadas,LBN54031,Enfe - أنفه,LBD0011
+cadas,LBN36087,Er Rabie - رابيه,LBD0012
+cadas,LBN63046,Er Rafid - الرافد,LBD0022
+cadas,LBN25020,Er Ramtaniye - الرمطانية,LBD0025
+cadas,LBN51118,Er Ransiye - الرانسية,LBD0001
+cadas,LBN36088,Er Raouda - روضة,LBD0012
+cadas,LBN320041,Er Rihaniye - ريحانية,LBD0003
+cadas,LBN55051,Er Rihaniye El Minieh - ريحانيه  المنيه,LBD0013
+cadas,LBN57033,Er Rmaile - رميله أرده,LBD0026
+cadas,LBN51121,Er Rouaime - الرويمة,LBD0001
+cadas,LBN320105,Er Rouais - الرويس,LBD0003
+cadas,LBN36089,Er Rouaisse - رويسة برمانا,LBD0012
+cadas,LBN61026,Er Rouayess - روايس,LBD0021
+cadas,LBN34186,Ernaya - ارنايا,LBD0016
+cadas,LBN35075,Es Salhiye Bezhel - صالحية بزحل,LBD0018
+cadas,LBN34085,Es Saqi - سقي,LBD0016
+cadas,LBN34086,Es Sare - سار,LBD0016
+cadas,LBN51340,Es Sayeh - السايح,LBD0001
+cadas,LBN44016,Es Serail - السراي,LBD0014
+cadas,LBN320042,Es Sheime - الشيمة,LBD0003
+cadas,LBN35076,Es Shoum Kfar Debiane - شوم كفر ذبيان,LBD0018
+cadas,LBN31060,Es Shwayfate - الشويفات,LBD0002
+cadas,LBN35077,Es Slayekh - السلايخ,LBD0018
+cadas,LBN55053,Es Snoubar - صنوبر,LBD0013
+cadas,LBN22027,Es Souaidiye - سويدية,LBD0010
+cadas,LBN51126,Es Souaisse - السويسة,LBD0001
+cadas,LBN35078,Es Souhoum - سوحوم الغينة,LBD0018
+cadas,LBN25021,Es Sraij - سريج,LBD0025
+cadas,LBN35079,Esh Shahoute - الشاحوط,LBD0018
+cadas,LBN33177,Eskandarouna - إسكندرونة,LBD0008
+cadas,LBN33082,Et Taamir - تعمير,LBD0008
+cadas,LBN36090,Et Tabche - طبشة,LBD0012
+cadas,LBN320043,Et Tahouita - التحويطة,LBD0003
+cadas,LBN57034,Et Talle - تلة زغرتا,LBD0026
+cadas,LBN35080,Et Tarouaa - التروع,LBD0018
+cadas,LBN35081,Ez Zaaytriye - زعيترية,LBD0018
+cadas,LBN61027,Ez Zahrani - الزهراني,LBD0021
+cadas,LBN320044,Ez Zire - زيره,LBD0003
+cadas,LBN51129,Ez Zouq - الذوق,LBD0001
+cadas,LBN22028,Faara - فعرا,LBD0010
+cadas,LBN52053,Fadaous - فدعوس,LBD0009
+cadas,LBN35082,Faitroun - فيطرون,LBD0018
+cadas,LBN320045,Faiyadiye - فياضية,LBD0003
+cadas,LBN21043,Fakehe - فاكهة,LBD0004
+cadas,LBN320046,Falougha - فالوغا,LBD0003
+cadas,LBN36091,Fanar - الفنار,LBD0012
+cadas,LBN36092,Fanar ej Jdid - فنار الجديدة,LBD0012
+cadas,LBN35083,Fanyoun - فنيوان,LBD0018
+cadas,LBN36093,Faouar - فوار,LBD0012
+cadas,LBN36094,Faouar el meten - فوار المتن,LBD0012
+cadas,LBN33083,Faouarat Jaafar - فوارة جعفر,LBD0008
+cadas,LBN35084,Faqra - فقرا,LBD0018
+cadas,LBN35085,Faraiya - فاريا,LBD0018
+cadas,LBN51285,Fard - الفرض,LBD0001
+cadas,LBN42014,Fardis - الفرديس,LBD0015
+cadas,LBN42015,Fashkoul - فشكول,LBD0015
+cadas,LBN35086,Fatqa - فتقا,LBD0018
+cadas,LBN34087,Fatre - فتري,LBD0016
+cadas,LBN52054,Fehta - فحتا,LBD0009
+cadas,LBN34088,Ferhet - فرحت,LBD0016
+cadas,LBN34089,Fghal - فغال,LBD0016
+cadas,LBN54032,Fiaa - فيع,LBD0011
+cadas,LBN34090,Fidar - الفيدار,LBD0016
+cadas,LBN34091,Fidar el Faouqa - فدار الفوقا,LBD0016
+cadas,LBN34092,Fidar Et Tahta - فدار التحتا,LBD0016
+cadas,LBN22029,Fissane - فيسان,LBD0010
+cadas,LBN21044,Flaoui - فلاوي,LBD0004
+cadas,LBN51130,Fnaideq - فنيدق,LBD0001
+cadas,LBN11027,Fourn el Hayek - فرن الحايك,LBD0006
+cadas,LBN25022,Fourzol - فرزل,LBD0025
+cadas,LBN56022,Fouwar zgharta - فوار زغرتا,LBD0026
+cadas,LBN57035,Fradis - الفراديس,LBD0026
+cadas,LBN33084,Fraidiss - فريديس الشوف,LBD0008
+cadas,LBN36095,Fraike - فريكه,LBD0012
+cadas,LBN34093,Frat - فرات,LBD0016
+cadas,LBN21045,Freij - فريج,LBD0004
+cadas,LBN41018,Froun - فرون,LBD0007
+cadas,LBN320047,Fsakin - فساقين ترشيش,LBD0003
+cadas,LBN31116,Fsaqine - فساقين,LBD0002
+cadas,LBN51131,Fsiqine et Ain Echma - فسقين و عين اشما,LBD0001
+cadas,LBN35087,Ftah Ech Chouha - فتاح الشوحا,LBD0018
+cadas,LBN52055,Ftahat - فتاحات,LBD0009
+cadas,LBN35088,Ftahate - فتاحات جورة الترمس,LBD0018
+cadas,LBN320048,Furn ech Chebak - فرن الشباك,LBD0003
+cadas,LBN11066,Gemmayze - جميزة,LBD0006
+cadas,LBN34094,Ghabate - غابات,LBD0016
+cadas,LBN36096,Ghabe - غابة المسقى,LBD0012
+cadas,LBN36097,Ghabet Bolonia - غابة بولونيا,LBD0012
+cadas,LBN33085,Ghabet Jaafar - غابة جعفر,LBD0008
+cadas,LBN34095,Ghabline - غبالين,LBD0016
+cadas,LBN31061,Ghaboun - الغابون,LBD0002
+cadas,LBN31062,Ghadir - غادير,LBD0002
+cadas,LBN35089,Ghadir jounieh - غادير جونيه,LBD0018
+cadas,LBN35090,Ghadras - غدراس,LBD0018
+cadas,LBN34096,Ghalboun - غلبون,LBD0016
+cadas,LBN33086,Ghandouriye - غندورية,LBD0008
+cadas,LBN41019,Ghandouriye Bent Jbeil - غندورية بنت جبيل,LBD0007
+cadas,LBN34097,Gharfine - غرفين,LBD0016
+cadas,LBN33087,Gharife - غريفة,LBD0008
+cadas,LBN36098,Gharouch - غاروش,LBD0012
+cadas,LBN34098,Gharzouz - غرزوز,LBD0016
+cadas,LBN61028,Ghassaniye - غسانية,LBD0021
+cadas,LBN35091,Ghazir - غزير,LBD0018
+cadas,LBN61029,Ghaziye - غازية,LBD0021
+cadas,LBN24015,Ghazze - غزة,LBD0024
+cadas,LBN35092,Ghbale - غبالة,LBD0018
+cadas,LBN62035,Ghbatiye - غبَاطية,LBD0017
+cadas,LBN35093,Ghine - غينة,LBD0018
+cadas,LBN320049,Ghobeire - غبيري,LBD0003
+cadas,LBN35094,Ghoshraiya - غيشرايه,LBD0018
+cadas,LBN35095,Ghosta - غوسطا,LBD0018
+cadas,LBN52056,Ghouma - غوما,LBD0009
+cadas,LBN51132,Ghzaile - الغزيله,LBD0001
+cadas,LBN11028,Grand Serail - سراي الكبير,LBD0006
+cadas,LBN61030,Hababiye - حبابية,LBD0021
+cadas,LBN34099,Habboub - حبوب,LBD0016
+cadas,LBN44017,Habbouch - حبوش,LBD0014
+cadas,LBN51133,Habchit - حبشيت,LBD0001
+cadas,LBN34100,Habil - هابيل,LBD0016
+cadas,LBN31063,Habramoun - حبرمون,LBD0002
+cadas,LBN53015,Hadchit - حدشيت,LBD0005
+cadas,LBN41020,Haddatha - حداثا,LBD0007
+cadas,LBN320050,Hadet - حدث,LBD0003
+cadas,LBN53016,Hadet Ej jebbe - حدث الجبه,LBD0005
+cadas,LBN21046,Hadath Baalbek - حدث بعلبك,LBD0004
+cadas,LBN56004,Hadid - الحديد,LBD0023
+cadas,LBN52057,Hadtoun - حدتون,LBD0009
+cadas,LBN33088,Haffet el Hajal - حافة الحجل,LBD0008
+cadas,LBN52058,Hai el Birke - حي البركة,LBD0009
+cadas,LBN21047,Hai el Mathane - حي المطحنة,LBD0004
+cadas,LBN62036,Haidab - حيداب,LBD0017
+cadas,LBN51286,Haider - حيدر,LBD0001
+cadas,LBN51134,Haitla - هيتلا,LBD0001
+cadas,LBN62037,Haitoule - حيتوله,LBD0017
+cadas,LBN62038,Haitoura - حيطورة,LBD0017
+cadas,LBN51135,Haizouq - حيزوق,LBD0001
+cadas,LBN61031,Hajje - حجة,LBD0021
+cadas,LBN35096,Hakl Er Raiyess - حقل الريس,LBD0018
+cadas,LBN25024,Hakl Hammana - حقل حمانا,LBD0025
+cadas,LBN34101,Halat - حالات,LBD0016
+cadas,LBN51137,Halba - حلبا,LBD0001
+cadas,LBN21048,Halbata - حلباتا,LBD0004
+cadas,LBN33089,Halioune el Faouqa - حليونة الفوقا,LBD0008
+cadas,LBN33090,Halioune et Tahta - حليونة التحتا,LBD0008
+cadas,LBN63047,Hallousiyet el Faouqa - حلوسية الفوقا,LBD0022
+cadas,LBN63048,Halloussiye - حلوسية,LBD0022
+cadas,LBN23017,Haloua - حلوة,LBD0020
+cadas,LBN52059,Halta - حلتا,LBD0009
+cadas,LBN42016,Halta Hasbaya - حلتا حاصبيّا,LBD0015
+cadas,LBN21049,Ham - حام,LBD0004
+cadas,LBN35097,Hamassiyat - حماسيات,LBD0018
+cadas,LBN52060,Hamat - حامات,LBD0009
+cadas,LBN36099,Hamlaya - حملايا,LBD0012
+cadas,LBN63049,Hammadiye - حمَادية,LBD0022
+cadas,LBN320051,Hammana - حمانا,LBD0003
+cadas,LBN24030,Hammara - حمارة,LBD0024
+cadas,LBN63050,Hamoul - حامول,LBD0022
+cadas,LBN44018,Hamra  En-Nabattiyeh - الحمرا النبطية,LBD0014
+cadas,LBN33091,Hamra Ed Damour - حمرا الدامور,LBD0008
+cadas,LBN41021,Hanine - حنين,LBD0007
+cadas,LBN63051,Hannaouiye - حناوي,LBD0022
+cadas,LBN63052,Hanniye - حنية,LBD0022
+cadas,LBN52061,Hannouch - حنٌوش,LBD0009
+cadas,LBN51138,Haouch - حوش,LBD0001
+cadas,LBN21050,Haouch Barada - حوش بردى,LBD0004
+cadas,LBN21051,Haouch Ed Dahab - حوش الدهب,LBD0004
+cadas,LBN25025,Haouch ed Dibs - حوش الدبس,LBD0025
+cadas,LBN25026,Haouch el Mendara - حوش مندره,LBD0025
+cadas,LBN25027,Haouch el Oumara - زحلة حوش الامراء,LBD0025
+cadas,LBN23018,Haouch El Qinnabeh - حوش القنعبة,LBD0020
+cadas,LBN25028,Haouch el Sayade - حوش الصيادي,LBD0025
+cadas,LBN21052,Haouch En Nabi - حوش النبي,LBD0004
+cadas,LBN22030,Haouch Es Saiyad Aali - حوش السيد علي,LBD0010
+cadas,LBN25077,Haouch Moussa Anjar - حوش موسى عنجر,LBD0025
+cadas,LBN21053,Haouch Snaid - حوش سنيد,LBD0004
+cadas,LBN21054,Haouch Tall Safiye - حوش تل صفية,LBD0004
+cadas,LBN51139,Haouchab - هوشب,LBD0001
+cadas,LBN22031,Haouchariye - هوشرية,LBD0010
+cadas,LBN21056,Haouerte - حوارته,LBD0004
+cadas,LBN57036,Haouqa Et En Naher - حوقا النهر,LBD0026
+cadas,LBN21057,Haour Taala - حور تعلا,LBD0004
+cadas,LBN55054,Haoura - حوارة,LBD0013
+cadas,LBN34102,Haqel - حقل,LBD0016
+cadas,LBN55055,Haql El Aazime - حقل العزيمة,LBD0013
+cadas,LBN320052,Haql Hassan - حقل حسن,LBD0003
+cadas,LBN34103,Haqlet et Tine - حقلة التينة,LBD0016
+cadas,LBN55056,Haqlit - حقلة,LBD0013
+cadas,LBN34075,Hara Jbeil - حارة,LBD0016
+cadas,LBN21058,Harabta - حربتا,LBD0004
+cadas,LBN52062,Harbouna - حربونا,LBD0009
+cadas,LBN52063,Hardine - حردين,LBD0009
+cadas,LBN33092,Hardouch - حردوش,LBD0008
+cadas,LBN33093,Haret Aalmane - حارة علمان,LBD0008
+cadas,LBN57037,Haret al Fouwar - حارة الفوار,LBD0026
+cadas,LBN33094,Haret Baasir - حارة بعاصير,LBD0008
+cadas,LBN51140,Haret Beit Kessab - حارة بيت كساب,LBD0001
+cadas,LBN33095,Haret Beit Madi - حارة بيت ماضي,LBD0008
+cadas,LBN31064,Haret Chbib - حارة شبيب,LBD0002
+cadas,LBN51141,Haret ej Jdide - حارة الجديدة,LBD0001
+cadas,LBN51335,Haret ej Jdide Mqaiteaa - حارة الجديدة المقيطع,LBD0001
+cadas,LBN57038,Haret Ej Jdide Zgharta - حارة الجديدة زغرتا,LBD0026
+cadas,LBN57039,Haret el Baklik - حارة البكليك,LBD0026
+cadas,LBN62039,Haret el Bayder - حارة البيادر,LBD0017
+cadas,LBN36100,Haret el Bellane - حارة البلان,LBD0012
+cadas,LBN320053,Haret El Botm - حارة البطم,LBD0003
+cadas,LBN36101,Haret el Cheikh - حارة الشيخ,LBD0012
+cadas,LBN25023,Haret el Fikani - حارة الفيكاني,LBD0025
+cadas,LBN36102,Haret El Ghouarni - حارة الغوارني,LBD0012
+cadas,LBN23019,Haret el Kaouasbe - حارة الكواسبة,LBD0020
+cadas,LBN54033,Haret El KHASSEH - حارة الخسة,LBD0011
+cadas,LBN22032,Haret El Maasser - حارة المعاصر,LBD0010
+cadas,LBN31065,Haret el Mir - حارة المير,LBD0002
+cadas,LBN35098,Haret El Mir Zouk Mkayel - حارة المير ذوق مكايل,LBD0018
+cadas,LBN320054,Haret el Mjadle - حارة المجادلة,LBD0003
+cadas,LBN33096,Haret el Ouasta - حارة الواسطة,LBD0008
+cadas,LBN33097,Haret en Naame - حارة الناعمه,LBD0008
+cadas,LBN320055,Haret er Roum - حارة الروم,LBD0003
+cadas,LBN320056,Haret es Set - حارة الست,LBD0003
+cadas,LBN35099,Haret Halane - حارة حلان,LBD0018
+cadas,LBN320057,Haret Hamze - حارة حمزة,LBD0003
+cadas,LBN320058,Haret Hraik - حارة حريك,LBD0003
+cadas,LBN33098,Haret Jandal - حارة جندل,LBD0008
+cadas,LBN61032,Haret Saida - حارة صيدا,LBD0021
+cadas,LBN35100,Haret Sakher - حارة صخر,LBD0018
+cadas,LBN31066,Haret Salem - حارة سالم,LBD0002
+cadas,LBN62040,Harf - الحرف,LBD0017
+cadas,LBN55057,Harf es siyad - حرف السياد,LBD0013
+cadas,LBN57041,Harfe Arde - حرف أرده,LBD0026
+cadas,LBN21059,Harfouch - حرفوش,LBD0004
+cadas,LBN35183,Harharaya - هرهريا,LBD0018
+cadas,LBN24046,Harime es Soughra - حريمة الصغرى,LBD0024
+cadas,LBN57080,Hariq Zgharta - حريق زغرتا,LBD0026
+cadas,LBN35101,Hariqa - حريقة,LBD0018
+cadas,LBN35102,Hariqa Chahtoul - حريق شحتول,LBD0018
+cadas,LBN22033,Hariqa el hermel - حريقة الهرمل,LBD0010
+cadas,LBN41022,Hariss - حاريص,LBD0007
+cadas,LBN35103,Harissa - حريصا,LBD0018
+cadas,LBN52064,Harissa el batroun - حريصا البترون,LBD0009
+cadas,LBN44019,Harouf - حروف,LBD0014
+cadas,LBN34104,Harsha - هرشا,LBD0016
+cadas,LBN57042,Harsoun Ej Jdide - حصرون الجديدة,LBD0026
+cadas,LBN61033,Hartiye - حارتية,LBD0021
+cadas,LBN42017,Hasbaiya - حاصبيّا,LBD0015
+cadas,LBN320059,Hasbaiya el Metn - حاصبيّا المتن,LBD0003
+cadas,LBN53017,Hasroun - حصرون,LBD0005
+cadas,LBN33099,Hasrout - حصروت,LBD0008
+cadas,LBN62041,Hassaniye - حسانية,LBD0017
+cadas,LBN63053,Haumeiri - حميري,LBD0022
+cadas,LBN22034,Hawch Beit Ismail - حوش بيت اسماعيل,LBD0010
+cadas,LBN31067,Hay el Aarab - حي العرب,LBD0002
+cadas,LBN34105,Hay El Aarbe - حي العربي,LBD0016
+cadas,LBN34106,Hay El Baalbakiye - حي البعلبكية,LBD0016
+cadas,LBN41023,Hay el Jameaa - الجامع بنت جبيل,LBD0007
+cadas,LBN31068,Hay es Sellom - حي السلم,LBD0002
+cadas,LBN31069,Hay es Sindiane - حي السنديانة,LBD0002
+cadas,LBN35104,Hayata - حياطة,LBD0018
+cadas,LBN25029,Hazerta - حزرتا,LBD0025
+cadas,LBN320060,Hazmiye - حازمية,LBD0003
+cadas,LBN52065,Hazrita - حزريتا,LBD0009
+cadas,LBN34107,Hbalin - حبالين,LBD0016
+cadas,LBN36103,Hbous - حبوس,LBD0012
+cadas,LBN56005,Hdadine - الحدادين,LBD0023
+cadas,LBN42018,Hebbariye - هبّارية,LBD0015
+cadas,LBN25030,Hechmech - حشمش,LBD0025
+cadas,LBN34108,Hedayne - هدينة,LBD0016
+cadas,LBN51142,Hedd - الهد,LBD0001
+cadas,LBN34109,Heloue - حلوة,LBD0016
+cadas,LBN22035,Hermel - هرمل,LBD0010
+cadas,LBN22088,Hermel Jbab - هرمل جباب,LBD0010
+cadas,LBN21060,Hfayer - حفاير,LBD0004
+cadas,LBN51143,Hikr Janine - حكر جنين,LBD0001
+cadas,LBN35105,Hilane - حلان,LBD0018
+cadas,LBN57043,Hilane zgharta - حيلان زغرتا,LBD0026
+cadas,LBN44020,Hima Aarnoun - حمى أرنون,LBD0014
+cadas,LBN34219,Hima Er Rehbane - حمى الرهبان,LBD0016
+cadas,LBN34218,Hima Mar Maroun Aannaya - حمى مار مارون عنَايا,LBD0016
+cadas,LBN51289,Hissa - حيصا,LBD0001
+cadas,LBN21061,Hizzine - حزين,LBD0004
+cadas,LBN33100,Hjaijiye - حجاجية,LBD0008
+cadas,LBN34110,Hjoula - حجولا,LBD0016
+cadas,LBN320061,Hlaliye - هلالية,LBD0003
+cadas,LBN61034,Hlaliye Saida - هلالية صيدا,LBD0021
+cadas,LBN44021,Hmaile - حميلة,LBD0014
+cadas,LBN22036,Hmaire - حميرة,LBD0010
+cadas,LBN51087,Hmaireh Aakkar - الحميرة,LBD0001
+cadas,LBN51144,Hmais - حميص,LBD0001
+cadas,LBN57044,Hmais zgharta - حميص,LBD0026
+cadas,LBN51145,Hnaider - حنيدر,LBD0001
+cadas,LBN51146,Hokr ech Cheikh Taba - حكر الشيخ طابا,LBD0001
+cadas,LBN51147,Hokr ed Dahri - حكر الضاهري,LBD0001
+cadas,LBN51148,Hokr el Kousse - حكر الكوسا,LBD0001
+cadas,LBN51149,Hokr El Mahmoudiye - حكر المحمودية,LBD0001
+cadas,LBN51150,Hokr Etti - حكر قتة,LBD0001
+cadas,LBN51151,Hokr Jouret Srar - حكر جورة سرار,LBD0001
+cadas,LBN31117,Homs Oua Hama -  حمص وحمى,LBD0002
+cadas,LBN62042,Homsiye - حمصية,LBD0017
+cadas,LBN36104,Horch Tabet - حرش تابت,LBD0012
+cadas,LBN34111,Hosn Aar - حصن العر,LBD0016
+cadas,LBN21062,Hosn ech Chadoura - حصن الشادورا,LBD0004
+cadas,LBN34112,Hosna - حصنا,LBD0016
+cadas,LBN34113,Hosrayel - حصرايل,LBD0016
+cadas,LBN11029,Hotel Dieu - اوتيل ديو,LBD0006
+cadas,LBN24016,Haouch Aammiq - حوش عميق,LBD0024
+cadas,LBN24017,Haouch el Harime - حوش الحريمة,LBD0024
+cadas,LBN25031,Haouch El-Ghanam - حوش الغنم,LBD0025
+cadas,LBN21063,Haouch Er Rafqa - حوش الرافقة,LBD0004
+cadas,LBN24018,Haouch es Saalouk - حوش السعلوك,LBD0024
+cadas,LBN25032,Haouch ez Zaraane - حوش الزراعنة,LBD0025
+cadas,LBN25033,Haouch Hala - حوش حالا,LBD0025
+cadas,LBN43016,Houla - حولا,LBD0019
+cadas,LBN31070,Houmal - حومال,LBD0002
+cadas,LBN44022,Houmine el Faouqa - حومين الفوقا,LBD0014
+cadas,LBN44023,Houmine et Tahta - حومين التحتا,LBD0014
+cadas,LBN43017,Houra - حوره,LBD0019
+cadas,LBN34114,Hourata - حوراتا,LBD0016
+cadas,LBN52066,Hourata el batroun - حوراتا البترون,LBD0009
+cadas,LBN35107,Hrajel - حراجل,LBD0018
+cadas,LBN51152,Hrar - حرار,LBD0001
+cadas,LBN52067,Hrayek - حرايق,LBD0009
+cadas,LBN57045,Hraykess - حريقص,LBD0026
+cadas,LBN34115,Hrazmin - حرازمين,LBD0016
+cadas,LBN34116,Hsarat - حصارات,LBD0016
+cadas,LBN35106,Hsayn - حصين,LBD0018
+cadas,LBN57060,IAAL - إيعال,LBD0026
+cadas,LBN21064,Iaat - ايعات,LBD0004
+cadas,LBN43015,Ibl es Saqi - إبل السقي,LBD0019
+cadas,LBN51153,Idbil - عدبل,LBD0001
+cadas,LBN31071,Ighmid - اغميد,LBD0002
+cadas,LBN52068,Ijdabra - اجدبرا,LBD0009
+cadas,LBN54034,Ijdabrine - اجدعبرين,LBD0011
+cadas,LBN51154,Ilat - ايلات,LBD0001
+cadas,LBN44024,Insar - إنصار,LBD0014
+cadas,LBN61035,Insariye - إنصارية,LBD0021
+cadas,LBN63054,Iskandarouna Sour - إسكندرونة,LBD0022
+cadas,LBN55058,Izal - إيزال,LBD0013
+cadas,LBN21065,Jabaa - جبعا,LBD0004
+cadas,LBN21066,Jabal Ech Chaaibe - جبل الشعيبة,LBD0004
+cadas,LBN31072,Jabal El Aarid - جبل العريض,LBD0002
+cadas,LBN62115,Jabal Toura - جبل طوره,LBD0017
+cadas,LBN21067,Jabboule - جبولة,LBD0004
+cadas,LBN33101,Jadra - جدرا,LBD0008
+cadas,LBN33102,Jahliye - جاهلية,LBD0008
+cadas,LBN55059,Jairoun - جيرون,LBD0013
+cadas,LBN34118,Jaj - جاج,LBD0016
+cadas,LBN33103,Jall Bou Haidar - جل بو حيدر,LBD0008
+cadas,LBN36106,Jall Ed Dib - جل الديب,LBD0012
+cadas,LBN62044,Jall Nachi - جل ناشي,LBD0017
+cadas,LBN33104,Jamailiye - جميلية,LBD0008
+cadas,LBN320062,Jamhour - جمهور,LBD0003
+cadas,LBN11071,Jamia - الجامعة,LBD0006
+cadas,LBN51155,Janine - جنين,LBD0001
+cadas,LBN63055,Jannata - جناتا,LBD0022
+cadas,LBN34119,Janne - جنة,LBD0016
+cadas,LBN21068,Janta - جنتا,LBD0004
+cadas,LBN44025,Jaouhariye - جوهرية,LBD0014
+cadas,LBN44026,Jarjouaa - جرجوع,LBD0014
+cadas,LBN55060,Jarjour - جرجور,LBD0013
+cadas,LBN62045,Jarmaq - الجرمق,LBD0017
+cadas,LBN22037,Jawz - جوز,LBD0010
+cadas,LBN61037,Jazira Saida - جزيرة صيدا,LBD0021
+cadas,LBN33105,Jbaa - جباع,LBD0008
+cadas,LBN44027,Jbaa El Nabatieh - جباع النبطية,LBD0014
+cadas,LBN34120,Jbeil - جبيل,LBD0016
+cadas,LBN63056,Jbal el Botm - جبال البطم,LBD0022
+cadas,LBN61038,Jdaide Arzai - جديدة  أرزي,LBD0021
+cadas,LBN33106,Jdaide chouf - جديدة الشوف,LBD0008
+cadas,LBN36107,Jdaide el Meten - جديدة المتن,LBD0012
+cadas,LBN21069,Jdaide Fekehe - جديدة الفاكهة,LBD0004
+cadas,LBN51070,Jdaidet Ej Joumeh - جديدة الجومه,LBD0001
+cadas,LBN62046,Jdaidet el Ouadi - الجديدة وادي جزين,LBD0017
+cadas,LBN35108,Jdaidet Ghazir - جديدة غزير,LBD0018
+cadas,LBN34121,Jdayel - جدايل,LBD0016
+cadas,LBN51156,Jdeide - جديدة,LBD0001
+cadas,LBN57046,Jdeide zgharta - الجديدة زغرتا,LBD0026
+cadas,LBN54035,Jdeideh Berkacha - جديدة برقاشا,LBD0011
+cadas,LBN51157,Jdeidet El Qaitaa - جديدة القيطع,LBD0001
+cadas,LBN25034,Jdita - جديتا,LBD0025
+cadas,LBN33107,Je'ayel - جعايل,LBD0008
+cadas,LBN23020,Jebb Farah - جب فرح,LBD0020
+cadas,LBN63057,Jebbain - جبين,LBD0022
+cadas,LBN51158,Jebrayel - جبرائيل,LBD0001
+cadas,LBN34122,Jengel - جونجل,LBD0016
+cadas,LBN62047,Jensnaya - جنسنايا,LBD0017
+cadas,LBN62048,Jernaya - جرنايا,LBD0017
+cadas,LBN56006,Jessrine - جسرين,LBD0023
+cadas,LBN62049,Jezzine - جزين,LBD0017
+cadas,LBN44028,Jibchit - جبشيت,LBD0014
+cadas,LBN52069,Jibla - جبلا,LBD0009
+cadas,LBN33108,Jiblaye - جبلايا,LBD0008
+cadas,LBN51159,Jichet Aali Houssein - جيشة علي حسين,LBD0001
+cadas,LBN63058,Jijim - ججيم,LBD0022
+cadas,LBN61039,Jinjlaya - جنجلاية,LBD0021
+cadas,LBN11072,Jisr - جسر,LBD0006
+cadas,LBN22038,Jisr el Aassi - جسر العاصي,LBD0010
+cadas,LBN36108,Jisr El Bacha - جسر الباشا,LBD0012
+cadas,LBN31073,Jisr el Qadi - جسر القاضي,LBD0002
+cadas,LBN35109,Jitta - جعيتا,LBD0018
+cadas,LBN33109,Jiye - جية,LBD0008
+cadas,LBN33110,Jlailiye - جليلية,LBD0008
+cadas,LBN34123,Jlaisse - جليسه,LBD0016
+cadas,LBN25035,Jlala - جلالا,LBD0025
+cadas,LBN43018,Jlali el Ghozlane - جلال الغزلان,LBD0019
+cadas,LBN41024,Jmaijime - جميجمة,LBD0007
+cadas,LBN320063,Jnah - جناح,LBD0003
+cadas,LBN63059,Jouaiya - جويا,LBD0022
+cadas,LBN36109,Jouar - جوار المتن,LBD0012
+cadas,LBN35110,Jouar El Baouechiq - جوار البواشق,LBD0018
+cadas,LBN22039,Jouar El Hachich - جوار الحشيش,LBD0010
+cadas,LBN35115,Jouar El Hachich chahtoul - جوار الحشيش شحتول,LBD0018
+cadas,LBN320064,Jouar el Haouz - جوار الحوز,LBD0003
+cadas,LBN24020,Joub Jannine - جب جنين,LBD0024
+cadas,LBN21070,Joubaniyeh - جوبانية,LBD0004
+cadas,LBN33111,Joun - جون,LBD0008
+cadas,LBN11030,Jounblat - جنبلاط,LBD0006
+cadas,LBN52070,Joundi - جندي,LBD0009
+cadas,LBN35111,Jounieh - جونيه,LBD0018
+cadas,LBN35112,Jounieh Kaslik - جونيه كسليك,LBD0018
+cadas,LBN63060,Jour en Nakhl - جوار النخل,LBD0022
+cadas,LBN320065,Jouret Arsoun - جورة ارصون,LBD0003
+cadas,LBN35113,Jouret Bedrane - جورة بدران,LBD0018
+cadas,LBN35114,Jouret Ed Dardour - جورة الدردور,LBD0018
+cadas,LBN36110,Jouret El Ballout - جورة البلوط,LBD0012
+cadas,LBN22040,Jouret el Mzar - جورة المزار,LBD0010
+cadas,LBN34124,Jouret El Qattine - جورة القطين,LBD0016
+cadas,LBN35116,Jouret Et Tormoss - جورة الترمس,LBD0018
+cadas,LBN35117,Jouret Mghad - جورة مهاد,LBD0018
+cadas,LBN51292,Jouret Srar - جورة سرار,LBD0001
+cadas,LBN52071,Jrane - جران,LBD0009
+cadas,LBN52073,Jrebta - جربتا,LBD0009
+cadas,LBN34125,Jrebta Jbeil - جربتا جبيل,LBD0016
+cadas,LBN57047,Kaabouch - كبوش,LBD0026
+cadas,LBN57048,Kafar Zeina - كفر زينا,LBD0026
+cadas,LBN34126,Kafr - كفر,LBD0016
+cadas,LBN51020,Kafr El Ftouh - كفر الفتوح,LBD0001
+cadas,LBN44029,Kafra - كفرا,LBD0014
+cadas,LBN41025,Kafra Bent Jbeil - كفرا بنت جبيل,LBD0007
+cadas,LBN36111,Kafra El Meten - كفرا المتن,LBD0012
+cadas,LBN61040,Kafraiya - كفريا,LBD0021
+cadas,LBN24021,Kafraiya West Bekaa - كفريا بقاع الغربي,LBD0024
+cadas,LBN57049,Kafraiya zgharta - كفريا زغرتا,LBD0026
+cadas,LBN51338,Kafroun - كفرون,LBD0001
+cadas,LBN54036,Kaftoun - كفتون,LBD0011
+cadas,LBN31074,Kahale - الكحاله,LBD0002
+cadas,LBN55061,Kahf El - Malloul - كفَ الملول,LBD0013
+cadas,LBN320066,Kahlouniye - كحلونية,LBD0003
+cadas,LBN33112,Kahlouniye chouf - كحلونية الشوف,LBD0008
+cadas,LBN31075,Kaifoun - كيفون,LBD0002
+cadas,LBN51341,Kalkha - كلخا,LBD0001
+cadas,LBN24022,Kamed el Laouz - كامد اللوز,LBD0024
+cadas,LBN52074,Kandoula - قندولا,LBD0009
+cadas,LBN23021,Kaoukaba - كوكبا,LBD0020
+cadas,LBN42019,Kaoukaba Hasbaya - كوكبا حاصبيّا,LBD0015
+cadas,LBN61041,Kaouthariyet es Siyad - كوثرية السياد,LBD0021
+cadas,LBN25036,Karak Nouh - كرك نوح,LBD0025
+cadas,LBN57051,Karbribe - كربريب,LBD0026
+cadas,LBN62050,Karkha - كرخا,LBD0017
+cadas,LBN55062,Karm El - Mohr - كرم المهر,LBD0013
+cadas,LBN51160,Karm el Aasfour - كرم عصفور,LBD0001
+cadas,LBN55063,Karm El Akhras - كرم الاخرس,LBD0013
+cadas,LBN57052,Karm Sadde - كرم سده,LBD0026
+cadas,LBN51161,Karm Zebdine - كرم زبدين,LBD0001
+cadas,LBN51294,Kawashra - الكواشرة,LBD0001
+cadas,LBN54042,Kefraiya - كفريا الكورة,LBD0011
+cadas,LBN54043,KELBATA - كلباتا,LBD0011
+cadas,LBN34127,Kelesh - كلش,LBD0016
+cadas,LBN33113,Ketermaya - كترمايا,LBD0008
+cadas,LBN42020,Kfair - كفير الزيت,LBD0015
+cadas,LBN52075,Kfar Aabida - كفر عبيدا,LBD0009
+cadas,LBN31076,Kfar Aamaiy - كفرعميه,LBD0002
+cadas,LBN36112,Kfar Aaqab - كفرعقاب,LBD0012
+cadas,LBN54037,Kfar Aaqqa - كفر عقا,LBD0011
+cadas,LBN61042,Kfar Badde - كفر بدَه,LBD0021
+cadas,LBN55065,Kfar Bebnine - كفر ببنين,LBD0013
+cadas,LBN61043,Kfar Beit - كفربيت,LBD0021
+cadas,LBN34129,Kfar Chakha - كفر شخي,LBD0016
+cadas,LBN57053,Kfar Chakhna - كفر شخنا,LBD0026
+cadas,LBN61044,Kfar Chellal - كفر شلال,LBD0021
+cadas,LBN55066,Kfar Chillane - كفر شلان,LBD0013
+cadas,LBN34130,Kfar Chilli - كفر شلي,LBD0016
+cadas,LBN52076,Kfar Chlaimane - كفر شليمان,LBD0009
+cadas,LBN42021,Kfar Chouba - كفر شوبا,LBD0015
+cadas,LBN21071,Kfar Dabach - كفر دبش,LBD0004
+cadas,LBN44030,Kfar Dajjal - كفردجال,LBD0014
+cadas,LBN21072,Kfar Dane - كفر دان,LBD0004
+cadas,LBN23022,Kfar Danis - كفر دنيس,LBD0020
+cadas,LBN57054,Kfar Dlaqous - كفردلاقوس,LBD0026
+cadas,LBN41026,Kfar Dounine - كفر دونين,LBD0007
+cadas,LBN62051,Kfar Falous - كفرفالوس,LBD0017
+cadas,LBN33114,Kfar Faqoud - كفرفاقود,LBD0008
+cadas,LBN44031,Kfar Fila - كفرفيلا,LBD0014
+cadas,LBN57055,Kfar Fou - كفر فو,LBD0026
+cadas,LBN55067,Kfar Habou - كفر حبو,LBD0013
+cadas,LBN33115,Kfar Hai - كفر حي,LBD0008
+cadas,LBN33116,Kfar Hamal - كفر حمل,LBD0008
+cadas,LBN42022,Kfar Hamam - كفرحمام,LBD0015
+cadas,LBN57057,Kfar Haoura - كفر حورا,LBD0026
+cadas,LBN51162,Kfar Harra - كفرحره,LBD0001
+cadas,LBN54038,Kfar Hata - كفرحاتا,LBD0011
+cadas,LBN57056,Kfar Hata - كفر حاتا,LBD0026
+cadas,LBN52077,Kfar Hatna - كفرحتنا,LBD0009
+cadas,LBN61045,Kfar Hatta - كفرحتى,LBD0021
+cadas,LBN52078,Kfar Hay - كفرحي,LBD0009
+cadas,LBN54039,Kfar Hazir - كفرحزير,LBD0011
+cadas,LBN35118,Kfar Hbab - كفرحباب,LBD0018
+cadas,LBN52079,Kfar Helda - كفر حلدا,LBD0009
+cadas,LBN33117,Kfar Him - كفرحيم,LBD0008
+cadas,LBN34131,Kfar Hitta - كفر حتى,LBD0016
+cadas,LBN62052,Kfar Houne - كفرحون,LBD0017
+cadas,LBN62053,Kfar Jarra - كفرجرا,LBD0017
+cadas,LBN35119,Kfar Jrif - كفر جريف,LBD0018
+cadas,LBN34132,Kfar Kahli - كفر كخلة,LBD0016
+cadas,LBN34133,Kfar Kidda - كفر كده,LBD0016
+cadas,LBN43019,Kfar Kila - كفركيلا,LBD0019
+cadas,LBN34134,Kfar Mashoun - كفر مسحون,LBD0016
+cadas,LBN31077,Kfar Matta - كفرمتى,LBD0002
+cadas,LBN23023,Kfar Mechki - كفر مشكي,LBD0020
+cadas,LBN51163,Kfar Melki - كفرملكي,LBD0001
+cadas,LBN61046,Kfar Melki Saida - كفرملكي صيدا,LBD0021
+cadas,LBN33118,Kfar Nabrakh - كفرنبرخ,LBD0008
+cadas,LBN33119,Kfar Niss - كفرنيس,LBD0008
+cadas,LBN51164,Kfar Noun - كفرنون,LBD0001
+cadas,LBN54040,Kfar Qahel - كفرقاهل,LBD0011
+cadas,LBN34135,Kfar Qaouass - كفر قواص,LBD0016
+cadas,LBN33120,Kfar Qatra - كفرقطرة,LBD0008
+cadas,LBN23024,Kfar Qouq - كفرقوق,LBD0020
+cadas,LBN44032,Kfar Roummane - كفر رمان,LBD0014
+cadas,LBN34136,Kfar Sal - كفر سالا,LBD0016
+cadas,LBN54041,Kfar Saroun - كفرصارون,LBD0011
+cadas,LBN53018,Kfar Saroun dimane - كفر صارون الديمان,LBD0005
+cadas,LBN320067,Kfar Selouane - كفرسلوان,LBD0003
+cadas,LBN57074,Kfar Sghab - كفر صغاب,LBD0026
+cadas,LBN34137,Kfar Shabbouh - كفر شبوح,LBD0016
+cadas,LBN44033,Kfar Sir - كفرصير,LBD0014
+cadas,LBN62054,Kfar Taala - كفرتعلا,LBD0017
+cadas,LBN44034,Kfar Tebnit - كفر تبنيت,LBD0014
+cadas,LBN57059,Kfar Yachit - كفر ياشيت,LBD0026
+cadas,LBN25037,Kfar Zabad - كفر زبد,LBD0025
+cadas,LBN34138,Kfar Zbouna - كفرزبونا,LBD0016
+cadas,LBN34128,Kfarbaal - كفر بعال,LBD0016
+cadas,LBN320068,Kfarchima - كفرشيما,LBD0003
+cadas,LBN35132,Kfardibiane - كفر دبيان,LBD0018
+cadas,LBN52080,Kfar khollos - كفر خلص,LBD0009
+cadas,LBN63061,Kfarnay - كفرنية,LBD0022
+cadas,LBN44035,Kfaroue - كفروة أو بفروة,LBD0014
+cadas,LBN35120,Kfarshihham - كفر شيحام,LBD0018
+cadas,LBN36113,Kfartay - كفرتيه,LBD0012
+cadas,LBN51165,Kfartoun - كفرتون,LBD0001
+cadas,LBN35121,Kfaryassine - كفر ياسين,LBD0018
+cadas,LBN52081,Kfifane - كفيفان,LBD0009
+cadas,LBN34139,Kfoun - كفون,LBD0016
+cadas,LBN35122,Kfour - الكفور,LBD0018
+cadas,LBN52082,Kfour El Aarbi - كفور العربي,LBD0009
+cadas,LBN44036,Kfour El Nabatieh - الكفور النبطية,LBD0014
+cadas,LBN34140,Khaab - خعب,LBD0016
+cadas,LBN34141,Khaabiya - خاعبية,LBD0016
+cadas,LBN35123,Khalal - خلال,LBD0018
+cadas,LBN31078,Khalde - خلدة,LBD0002
+cadas,LBN36114,Khalle - خلة المتين,LBD0012
+cadas,LBN42023,Khallet el Ghazale - خلة الغزالة,LBD0015
+cadas,LBN62055,Khallet Khazen - خلة خازن,LBD0017
+cadas,LBN320069,Khalouat - خلوات,LBD0003
+cadas,LBN42025,Khalouat el Biyada - خلوات البياضة,LBD0015
+cadas,LBN42024,Khalouat Hasbaya - خلوات حاصبيّا,LBD0015
+cadas,LBN33121,Khalouat Jernaya - خلوات جرنايا,LBD0008
+cadas,LBN51166,Khalsa - خالصة,LBD0001
+cadas,LBN51167,Khane Hayat - خان الحيات,LBD0001
+cadas,LBN61047,Khannoussiye - خنوسية,LBD0021
+cadas,LBN21073,Kharayeb - الخرائب,LBD0004
+cadas,LBN61048,Kharayeb Saida - الخرائب صيدا,LBD0021
+cadas,LBN34142,Kharbe - خاربة جبيل,LBD0016
+cadas,LBN55089,Kharnoub - خرنوب,LBD0013
+cadas,LBN61049,Khartoum - خرطوم,LBD0021
+cadas,LBN51298,Khat Petrol - خط البترول,LBD0001
+cadas,LBN61050,Khaziz - خزيز,LBD0021
+cadas,LBN35124,Khdayra - خضيره,LBD0018
+cadas,LBN36115,Khenchara - خنشارة,LBD0012
+cadas,LBN21074,Khermateh - خورماتا,LBD0004
+cadas,LBN43020,Khiam - الخيام,LBD0019
+cadas,LBN33122,Khiam Ed Damour - خيام الدامور,LBD0008
+cadas,LBN24023,Khiara - الخيارة,LBD0024
+cadas,LBN24024,Khiara el Aatiqa - خيارة العتيقة,LBD0024
+cadas,LBN43021,Khirbe - خربة برج الملوك,LBD0019
+cadas,LBN61051,Khirbet Ain el Qanater - خربة عين القناطر,LBD0021
+cadas,LBN61052,Khirbet Bassal - خربة البصل,LBD0021
+cadas,LBN51170,Khirbet Char - خربة شار,LBD0001
+cadas,LBN33123,Khirbet Dabach - خربة دبش,LBD0008
+cadas,LBN51168,Khirbet Daoud - خربة داوود,LBD0001
+cadas,LBN21075,Khirbet Daoud Baalbek - خربة داوود بعلبك,LBD0004
+cadas,LBN61053,Khirbet ed Daoueir - خربة الدوير صيدا,LBD0021
+cadas,LBN42026,Khirbet ed Dwayr - خربة الدوير,LBD0015
+cadas,LBN51169,Khirbet er Roummane - خربة الرمان,LBD0001
+cadas,LBN21076,Khirbet et Tine - خربة التينه,LBD0004
+cadas,LBN21077,Khirbet Haouerte - خربة حوارته,LBD0004
+cadas,LBN24025,Khirbet Qanafar - خربة قنافار,LBD0024
+cadas,LBN23025,Khirbet Rouha - خربة روحا,LBD0020
+cadas,LBN21078,Khirbet Younine - خربة يونين,LBD0004
+cadas,LBN33196,Khirbit Bisri - خربة بسري,LBD0008
+cadas,LBN51171,Khirbit Ej Jord - خربة الجرد,LBD0001
+cadas,LBN36116,Khirbit el Aadass - خربة العدس,LBD0012
+cadas,LBN41027,Khirbit Silim - خربة سلم,LBD0007
+cadas,LBN62056,Khirkhaya - خرخيا,LBD0017
+cadas,LBN21079,Khodor - خضر,LBD0004
+cadas,LBN11074,Khodr - الخضر,LBD0006
+cadas,LBN51343,Khorab el Haiyat - خرب الحيات,LBD0001
+cadas,LBN21080,Khraibe - خريبة,LBD0004
+cadas,LBN51172,Khraibe Akkar - الخريبة,LBD0001
+cadas,LBN320070,Khraibe Baabda - خريبة بعبدا,LBD0003
+cadas,LBN33124,Khraibe chouf - خريبة الشوف,LBD0008
+cadas,LBN42027,Khraibe Hasbaya - خريبة حاصبيّا,LBD0015
+cadas,LBN51173,Khreibet ej Jindi - خريبة الجندي,LBD0001
+cadas,LBN31079,Kliliye - كليلة,LBD0002
+cadas,LBN21081,Knaisse - كنيسة,LBD0004
+cadas,LBN51174,Kneisset Hnaider - كنيسة هنيدر,LBD0001
+cadas,LBN320071,Knisse - كنيسة بعبدا,LBD0003
+cadas,LBN33125,Knisse chouf - كنيسة الشوف,LBD0008
+cadas,LBN63062,Knisse Sour - كنيسة صور,LBD0022
+cadas,LBN51095,Kneisset Aakkar - كنيسة,LBD0001
+cadas,LBN22041,Kouakh - كواخ,LBD0010
+cadas,LBN52083,Koubba - كوبا,LBD0009
+cadas,LBN51175,Kouikhat - الكويخات,LBD0001
+cadas,LBN41028,Kounine - كونين,LBD0007
+cadas,LBN52084,Kour - كور,LBD0009
+cadas,LBN34143,Kour El Hooua - كور الهوا,LBD0016
+cadas,LBN54044,Kousba - كوسبا,LBD0011
+cadas,LBN51176,Kousha - كوشا,LBD0001
+cadas,LBN25038,Qoussaya - قوسايا,LBD0025
+cadas,LBN51177,Kroum el Arab - كروم العرب,LBD0001
+cadas,LBN25039,Ksara - كسارة,LBD0025
+cadas,LBN35125,Ksayer - كساير,LBD0018
+cadas,LBN36117,Ksayfiyeh - قصيفية,LBD0012
+cadas,LBN11031,La Sagesse - الحكمة,LBD0006
+cadas,LBN63063,Labboune - لبونة,LBD0022
+cadas,LBN21082,Laboue - لبوة,LBD0004
+cadas,LBN33126,Lahbiye - لهبية,LBD0008
+cadas,LBN320072,Lailake - ليلكي,LBD0003
+cadas,LBN24026,Lala - لالا,LBD0024
+cadas,LBN34144,Laqlouq - اللقلوق,LBD0016
+cadas,LBN34146,Lassa - لاسا,LBD0016
+cadas,LBN62057,Lebaa - لبعا,LBD0017
+cadas,LBN34147,Lehfed - لحفد,LBD0016
+cadas,LBN24027,Libbaya - لبايا,LBD0024
+cadas,LBN320073,Louaize - لويزة,LBD0003
+cadas,LBN62058,Louaiziye - لويزة جزين,LBD0017
+cadas,LBN61054,Loubiye - لوبية,LBD0021
+cadas,LBN24028,Loussia - لوسيا,LBD0024
+cadas,LBN63064,Maachouq - معشوق,LBD0022
+cadas,LBN34148,Maad - معاد,LBD0016
+cadas,LBN22042,Maaisr - معيصرة,LBD0010
+cadas,LBN63065,Maaliye - معليَة,LBD0022
+cadas,LBN35126,Maamelteine - معاملتين,LBD0018
+cadas,LBN61055,Maamriye - معمارية,LBD0021
+cadas,LBN61056,Maamriyet el Kharab - معمرية الخراب,LBD0021
+cadas,LBN33127,Maaniye - معنيه,LBD0008
+cadas,LBN35127,Maarab - معراب,LBD0018
+cadas,LBN63066,Maarake - معركة,LBD0022
+cadas,LBN21083,Maarboun - معربون,LBD0004
+cadas,LBN63067,Maaroub - معروب,LBD0022
+cadas,LBN31080,Maaroufiye - معروفية,LBD0002
+cadas,LBN62059,Maarous el Branieh - ماروس البرانية,LBD0017
+cadas,LBN62060,Maarous el Jouanieh - ماروس الجوانية,LBD0017
+cadas,LBN33128,Maaser Beit ed Dine - معاصر بيت الدين,LBD0008
+cadas,LBN31081,Maasraiti -  معصريتي,LBD0002
+cadas,LBN55068,Maassarati - معصراتي,LBD0013
+cadas,LBN33129,Maasser ech Chouf - معاصر الشوف,LBD0008
+cadas,LBN35128,Maaysra - المعيصرة,LBD0018
+cadas,LBN34149,Maaytiq - معيتيق,LBD0016
+cadas,LBN24029,Machghara - مشغرة,LBD0024
+cadas,LBN51178,Machha - مشحة,LBD0001
+cadas,LBN62061,Machmouche - مشموشة,LBD0017
+cadas,LBN36118,Machraa - مشرع,LBD0012
+cadas,LBN63068,Machta El Aaziye - مشتى العزِية,LBD0022
+cadas,LBN51179,Machta Hammoud - مشتى حمود,LBD0001
+cadas,LBN51180,Machta Hassan - مشتى حسن,LBD0001
+cadas,LBN52085,Madfoun - مدفون,LBD0009
+cadas,LBN25041,MADINAT AL SINA'IYAT - مدينة الصناعية,LBD0025
+cadas,LBN61057,Maghdouche - مغدوشة,LBD0021
+cadas,LBN51300,Mahatta - المحطة,LBD0004
+cadas,LBN34150,Mahmarat Bejje - محمرة بجّه,LBD0016
+cadas,LBN52086,Mahmerch - محمرش,LBD0009
+cadas,LBN51181,Mahmoudiye - المحمودية,LBD0001
+cadas,LBN62062,Mahmoudiye Jezzine - محمودية جزين,LBD0017
+cadas,LBN63069,Mahrouneh - محرونه,LBD0022
+cadas,LBN44037,Maifadoun - ميفدون,LBD0014
+cadas,LBN34151,Maifouq - ميفوق,LBD0016
+cadas,LBN35129,Mairouba - ميروبا,LBD0018
+cadas,LBN43022,Maissate - الميسات,LBD0019
+cadas,LBN23026,Majdal Balhis - مجدل بلهيص,LBD0020
+cadas,LBN31082,Majdalaya - مجدليا,LBD0002
+cadas,LBN57061,Majdalaya zgharta - مجدليا زغرتا,LBD0026
+cadas,LBN21084,Majdaloun - مجدلون,LBD0004
+cadas,LBN33130,Majdalouna - مجدلونا,LBD0008
+cadas,LBN34152,Majdel - المجدل,LBD0016
+cadas,LBN25042,Majdel Anjar - مجدل عنجر,LBD0025
+cadas,LBN54029,Majdel el Koura - مجدل الكورة,LBD0011
+cadas,LBN33131,Majdel el Meouch - مجدل المعوش,LBD0008
+cadas,LBN43023,Majdel Silim - مجدل سلم,LBD0019
+cadas,LBN36119,Majdel Tarchich - مجدل ترشيش,LBD0012
+cadas,LBN63070,Majdel Zoun - مجدل زون,LBD0022
+cadas,LBN61058,Majdelyoun - مجدليون,LBD0021
+cadas,LBN51182,Majdla - مجدلا,LBD0001
+cadas,LBN36120,Majzoub - مجذوب,LBD0012
+cadas,LBN36121,Makhadet Nahr el Kalb - مخاضة نهر الكلب,LBD0012
+cadas,LBN62063,Maknouniye - مكنونية,LBD0017
+cadas,LBN11077,Malaab - ملعب,LBD0006
+cadas,LBN34153,Malhoun - ملحون,LBD0016
+cadas,LBN63071,Malkeit es Sahel - مالكية الساحل,LBD0022
+cadas,LBN36122,Mamboukh - الممبوخ,LBD0012
+cadas,LBN11078,Manara - المنارة,LBD0006
+cadas,LBN56025,Mankoubin - منكوبين,LBD0023
+cadas,LBN24031,Mansoura - المنصورة,LBD0024
+cadas,LBN22043,Mansoureh - منصورة,LBD0010
+cadas,LBN63072,Mansouri - المنصوري,LBD0022
+cadas,LBN36123,Mansouriye - منصورية,LBD0012
+cadas,LBN31083,Mansouriye bhamdoun -  منصورية بحمدون,LBD0002
+cadas,LBN31084,Mantra - المنطرة,LBD0002
+cadas,LBN44038,Manzleh - المنزلة,LBD0014
+cadas,LBN21085,Maql el Bouadte - مقل البوادتي,LBD0004
+cadas,LBN21086,Maqne - مقنة,LBD0004
+cadas,LBN33133,Maqsabe - مقصبة,LBD0008
+cadas,LBN61059,Maqsam El  JAOUHARI - مقسم الجوهري,LBD0021
+cadas,LBN36124,Mar Aabda el Mshammar - دير مار عبدا المشمر,LBD0012
+cadas,LBN36125,Mar Boutrous Karm El- Tine - مار بطرس كرم التين,LBD0012
+cadas,LBN11032,Mar Elias - مار الياس,LBD0006
+cadas,LBN25043,Mar Elias Zahle - مار الياس زحلة,LBD0025
+cadas,LBN51183,Mar Lia Hdare - مار ليا حدار,LBD0001
+cadas,LBN52087,Mar Mama - مار ماما,LBD0009
+cadas,LBN11033,Mar Maroun - مار مارون,LBD0006
+cadas,LBN34154,Mar Meqna - مار مقانة,LBD0016
+cadas,LBN33134,Mar Mikheyel Ed Damour - مار مخايل الدامور,LBD0008
+cadas,LBN11034,Mar Mitr - مار متر,LBD0006
+cadas,LBN11035,Mar Mkhayel - مار مخايل,LBD0006
+cadas,LBN36126,Mar Mkhayel Bnabil - مار مخايل بنابيل,LBD0012
+cadas,LBN36127,Mar Mousa Ed Daouar - مار موسى الدوار,LBD0012
+cadas,LBN35130,Mar Nouhra - مار نهرا,LBD0018
+cadas,LBN11036,Mar Nqoula - مار نقولا,LBD0006
+cadas,LBN36128,Mar Roukoz -  مار روكز,LBD0012
+cadas,LBN51184,Mar Sahllita - مار شليطا,LBD0001
+cadas,LBN57062,Mar Semaane - مار سمعان,LBD0026
+cadas,LBN320074,Mar Taqla - مار تقلا,LBD0003
+cadas,LBN33135,Mar Taqla En Naame - مار تقلا الناعمه,LBD0008
+cadas,LBN51185,Mar Touma - مار توما,LBD0001
+cadas,LBN52088,Mar Youhanna Maroun - مار يوحنا مارون,LBD0009
+cadas,LBN52089,Mar Youssef - مار يوسف,LBD0009
+cadas,LBN34155,Marbaa - مربعه,LBD0016
+cadas,LBN11081,Marfaa - مرفأ,LBD0006
+cadas,LBN42028,Mari - ماري,LBD0015
+cadas,LBN33136,Marj Aali - مرج علي,LBD0008
+cadas,LBN33137,Marj Barja - مرج برجا,LBD0008
+cadas,LBN36129,Marj Baskinta - مرج بسكنتا,LBD0012
+cadas,LBN31085,Marj Chartoun - مرج شرتون,LBD0002
+cadas,LBN23027,Marj es Simah - مرج السماح,LBD0020
+cadas,LBN42012,Marj Ez Zouhour Dnaibe - مرج الزهور الدنيبة,LBD0015
+cadas,LBN22044,Marj Hine - مرجحين,LBD0010
+cadas,LBN33138,Marj Ketermaya - مرج كترمايا,LBD0008
+cadas,LBN34156,Marj Mokhtara - مرج مختارة,LBD0016
+cadas,LBN43024,Marjaayoun - مرجعيون,LBD0019
+cadas,LBN36130,Marjaba - مرجبا,LBD0012
+cadas,LBN33139,Marjiat - مرجيات,LBD0008
+cadas,LBN33140,Marjiat Borjein - برجين,LBD0008
+cadas,LBN43025,Markaba - مركبا,LBD0019
+cadas,LBN55069,Markabta - مركبتا,LBD0013
+cadas,LBN51186,Marlayet Haddara - مارليات حدارا,LBD0001
+cadas,LBN51187,Marlayet Melhem - مار ليا ملحم,LBD0001
+cadas,LBN63073,Marnaba - مرنبا,LBD0022
+cadas,LBN63074,Marouahine - مروحين,LBD0022
+cadas,LBN41029,Maroun er Ras - مارون الراس,LBD0007
+cadas,LBN51188,Martmoura - القبيات مرتموره,LBD0001
+cadas,LBN35131,Mashhat - مشحات,LBD0018
+cadas,LBN21087,Masnaa - المصنع,LBD0004
+cadas,LBN21088,Masnaa es Zohr - مصنع الزهر,LBD0004
+cadas,LBN25044,Masnaa Zahle - المصنع زحلة,LBD0025
+cadas,LBN36131,Masqa - المسقى,LBD0012
+cadas,LBN52090,Masrah - مسرح,LBD0009
+cadas,LBN25045,Massa - مسا,LBD0025
+cadas,LBN61060,Matariyet ech Choumar - مطرية الشومر,LBD0021
+cadas,LBN21089,Mathanet Mousrayeh - مطحنة مصراية,LBD0004
+cadas,LBN63075,Matmoura - المطمورة,LBD0022
+cadas,LBN36132,Mayasse - مياسة,LBD0012
+cadas,LBN33141,Mazboud - مزبود,LBD0008
+cadas,LBN33142,Mazmoura - مزمورة,LBD0008
+cadas,LBN11037,Mazraa - المزرعة,LBD0006
+cadas,LBN34081,Mazraa Lassa - مزرعة لاسا,LBD0016
+cadas,LBN62064,Mazraat  Aarqoub - مزرعة العرقوب,LBD0017
+cadas,LBN62065,Mazraat  Jabal Toura - مزرعة جبل طوره,LBD0017
+cadas,LBN62066,Mazraat  Tamra - مزرعة طمره,LBD0017
+cadas,LBN61061,Mazraat Aabboudiye - مزرعة العبودية,LBD0021
+cadas,LBN63076,Mazraat Aaiye - مزرعة عيا,LBD0022
+cadas,LBN62068,Mazraat Aaqmata - مزرعة عقماتا,LBD0017
+cadas,LBN61062,Mazraat Aarab ej Jall - مزرعة عرب الجل,LBD0021
+cadas,LBN62069,Mazraat Aaraji - مزرعة عراجي,LBD0017
+cadas,LBN55003,Mazraat Aartoussi - مزرعة عرطوسي,LBD0013
+cadas,LBN41030,Mazraat Aazze - مزرعة عزه,LBD0007
+cadas,LBN23028,Mazraat Aazzi - مزرعة عزِي,LBD0020
+cadas,LBN44039,Mazraat Ain Bou Souar - مزرعة عين بوسوار,LBD0014
+cadas,LBN61063,Mazraat Ain el Qantara - مزرعة عين القنطرة,LBD0021
+cadas,LBN63077,Mazraat Ain ez Zarqa - مزرعة عين الزرقا,LBD0022
+cadas,LBN23029,Mazraat Ain Qeniye - مزرعة عين قنية,LBD0020
+cadas,LBN51103,Mazraat Al Balde - مزرعة بلدة,LBD0001
+cadas,LBN21090,Mazraat al Ramassy - مزرعة الرماسا,LBD0004
+cadas,LBN62070,Mazraat Al Souairi - مزرعة الصويري,LBD0017
+cadas,LBN21191,Mazraat Al Souaydane - مزرعة آل سويدان,LBD0004
+cadas,LBN21091,Mazraat al Takch - مزرعة بيت طقش,LBD0004
+cadas,LBN61064,Mazraat Arab Soukkar - مزرعة عرب سكر,LBD0021
+cadas,LBN61076,Mazraat Arab Tobbaya - مزرعة عرب  طبَايا,LBD0021
+cadas,LBN53019,Mazraat Assaf - مزرعة عساف,LBD0005
+cadas,LBN36133,Mazraat Beit Ech Chaar - مزرعة بيت الشعّار,LBD0012
+cadas,LBN22047,Mazraat Beit el Fqih - مزرعة بيت الفقيه,LBD0010
+cadas,LBN21092,Mazraat Beit el Ghoussain - مزرعة بيت الغصين,LBD0004
+cadas,LBN22045,Mazraat Beit Et Tachm - مزرعة بيت الطشم,LBD0010
+cadas,LBN21093,Mazraat Beit Slaibi - مزرعة بيت صليبي,LBD0004
+cadas,LBN53020,Mazraat Beni Saab - مزرعة بني صعب,LBD0005
+cadas,LBN63078,Mazraat Biout es Siyad - مزرعة بيوت السياد,LBD0022
+cadas,LBN52091,Mazraat Biyade - مزرعة بياض,LBD0009
+cadas,LBN44040,Mazraat Bsafour - مزرعة بصفُور,LBD0014
+cadas,LBN63079,Mazraat Bsaile - مزرعة بسيلة,LBD0022
+cadas,LBN44041,Mazraat Chelbael - مزرعة شلبعل,LBD0014
+cadas,LBN36134,Mazraat Deir Aaoukar - مزرعة دير عوكر,LBD0012
+cadas,LBN23031,Mazraat Deir el Aachaiyer - مزرعة دير العشاير,LBD0020
+cadas,LBN63130,Mazraat Deir Hanna - مزرعة دير حنا,LBD0022
+cadas,LBN44042,Mazraat Dmoul - مزرعة دمول,LBD0014
+cadas,LBN43026,Mazraat Doumiat - مزرعة دمياط,LBD0019
+cadas,LBN33143,Mazraat ech Chouf - مزرعة,LBD0008
+cadas,LBN33144,Mazraat ed Dahr - مزرعة الضهر,LBD0008
+cadas,LBN21094,Mazraat Ed Dallil - مزرعة الضليل,LBD0004
+cadas,LBN21095,Mazraat ed Dhour - مزرعة الضهور,LBD0004
+cadas,LBN33145,Mazraat ed Doueir - مزرعة الدوير,LBD0008
+cadas,LBN34158,Mazraat ej Jmaiyel - مزرعة الجميل,LBD0016
+cadas,LBN61065,Mazraat ej Joudaye - مزرعة الجودية,LBD0021
+cadas,LBN43027,Mazraat ej Jreine - مزرعة الجرين,LBD0019
+cadas,LBN57081,Mazraat Ejbeh - مزرعة إجبع,LBD0026
+cadas,LBN61066,Mazraat el Aite Niye - مزرعة العيتانية,LBD0021
+cadas,LBN44043,Mazraat el Baiyad - مزرعة البياض,LBD0014
+cadas,LBN33146,Mazraat El Barghoutiye - مزرعة البرغوتية,LBD0008
+cadas,LBN31086,Mazraat el Boueit -  مزرعة البويت,LBD0002
+cadas,LBN62071,Mazraat el Btadiniye - مزرعة البتدينية,LBD0017
+cadas,LBN61067,Mazraat el Daoudiye - مزرعة الداودية,LBD0021
+cadas,LBN34159,Mazraat el Hajj Khalil - مزرعة الحاج خليل,LBD0016
+cadas,LBN36135,Mazraat El Hdaira - مزرعة الحضيرة,LBD0012
+cadas,LBN61068,Mazraat el Hsainiye - مزرعة الحسينية,LBD0021
+cadas,LBN62072,Mazraat el Khaoukh - مزرعة الخوخ,LBD0017
+cadas,LBN44044,Mazraat el Khraibe - مزرعة الخريبة,LBD0014
+cadas,LBN55043,MAZRAAT EL KREYM - مزرعة الكريم,LBD0013
+cadas,LBN34079,Mazraat El Maadene - مزرعة المعادن,LBD0016
+cadas,LBN62073,Mazraat el Mathane - مزرعة المطحنة,LBD0017
+cadas,LBN25046,Mazraat el Mehqane - مزرعة المحقان,LBD0025
+cadas,LBN61069,Mazraat el Ouasta - مزرعة الواسطة,LBD0021
+cadas,LBN23032,Mazraat el Qalioun - مزرعة القليون,LBD0020
+cadas,LBN61111,Mazraat el Yahoudiye - مزرعة  اليهودية,LBD0021
+cadas,LBN31087,Mazraat en Nahr -  مزرعة النهر,LBD0002
+cadas,LBN62074,Mazraat er Rohbane - مزرعة الرهبان,LBD0017
+cadas,LBN33147,Mazraat er Rzaniye - مزرعة الرزَانية,LBD0008
+cadas,LBN21096,Mazraat Es Saiyed - مزرعة السيد,LBD0004
+cadas,LBN34160,Mazraat Es Siyad - مزرعة السياد,LBD0016
+cadas,LBN22046,Mazraat Et Talle - مراح التلة,LBD0010
+cadas,LBN57064,Mazraat Et Toufah - مزرعة التفاح,LBD0026
+cadas,LBN33149,Mazraat ez Zaitounniyeh - مزرعة الزيتونه,LBD0008
+cadas,LBN57082,Mazraat Hraqs - مزرعة حريقص,LBD0026
+cadas,LBN61070,Mazraat Iskandarouna - مزرعة إسكندرونة,LBD0021
+cadas,LBN23033,Mazraat Jaafar - مزرعة جعفر,LBD0020
+cadas,LBN61071,Mazraat Jemjim - مزرعة جمجيم,LBD0021
+cadas,LBN57063,Mazraat Jnaid - مزرعة جنيد,LBD0026
+cadas,LBN55064,MAZRAAT KETRANE - مزرعة كتران,LBD0013
+cadas,LBN44045,Mazraat Kfar ej Jouz - مزرعة كفر جوز,LBD0014
+cadas,LBN33150,Mazraat Khafiche - مزرعة الخفيش,LBD0008
+cadas,LBN61072,Mazraat Khaizarane - مزرعة خيزران,LBD0021
+cadas,LBN61073,Mazraat Khoutaryet er Rezz - مزرعة كوثرية الرز,LBD0021
+cadas,LBN62075,Mazraat Louzyde - مزرعة لوزيد,LBD0017
+cadas,LBN44046,Mazraat Maqsam Aali et Taher - مزرعة علي الطاهر,LBD0014
+cadas,LBN21097,Mazraat Matar - مزرعة مطر,LBD0004
+cadas,LBN61074,Mazraat Matariyet Jbaa - مزرعة مطيرية جباع,LBD0021
+cadas,LBN63080,Mazraat Mechref - مزرعة المشرف,LBD0022
+cadas,LBN21098,Mazraat Oumm Aali - مزرعة ام علي,LBD0004
+cadas,LBN42029,Mazraat Qafoua - مزرعة قفوى,LBD0015
+cadas,LBN44048,Mazraat Qalaat Meis - مزرعة قلعة ميس,LBD0014
+cadas,LBN42030,Mazraat Ras el Baidar - مزرعة راس البيدر,LBD0015
+cadas,LBN43028,Mazraat Sahsahiye - مزرعة السهسهية,LBD0019
+cadas,LBN61075,Mazraat Sekkaniye - مزرعة السكنية,LBD0021
+cadas,LBN61112,Mazraat Sinai - مزرعة سيناي,LBD0021
+cadas,LBN36136,Mazraat Yachoua - مزرعة يشوع,LBD0012
+cadas,LBN25076,Mazraat Zahle - مزرعة زحلة,LBD0025
+cadas,LBN61077,Mazraat Zaita - مزرعة زيتا,LBD0021
+cadas,LBN43044,Mazraat Zaiyeh - مزرعة زئية,LBD0019
+cadas,LBN23034,Mazret Al Chmis - مزرعة الشميسة,LBD0020
+cadas,LBN57065,Mazret al Nahr - مزرعة النهر,LBD0026
+cadas,LBN35133,Mazzarat Er Ras - مزرعة الراس,LBD0018
+cadas,LBN320103,Mazzraat Maaissra - مزرعة المعيصرة,LBD0003
+cadas,LBN53027,Mchaa ej Joubbeh - مشاع الجبه,LBD0005
+cadas,LBN35182,Mchaa El Ftouh - مشاع الفتوح,LBD0018
+cadas,LBN35181,Mchaa Faraya - مشاع فاريا,LBD0018
+cadas,LBN35180,Mchaa Kfar Dibian - مشاع كفر ذبيان,LBD0018
+cadas,LBN21099,Mchaitiye - مشيتية,LBD0004
+cadas,LBN35134,Mchati - مشاته,LBD0018
+cadas,LBN36137,Mchaymcheh - مشيمشة,LBD0012
+cadas,LBN36138,Mcheikha - مشيخا,LBD0012
+cadas,LBN34161,Mdamit - مداميت,LBD0016
+cadas,LBN320075,Mdeyrej - مديرج,LBD0003
+cadas,LBN23035,Mdoukha - مدوخا,LBD0020
+cadas,LBN51136,Mechaeilha Hakour - مشيلحة الحاكور,LBD0001
+cadas,LBN31088,Mechakhti - مشاقتي,LBD0002
+cadas,LBN34162,Mechane - مشان,LBD0016
+cadas,LBN34163,Mechhellene - مشحلان,LBD0016
+cadas,LBN51193,Mechmech - مشمش,LBD0001
+cadas,LBN34164,MechMech Jbeil - مشمش جبيل,LBD0016
+cadas,LBN33151,Mechref - مشرف,LBD0008
+cadas,LBN31089,Mechrefe -  مشرفه,LBD0002
+cadas,LBN11038,Medouar - مدور,LBD0006
+cadas,LBN34165,Meftah es Sellom - مفتاح السلم,LBD0016
+cadas,LBN52092,Meghrak - مغراق,LBD0009
+cadas,LBN51307,Meghraq - المغراق,LBD0001
+cadas,LBN51190,Meghraqa - مغراقا,LBD0001
+cadas,LBN21100,Mehairfe - محيرفة,LBD0004
+cadas,LBN35135,Mehqane el Mazloum - محقان المظلوم,LBD0018
+cadas,LBN24032,Meidoun - ميدون,LBD0024
+cadas,LBN43029,Meiss ej Jabal - ميس الجبل,LBD0019
+cadas,LBN31090,Mejdel Baana -  مجدل بعنا,LBD0002
+cadas,LBN25047,Meksi - مكسة,LBD0025
+cadas,LBN51191,Memnaa - ممنع,LBD0001
+cadas,LBN320076,Merdache - مرداشة,LBD0003
+cadas,LBN33152,Mermata - مرماتا,LBD0008
+cadas,LBN61078,Merouaniye - مروانية,LBD0021
+cadas,LBN34157,Mestita - مستيتا,LBD0016
+cadas,LBN53021,Metrit - متريت,LBD0011
+cadas,LBN36139,Mezher - مزهر,LBD0012
+cadas,LBN34167,Mghaira - مغيره,LBD0016
+cadas,LBN33153,Mghaire - مغيره,LBD0008
+cadas,LBN61079,Mghairiye - مغيرية,LBD0021
+cadas,LBN33154,Mghairiye Chouf - مغيرية  الشوف,LBD0008
+cadas,LBN55070,Mgharet ech Cheikh - مغارة الشيخ,LBD0013
+cadas,LBN35136,Mghayer - المغاير,LBD0018
+cadas,LBN43030,Mhaibib - محيبيب,LBD0019
+cadas,LBN61080,Mhaidle - المحيدلة,LBD0021
+cadas,LBN23036,Mhaidse - محيدثه,LBD0020
+cadas,LBN56026,Mhamra - المحمرة,LBD0001
+cadas,LBN62077,Mharbiye - محاربية,LBD0017
+cadas,LBN51342,Mhatat Siket el Hadid - محطة سكة الحديد,LBD0001
+cadas,LBN56007,Mhatreh - المهاترة,LBD0023
+cadas,LBN21101,Mhattat Ras Baalbeck - المحطة راس بعلبك,LBD0004
+cadas,LBN36140,Mhaydse - محيدثة المتن,LBD0012
+cadas,LBN63118,Mheilib - محيليب,LBD0022
+cadas,LBN62078,Midane - ميدان,LBD0017
+cadas,LBN42031,Mimes - ميمس,LBD0015
+cadas,LBN56030,MINA 1 - مينا طرابلس 1,LBD0023
+cadas,LBN56031,MINA 2 - مينا طرابلس 2,LBD0023
+cadas,LBN56008,Mina Jardin - بساتين المينا,LBD0023
+cadas,LBN11039,Minet el Hosn - مينا الحصن,LBD0006
+cadas,LBN51308,Minyara - منيارة,LBD0001
+cadas,LBN57066,Miryata - مرياطا,LBD0026
+cadas,LBN61081,Miyeh ou Miyeh - مية ومية,LBD0021
+cadas,LBN57067,Miziara - مزيارة,LBD0026
+cadas,LBN63081,Mjadel - المجادل,LBD0022
+cadas,LBN62079,Mjaydel - مجيدل,LBD0017
+cadas,LBN54045,MJEYDIL KFAR HAZIR - مجيدل كفر حزير,LBD0011
+cadas,LBN36141,Mkalless - مكلس,LBD0012
+cadas,LBN21102,Mkaybel Al Kala' - مقيال القلعة,LBD0004
+cadas,LBN62080,Mlikh - مليخ,LBD0017
+cadas,LBN22048,Mnaira - منيرة,LBD0010
+cadas,LBN34168,Mnaitra - منيطرة,LBD0016
+cadas,LBN53022,Moghr El Ahoual - مغر الاحول,LBD0005
+cadas,LBN34169,Monsef - المنصف,LBD0016
+cadas,LBN36142,Montiverdi - منتفردي,LBD0012
+cadas,LBN21103,Moqraq - المقرق,LBD0004
+cadas,LBN51107,Mouanse - المونسه,LBD0001
+cadas,LBN34170,Mouftah el Mir - مفتاح المير,LBD0016
+cadas,LBN33157,Mouhtaqara - محتقره,LBD0008
+cadas,LBN34171,Moukhada - مخاضة,LBD0016
+cadas,LBN33158,Moukhtara - مختارة,LBD0008
+cadas,LBN55071,Moulid - موليد,LBD0013
+cadas,LBN51194,Mounjez - منجز,LBD0001
+cadas,LBN31091,Mounsa Aaley - المونسه عاليه,LBD0002
+cadas,LBN36143,Mountazah - منتزه,LBD0012
+cadas,LBN11040,Moussaitbe - مصيطبة,LBD0006
+cadas,LBN11041,Moustachfa er Roum - مستشفى الروم,LBD0006
+cadas,LBN51195,Mqaible - المقيبلة,LBD0001
+cadas,LBN51310,Mqaitaa - مقيطع السماكلي,LBD0001
+cadas,LBN35137,Mradiye - مرادية,LBD0018
+cadas,LBN22049,Mrah Aabbas - مراح عباس,LBD0010
+cadas,LBN51196,Mrah Aakkar - مراه عكار,LBD0001
+cadas,LBN62082,Mrah Abdu Chedid - مراح أبو شديد,LBD0017
+cadas,LBN51198,Mrah Al Khawkh - مراح الخوخ,LBD0001
+cadas,LBN22050,Mrah Beit Aalaoui - مراح بيت علاو,LBD0010
+cadas,LBN21104,Mrah Beit Aassaf - مراح بيت عساف,LBD0004
+cadas,LBN21105,Mrah Beit el Qazah - مراح بيت القزح,LBD0004
+cadas,LBN21106,Mrah Beit Slim - مراح بيت سليم,LBD0004
+cadas,LBN21107,Mrah Bou Brahim - مراح بو براهيم,LBD0004
+cadas,LBN21108,Mrah Bou Chahine - مراح بو شاهين,LBD0004
+cadas,LBN22051,Mrah Bou Kamar al Dine - مراح بو قمر الدين,LBD0010
+cadas,LBN52093,Mrah Chdid - مراح شديد,LBD0009
+cadas,LBN22052,Mrah Ech Chaab - مراح الشعاب الهرمل,LBD0010
+cadas,LBN22053,Mrah ech Charqi - مراح الشرقي,LBD0010
+cadas,LBN21109,Mrah ech Chmis - مراح الشميس,LBD0004
+cadas,LBN22054,Mrah ech Chnain - مراح شنين,LBD0010
+cadas,LBN21110,Mrah ech Choaab - مراح الشعاب,LBD0004
+cadas,LBN21111,Mrah ej Jamal - مراح,LBD0004
+cadas,LBN21112,Mrah ej Jeddaoui - مراح الجداوي,LBD0004
+cadas,LBN21113,Mrah El Aabed - مراه العبد,LBD0004
+cadas,LBN51339,Mrah el Aainouni - مراه العينوني,LBD0001
+cadas,LBN21114,Mrah El Aaouja - مراح العوجا,LBD0004
+cadas,LBN22055,Mrah el Aaqabe - مراح العقبة,LBD0010
+cadas,LBN21116,Mrah El Aassi - مراح العاصي,LBD0004
+cadas,LBN21117,Mrah el Ahmar - مراح الاحمر,LBD0004
+cadas,LBN22056,Mrah El Ain - مراح العين,LBD0010
+cadas,LBN22057,Mrah el Arab - مراح العرب,LBD0010
+cadas,LBN21118,Mrah el Blata - مراح البلاطة,LBD0004
+cadas,LBN51197,Mrah el Bsatine - مراح البساتين,LBD0001
+cadas,LBN22058,Mrah El Dalil - مراح الدليل,LBD0010
+cadas,LBN22059,Mrah el Gharbi - مراح الغربي,LBD0010
+cadas,LBN52094,Mrah El Haj - مراح الحاج,LBD0009
+cadas,LBN21119,Mrah EL Harfouch - مراح الحرفوش,LBD0004
+cadas,LBN62083,Mrah El Hbas - مراح الحباس,LBD0017
+cadas,LBN22060,Mrah el Mahlise - مراح المحليسة,LBD0010
+cadas,LBN35138,Mrah El Mir - مراح المير,LBD0018
+cadas,LBN22061,Mrah El Mouchref - مراح المشرف,LBD0010
+cadas,LBN22062,Mrah El Mougher - مراح المغر,LBD0010
+cadas,LBN22063,Mrah el Qorne - مراح القرنة,LBD0010
+cadas,LBN22064,Mrah el Qraita - مراح القريتا,LBD0010
+cadas,LBN55072,Mrah Es Sfire - مراح السفيرة,LBD0013
+cadas,LBN21120,Mrah es Sirghane - مراح السرغانه,LBD0004
+cadas,LBN22065,Mrah es Siyaid - مراح السياد,LBD0010
+cadas,LBN55073,Mrah Es Sreij - مراح السريج,LBD0013
+cadas,LBN22066,Mrah esh Shmis - مراح الشميس الهرمل,LBD0010
+cadas,LBN52095,Mrah Ez Zaiat - مراح الزيات,LBD0009
+cadas,LBN22067,Mrah Ez Zakbe - مراح الزكبة,LBD0010
+cadas,LBN36144,Mrah Ghanem - مراح غانم,LBD0012
+cadas,LBN21121,Mrah Haissoun - مراح حيصون,LBD0004
+cadas,LBN22068,Mrah Houssain Taane - مراح حسين طعان,LBD0010
+cadas,LBN61082,Mrah Kiouane - مراح كيوان,LBD0021
+cadas,LBN21122,Mrah Kloude - مراح القلود,LBD0004
+cadas,LBN62076,Mrah Mghaibe - مراح مغبيه,LBD0017
+cadas,LBN22069,Mrah Naaouas - مراح النواس,LBD0010
+cadas,LBN21123,Mrah Najib - مراح نجيب,LBD0004
+cadas,LBN51199,Mrah Qamar ed Dine - مراح قمر الدين,LBD0001
+cadas,LBN21124,Mrah Rafi - مراح رافي,LBD0004
+cadas,LBN22070,Mrah Sejoud - مراح سجد,LBD0010
+cadas,LBN21125,Mrah Semaan - مراح سمعان,LBD0004
+cadas,LBN21126,Mrah Soukkar - مراح سكر,LBD0004
+cadas,LBN22071,Mrah Yassine - مراح ياسين,LBD0010
+cadas,LBN320077,Mraije - مريجة,LBD0003
+cadas,LBN55093,Mrebbine - مربين,LBD0013
+cadas,LBN25048,Mreijat - مريجات,LBD0025
+cadas,LBN31092,Mreijat Aley -  مريجات عاليه,LBD0002
+cadas,LBN35139,Mreijet Kesserwan - مريجة كسروان,LBD0018
+cadas,LBN33159,Mristi - مرستى,LBD0008
+cadas,LBN36145,Mrouj - المروج,LBD0012
+cadas,LBN61083,Msaileh - المصيلح,LBD0021
+cadas,LBN51200,Msalla - مصلا,LBD0001
+cadas,LBN33160,Mtaile - مطيلة,LBD0008
+cadas,LBN36146,Mtaileb - مطيلب,LBD0012
+cadas,LBN33161,Mtairiyat - مطيرية,LBD0008
+cadas,LBN36147,Mtein - المتين,LBD0012
+cadas,LBN33162,Mtoulle - مطله,LBD0008
+cadas,LBN52096,Myle - ميل,LBD0009
+cadas,LBN62084,Mzairaa - مزيرعة,LBD0017
+cadas,LBN36148,Mzakke - مزكة,LBD0012
+cadas,LBN34172,Mzarib - المزاريب,LBD0016
+cadas,LBN320078,Mzayraa - مزيرعة بعبدا,LBD0003
+cadas,LBN51311,Mzeihmeh - مزيحمة,LBD0001
+cadas,LBN33163,Naame - ناعمه,LBD0008
+cadas,LBN25051,Naassate - نعصات,LBD0025
+cadas,LBN62085,Nabaa - نبعه,LBD0017
+cadas,LBN52097,Nabaa ej Jdid - نبع الجديد,LBD0009
+cadas,LBN51202,Nabaa el Ghzaile - نبع الغزيلة,LBD0001
+cadas,LBN24033,Nabaa el Khraizat - نبع الخريزات,LBD0024
+cadas,LBN35140,Nabaa el Mghara - نبع المغارة,LBD0018
+cadas,LBN33164,Nabaa es Safa - نبع الصفا,LBD0008
+cadas,LBN34173,Nabaa Tourzaiya - نبع طورزيا,LBD0016
+cadas,LBN44049,Nabatiye el Faouqa - نبطية الفوقا,LBD0014
+cadas,LBN44050,Nabatiye el Tahta - نبطية التحتا,LBD0014
+cadas,LBN36149,Nabay - نابيه,LBD0012
+cadas,LBN21127,Nabha - نبحا,LBD0004
+cadas,LBN21193,Nabha Al Mohfara - نبحا المحفارة,LBD0004
+cadas,LBN25049,Nabi Aila - نبي ايلا,LBD0025
+cadas,LBN21128,Nabi Chit - نبي شيت,LBD0004
+cadas,LBN21129,Nabi Osmane - نبي عثمان,LBD0004
+cadas,LBN63082,Nabi Qassem - نبي قاسم,LBD0022
+cadas,LBN21130,Nabi Rachade - نبي رشاده,LBD0004
+cadas,LBN21131,Nabi Sbat - النبي سباط,LBD0004
+cadas,LBN62086,Nabi Sejoud - نبي سجد,LBD0017
+cadas,LBN33165,Nabi Younos - نبي يونس,LBD0008
+cadas,LBN63083,Naffakhiye - نفاخية,LBD0022
+cadas,LBN21132,Nahle - نحله,LBD0004
+cadas,LBN52098,Nahle batroun - نحلا  البترون,LBD0009
+cadas,LBN35141,Nahr Ed Dahab - نهر الدهب,LBD0018
+cadas,LBN51203,Nahr El Bared - نهر البارد,LBD0001
+cadas,LBN35142,Nahr El Hussein - نهر الحصين,LBD0018
+cadas,LBN35143,Nahr el Kalb - نهر الكلب,LBD0018
+cadas,LBN34174,Nahrh Ibrahim - نهر ابراهيم,LBD0016
+cadas,LBN51204,Nahriye - النهريه,LBD0001
+cadas,LBN61084,Najjaryie - نجارية,LBD0021
+cadas,LBN11082,Najmeh - النجمة,LBD0006
+cadas,LBN52099,Najmet es Sobh - نجمة الصبح,LBD0009
+cadas,LBN35144,Nammoura - النموره,LBD0018
+cadas,LBN34084,Naqour - نقور,LBD0016
+cadas,LBN63084,Naqoura - الناقورة,LBD0022
+cadas,LBN36150,Naqqach - نقاش,LBD0012
+cadas,LBN11083,Nasra - الناصرة,LBD0006
+cadas,LBN22072,Nasriye - ناصرية الهرمل,LBD0010
+cadas,LBN25052,Nasriyet Rizq - ناصرية رزق,LBD0025
+cadas,LBN25050,Nasriyet Zahle - ناصرية  زحلة,LBD0025
+cadas,LBN51205,Nassriye - ناصرية,LBD0001
+cadas,LBN55074,Nemrine - نمرين,LBD0013
+cadas,LBN51116,Nfaisseh - النفيسة,LBD0001
+cadas,LBN33166,Niha - نيحا,LBD0008
+cadas,LBN52100,Niha El Batroun - نيحا البترون,LBD0009
+cadas,LBN63085,Niha Sour - نيحا صور,LBD0022
+cadas,LBN25053,Niha zahle - نيحا زحلة,LBD0025
+cadas,LBN44051,Nmairiye - نميرية,LBD0014
+cadas,LBN35145,Nmoura - نمورة,LBD0018
+cadas,LBN51206,Noura - النوره,LBD0001
+cadas,LBN51315,Noura el Faouqa et el Tahta - نورا الفوقا و التحتى,LBD0001
+cadas,LBN51207,Noura el Tahta - نورا التحتا,LBD0001
+cadas,LBN56009,Noury - النوري,LBD0023
+cadas,LBN33167,Ouadi Abou Youssef - وادي ابو يوسف,LBD0008
+cadas,LBN62087,Ouadi Baanqoudine - وادي بعنقودين,LBD0017
+cadas,LBN33168,Ouadi Bnahle - وادي بنحليه,LBD0008
+cadas,LBN36151,Ouadi Chahine - وادي شاهين,LBD0012
+cadas,LBN320079,Ouadi Chahrour el Olia - وادي شحرور العليا,LBD0003
+cadas,LBN320080,Ouadi Chahrour el Soufla - وادي شحرور السفلى,LBD0003
+cadas,LBN33169,Ouadi Deir Dourit - وادي دير دوريت,LBD0008
+cadas,LBN33170,Ouadi ed Deir - وادي الدير,LBD0008
+cadas,LBN36152,Ouadi ed Delb - وادي الدلب,LBD0012
+cadas,LBN25054,Ouadi ed Deloum - وادي الدلم,LBD0025
+cadas,LBN51208,Ouadi Ej jamous - وادي الجاموس,LBD0001
+cadas,LBN52101,Ouadi ej Jord - وادي الجرد,LBD0009
+cadas,LBN25055,Ouadi el Aarayech - وادي العرايش,LBD0025
+cadas,LBN36153,Ouadi El Amine - وادي الامين,LBD0012
+cadas,LBN36154,Ouadi El Karm - وادي الكرم المتن,LBD0012
+cadas,LBN62088,Ouadi el Leimoun - وادي الليمون,LBD0017
+cadas,LBN55075,Ouadi En Nahle - وادي النحلة,LBD0013
+cadas,LBN22073,Ouadi en Nayra - وادي النيرة,LBD0010
+cadas,LBN22074,Ouadi Er Ratle - وادي الرطل,LBD0010
+cadas,LBN33171,Ouadi es Sitt - وادي الست,LBD0008
+cadas,LBN22075,Ouadi et Tourkmane - وادي التركمان,LBD0010
+cadas,LBN33172,Ouadi Ez Zeyni - وادي الزينة,LBD0008
+cadas,LBN63086,Ouadi Jilou - وادي جيلو,LBD0022
+cadas,LBN52050,Ouadi Tanourine Et Tahta - وادي تنورين التحتا,LBD0009
+cadas,LBN62090,Ouardiye - وردية,LBD0017
+cadas,LBN33174,Ouarhaniye - ورهانية,LBD0008
+cadas,LBN35146,Ouata Ej Jaouz - وطى الجوز,LBD0018
+cadas,LBN34176,Ouata El Bane - وطى البان,LBD0016
+cadas,LBN34175,Ouata el bourj - وطى البرج,LBD0016
+cadas,LBN34177,Ouata el Khirbe - وطى الخربة,LBD0016
+cadas,LBN35147,Ouata el Laouz - وطى اللوز,LBD0018
+cadas,LBN36155,Ouata El Mrouj - وطى المروج,LBD0012
+cadas,LBN52102,Ouata Haub - وطى حوب,LBD0009
+cadas,LBN35148,Ouata Nahr El Kelb - وطى نهر الكلب,LBD0018
+cadas,LBN35149,Ouata Slam - وطى سلام,LBD0018
+cadas,LBN55046,Ouatiye - واطيه,LBD0013
+cadas,LBN62091,Ouazaaiye - اوزاعية,LBD0017
+cadas,LBN42032,Ouazzani - وزاني,LBD0015
+cadas,LBN54046,Oueta Fares - وطى فارس,LBD0011
+cadas,LBN63087,Oum Toute - ام التوت,LBD0022
+cadas,LBN31093,Oumara Choueifat - الشويفات الامراء,LBD0002
+cadas,LBN61086,Oussamiyat - الاوساميات,LBD0021
+cadas,LBN11084,Palais De Justice - قصر العدل,LBD0006
+cadas,LBN11085,Parc - سباق الخيل,LBD0006
+cadas,LBN11086,Patriarcat - بطركية,LBD0006
+cadas,LBN11042,Place de l'Etoile - ساحة النجمة,LBD0006
+cadas,LBN25056,Qaa er Rim - قاع الريم,LBD0025
+cadas,LBN21190,Qaa Jouar Maqiyeh - قاع جوار مكية,LBD0004
+cadas,LBN21184,Qaa Ouadi el Khanzir - قاع وادي الخنزير,LBD0004
+cadas,LBN51211,Qaabrine - قعبرين,LBD0001
+cadas,LBN61087,Qaaqaiyet Es Snaoubar - قعقعية الصنوبر,LBD0021
+cadas,LBN44052,Qaaqaait ej Jisr - قعقعية الجسر,LBD0014
+cadas,LBN36156,Qaaqour - القعقور,LBD0012
+cadas,LBN51212,Qabaait - قبعيت,LBD0001
+cadas,LBN25057,Qabb Elias - قب الياس,LBD0025
+cadas,LBN31094,Qabr Chamoun -  قبر شمون,LBD0002
+cadas,LBN43032,Qabrikha - قبريخا,LBD0019
+cadas,LBN62092,Qaitoule - قيتولي,LBD0017
+cadas,LBN320081,Qalaa - القلعة,LBD0003
+cadas,LBN35150,Qalaa Kfardibiane - قلعة كفر ذبيان,LBD0018
+cadas,LBN21136,Qalaat Bakdach - قلعة بكداش,LBD0004
+cadas,LBN43033,Qalaat Doubai - قلعة دبي,LBD0019
+cadas,LBN33175,Qalaat el Hosn - قلعة الحصن,LBD0008
+cadas,LBN33176,Qalaat En Nimiri - قلعة النمري,LBD0008
+cadas,LBN35151,Qalaat Maarab - قلعة معراب,LBD0018
+cadas,LBN63088,Qalaat Maroun - قلعة مارون,LBD0022
+cadas,LBN56003,Qalamoun - القلمون,LBD0023
+cadas,LBN41031,Qalaouiye - قلويه,LBD0007
+cadas,LBN21137,Qalb es Sabaa - مزرعة قلد السبع,LBD0004
+cadas,LBN54047,Qalhat - قلحات,LBD0011
+cadas,LBN63089,Qana - قانا,LBD0022
+cadas,LBN22077,Qanafez - قنافذ,LBD0010
+cadas,LBN36157,Qanat Bakich - قناة باكيش,LBD0012
+cadas,LBN51318,Qanbar - القنبر,LBD0001
+cadas,LBN43034,Qantara - قنطرة,LBD0019
+cadas,LBN11044,Qantari - قنطاري,LBD0006
+cadas,LBN41032,Qaouzah - قوزح,LBD0007
+cadas,LBN57050,Qarah Bach - قره باش,LBD0026
+cadas,LBN24034,Qaraoun - القرعون,LBD0024
+cadas,LBN57068,Qareit Sakhra - قرعية صخرا,LBD0026
+cadas,LBN21138,Qarha - قرحا,LBD0004
+cadas,LBN51213,Qarha Akkar - قرحه عكار,LBD0001
+cadas,LBN55077,Qarhaiya - قرحيا,LBD0013
+cadas,LBN55047,Qarn - القرن,LBD0013
+cadas,LBN52103,Qarnaoun - قرنعون,LBD0009
+cadas,LBN51214,Qarqaf - القرقف,LBD0001
+cadas,LBN35152,Qarqara - قرقرا,LBD0018
+cadas,LBN25058,Qarqoud - قرقود,LBD0025
+cadas,LBN35153,Qarqouf - القرقوف,LBD0018
+cadas,LBN35154,Qarsa - قرصة,LBD0018
+cadas,LBN55078,Qarsita - قرصيتا,LBD0013
+cadas,LBN34178,Qartaba - قرطبا,LBD0016
+cadas,LBN34179,Qartaboun - قرطبون,LBD0016
+cadas,LBN63090,Qasmiye - قاسمية,LBD0022
+cadas,LBN22078,Qasr - القصر,LBD0010
+cadas,LBN34180,Qass - القص,LBD0016
+cadas,LBN33178,Qassoube - قصوبة,LBD0008
+cadas,LBN34181,Qateaa - القاطعة,LBD0016
+cadas,LBN41033,Qatmoun - قطموم,LBD0007
+cadas,LBN34182,Qattara - قطارة,LBD0016
+cadas,LBN35155,Qattine - القطين,LBD0018
+cadas,LBN55079,Qattine El Minieh - القطين المنيه,LBD0013
+cadas,LBN51216,Qbaiyat el Gharbiye - القبيات الغربية,LBD0001
+cadas,LBN51217,Qbaiyat ez Zouq - القبيات الذوق,LBD0001
+cadas,LBN51218,Qboula - قبولا,LBD0001
+cadas,LBN51219,Qbour El Bid - قبور البيد,LBD0001
+cadas,LBN34183,Qehmez - قهمز,LBD0016
+cadas,LBN25059,Haouch Qayssar - حوش قيصر,LBD0025
+cadas,LBN55080,Qemmamine - قمامين,LBD0013
+cadas,LBN36159,Qennabet Broummana - قنابة برمانا,LBD0012
+cadas,LBN36158,Qennabet Salima - قنابة صليما,LBD0012
+cadas,LBN61088,Qennarit - قناريت,LBD0021
+cadas,LBN34184,Qerqraiya - قرقريا,LBD0016
+cadas,LBN34185,Qeryaqous - قرياقس,LBD0016
+cadas,LBN21139,Qiddam - القدام,LBD0004
+cadas,LBN24035,Qillaya - قلايا,LBD0024
+cadas,LBN51220,Qinye - قنية,LBD0001
+cadas,LBN320082,Qirtada - قرطادة,LBD0003
+cadas,LBN61090,Qiyaa - قياعة,LBD0021
+cadas,LBN43035,Qlaiaa - قليعة,LBD0019
+cadas,LBN35156,Qlaiaat - قليعات كسروان,LBD0018
+cadas,LBN21140,Qlaile - قليلة,LBD0004
+cadas,LBN51221,Qloud El-Baqieh - قلود الباقية,LBD0001
+cadas,LBN31095,Qmatiye -  قماطية,LBD0002
+cadas,LBN35157,Qmayrze - قميزرة,LBD0018
+cadas,LBN23037,Qnaabe - قنعبة,LBD0020
+cadas,LBN53023,Qnaiouer - قنيور,LBD0005
+cadas,LBN61091,Qnaitra - القنيطرة,LBD0021
+cadas,LBN36160,Qnaitra El Meten - قنيطرة المتن,LBD0012
+cadas,LBN53024,Qnat - قناة,LBD0005
+cadas,LBN11022,Qobaiyat - قبيات,LBD0006
+cadas,LBN51222,Qochloq - قشلق,LBD0001
+cadas,LBN25060,Qommol - قمّل,LBD0025
+cadas,LBN11045,Qoraitem - قريطم,LBD0006
+cadas,LBN320083,Qornayel - قرنايل,LBD0003
+cadas,LBN36161,Qornet Chahouane - قرنة شهوان,LBD0012
+cadas,LBN36162,Qornet El Hamra - قرنة الحمرا,LBD0012
+cadas,LBN52104,Qornet el Marj - قرنة المرج,LBD0009
+cadas,LBN62094,Qotrani - قطراني,LBD0017
+cadas,LBN36163,Qottara Aintouret - قطارة عينطورة المتن,LBD0012
+cadas,LBN51215,Qoubaiyat - القبيات,LBD0001
+cadas,LBN56010,Qoubbe - القبة,LBD0023
+cadas,LBN31096,Qoubbe Choueifat - قبة الشويفات,LBD0002
+cadas,LBN320084,Qoubbeiaa - قبيع,LBD0003
+cadas,LBN51223,Qoubbet Chamra - قبة شمرا,LBD0001
+cadas,LBN35158,Qouwale - قواله,LBD0018
+cadas,LBN33179,Qraiaa - قريعة,LBD0008
+cadas,LBN55081,Qraine - قرين,LBD0013
+cadas,LBN51113,Qraiyat - القريات,LBD0001
+cadas,LBN320085,Qraiye - قرية,LBD0003
+cadas,LBN61092,Qraiye Saida - قرية صيدا,LBD0021
+cadas,LBN62095,Qrouh - قروح,LBD0017
+cadas,LBN320086,Qsaibe - قصيبة,LBD0003
+cadas,LBN44053,Qsaibe El Nabatieh - قصيبة النبطية,LBD0014
+cadas,LBN43036,Qsair - قصير,LBD0019
+cadas,LBN21141,Qsarnaba - قصرنابا,LBD0004
+cadas,LBN320087,Qtale - قتالة,LBD0003
+cadas,LBN62096,Qtale Jezzine - قتالة جزين,LBD0017
+cadas,LBN22080,Quadi el Karm - وادي الكرم,LBD0010
+cadas,LBN52105,Quajh El - Hajar - وجه الحجر,LBD0009
+cadas,LBN33173,Quardaniye - وردانيه,LBD0008
+cadas,LBN25061,Raait - رعيت,LBD0025
+cadas,LBN35159,Raashine - رعشين,LBD0018
+cadas,LBN43037,Rabb et Talatine - رب التلاتين,LBD0019
+cadas,LBN36164,Raboue - ربوة,LBD0012
+cadas,LBN52106,Racha - راشا,LBD0009
+cadas,LBN57069,Rachaaine - رشعين,LBD0026
+cadas,LBN41034,Rachaf - رشاف,LBD0007
+cadas,LBN23038,Rachaiya - راشيّا الوادي,LBD0020
+cadas,LBN42033,Rachaiya el Foukhar - راشيّا الفخار,LBD0015
+cadas,LBN52107,Rachana - راشانا,LBD0009
+cadas,LBN63092,Rachidiye - الرشيدية,LBD0022
+cadas,LBN52108,Rachkida - راشكيدا,LBD0009
+cadas,LBN52109,Rachkidde - راشكِدّه,LBD0009
+cadas,LBN23039,Rafid - الرافد راشيا,LBD0020
+cadas,LBN51224,Rahbe - رحبة,LBD0001
+cadas,LBN35160,Raifoun - ريفون,LBD0018
+cadas,LBN62097,Raimat - ريمات,LBD0017
+cadas,LBN51225,Rajm Hssein - رجم حسين,LBD0001
+cadas,LBN51323,Rajm Issa - رجم عيسى,LBD0001
+cadas,LBN51226,Rajm Khalaf - رجم خلف,LBD0001
+cadas,LBN21142,Ram - الرام,LBD0004
+cadas,LBN31097,Ram Bchamoun - رام بشامون,LBD0002
+cadas,LBN52110,Ram el batroun - الرام البترون,LBD0009
+cadas,LBN52111,Ramate - رمات,LBD0009
+cadas,LBN36165,Ramie - رامية,LBD0012
+cadas,LBN34187,Ramiet el Hsoun - رامية الحصون,LBD0016
+cadas,LBN35161,Ramiet Kfaryasin - رامية كفر ياسين,LBD0018
+cadas,LBN41035,Ramiye - رامية بنت جبيل,LBD0007
+cadas,LBN11091,Ramlet el Bayda - الرملة البيضا,LBD0006
+cadas,LBN31098,Ramliye -  رملية,LBD0002
+cadas,LBN56011,Rammanet - الرمانة,LBD0023
+cadas,LBN34188,Ramout - الراموط,LBD0016
+cadas,LBN11087,Raoucheh - روشه,LBD0006
+cadas,LBN57084,Raouda - روضه المنيه,LBD0013
+cadas,LBN24019,Raouda Istabl - روضة إسطبل,LBD0024
+cadas,LBN36166,Raqayeq - رقايق,LBD0012
+cadas,LBN33180,Ras Aalous - راس علوس,LBD0008
+cadas,LBN21143,Ras al Assy - راس العاصي,LBD0004
+cadas,LBN21144,Ras Baalbek - راس بعلبك,LBD0004
+cadas,LBN21185,Ras Baalbek ech Charqi - راس بعلبك الشرقي,LBD0004
+cadas,LBN22089,Ras Baalbek el Gharbi - راس بعلبك الغربي,LBD0010
+cadas,LBN21186,Ras Baalbek es Sahel - راس بعلبك السهل,LBD0004
+cadas,LBN22090,Ras Baalbek Ouadi Faara - راس بعلبك وادي فعرا,LBD0010
+cadas,LBN11047,Ras Beirut - راس بيروت,LBD0006
+cadas,LBN52112,Ras Bnaiya - راس بنيه,LBD0009
+cadas,LBN52113,Ras Ed Daouali - راس الدوالي,LBD0009
+cadas,LBN63093,Ras el Ain - راس العين,LBD0022
+cadas,LBN25062,Ras el Ain Zahle - راس العين زحلة,LBD0025
+cadas,LBN320088,Ras el Harf - راس الحرف,LBD0003
+cadas,LBN36167,Ras el Jdaide - راس الجديدة,LBD0012
+cadas,LBN320089,Ras el Metn - راس المتن,LBD0003
+cadas,LBN11048,Ras El Nabaa - راس النبع,LBD0006
+cadas,LBN54056,Ras Maska - راس مسقا,LBD0011
+cadas,LBN54048,Ras Masqa Ech Chmaliye - راس مسقا الشمالية,LBD0011
+cadas,LBN54049,Ras Masqa Ej Jnoubiye - راس مسقا الجنوبية,LBD0011
+cadas,LBN52121,Ras Nahhach - راس نحاش,LBD0009
+cadas,LBN34189,Ras Osta - راس اسطا,LBD0016
+cadas,LBN57070,Raskifa - راس كيفا,LBD0026
+cadas,LBN21145,Rasm El Hadet - رسم الحدث,LBD0004
+cadas,LBN25063,Rassiyeh - الراسية,LBD0025
+cadas,LBN25064,Rayak - رياق,LBD0025
+cadas,LBN54050,Rechdibbine - رشدبين,LBD0011
+cadas,LBN63095,Rechkananey - رشكنانيه,LBD0022
+cadas,LBN31099,Rechmaiya -  رشميا,LBD0002
+cadas,LBN31100,Rejme -  رجمة,LBD0002
+cadas,LBN11049,Remeil - رميل,LBD0006
+cadas,LBN31101,Remhala - رمحالا,LBD0002
+cadas,LBN21146,Riha - ريحا,LBD0004
+cadas,LBN62098,Rihane Jezzine - ريحانة جزين,LBD0017
+cadas,LBN35162,Rihane Kesrwane - ريحان كسروان,LBD0018
+cadas,LBN34190,Rihani - ريحانة,LBD0016
+cadas,LBN51119,Rihaniye - الريحانية,LBD0001
+cadas,LBN31102,Rjoum - رجوم,LBD0002
+cadas,LBN63096,Rmadiyeh - رمادية,LBD0022
+cadas,LBN51227,Rmah En Nahriyeh - رماح النهريه,LBD0001
+cadas,LBN41036,Rmaich - رميش,LBD0007
+cadas,LBN33181,Rmaile - رميلة,LBD0008
+cadas,LBN51326,Rmoul - رمول,LBD0001
+cadas,LBN34018,Rouaiss - رويس,LBD0016
+cadas,LBN320090,Rouaisset Salima - رويسات صليما,LBD0003
+cadas,LBN31103,Rouissat Sofar -  رويسات صوفر,LBD0002
+cadas,LBN320091,Rouisset el Ballout - رويسة البلوط,LBD0003
+cadas,LBN31104,Rouisset en Naamane -  رويسة النعمان,LBD0002
+cadas,LBN62099,Roum - روم,LBD0017
+cadas,LBN36168,Roumie - روميه المتن,LBD0012
+cadas,LBN44054,Roumine - رومين,LBD0014
+cadas,LBN62100,Roummane Jezzine - رمانة,LBD0017
+cadas,LBN62101,Rous El Franj - راس الوادي الحوة,LBD0017
+cadas,LBN51228,Saadine - سعدين,LBD0001
+cadas,LBN33182,Saadiyat - السعديات,LBD0008
+cadas,LBN25065,Saadnayel - سعدنايل,LBD0025
+cadas,LBN21147,Saaide - سعيدة,LBD0004
+cadas,LBN62102,Sabah - صّباح,LBD0017
+cadas,LBN33183,Sabouniye - صابونية,LBD0008
+cadas,LBN320107,Sabra - صبرا,LBD0003
+cadas,LBN36169,Sabtiye - سبتيه,LBD0012
+cadas,LBN36170,Sad el Baouchriye - سد البوشرية,LBD0012
+cadas,LBN51327,Sadaqa - صدقة,LBD0001
+cadas,LBN41037,Safad el Battikh - صفد البطيخ,LBD0007
+cadas,LBN21148,Safra - صفرا,LBD0004
+cadas,LBN35163,Safra kesrwane - صفرا كسروان,LBD0018
+cadas,LBN24036,Saghbine - صغبين,LBD0024
+cadas,LBN35164,Sahel Aalma - ساحل علما,LBD0018
+cadas,LBN57071,Sahl Danha - سهل دنها,LBD0026
+cadas,LBN33184,Sahl Ej Jiye - سهل الجية,LBD0008
+cadas,LBN51122,Sahle - السهله,LBD0001
+cadas,LBN25066,Sahret el Qach - صحرة القش,LBD0025
+cadas,LBN61100,Saida - صيدا,LBD0021
+cadas,LBN61036,Saida Ed Dekermane - صيدا الدكرمان,LBD0021
+cadas,LBN35165,Saidet Bzoummar - دير سيدة بزمار,LBD0018
+cadas,LBN21149,Saidet ed Dalil - سيدة الضليل,LBD0004
+cadas,LBN51229,Saidnaya - السنديانة,LBD0001
+cadas,LBN11050,Saife - صيفي,LBD0006
+cadas,LBN51230,Saissouq - سيسوق,LBD0001
+cadas,LBN57085,Sakhra - صخرة,LBD0026
+cadas,LBN61094,Saksakiye - سكسكية,LBD0021
+cadas,LBN63098,Salaa - سلعا,LBD0022
+cadas,LBN41038,Salhani - الصلحاني,LBD0007
+cadas,LBN22081,Salhat El Ma - سهلات المي,LBD0010
+cadas,LBN61095,Salhiye - صالحية,LBD0021
+cadas,LBN62104,Salima - صليما,LBD0017
+cadas,LBN320092,Salima Baabda - صليما بعبدا,LBD0003
+cadas,LBN63099,Sammaaiye - سماعية,LBD0022
+cadas,LBN51231,Sammouniye - السمونيه,LBD0001
+cadas,LBN33185,Samqaniye - سمقانية,LBD0008
+cadas,LBN57072,Sanaallah - صنع الله,LBD0026
+cadas,LBN11051,Sanayeh - الصنائع,LBD0006
+cadas,LBN36171,Sannine - صنين,LBD0012
+cadas,LBN51232,Saoualha - ساولها,LBD0001
+cadas,LBN36172,Saqeit El Misk - ساقية المسك,LBD0012
+cadas,LBN320093,Saqi Ain el Hadath - سقي عين الحدث,LBD0003
+cadas,LBN34191,Saqi Lassa - سقي لاسا,LBD0016
+cadas,LBN34192,Saqi Rechmaiya - سقي رشميا,LBD0016
+cadas,LBN34193,Saqiet ed Delb - ساقية الدلب,LBD0016
+cadas,LBN34194,Saqiet el Khait - ساقية الخيط,LBD0016
+cadas,LBN21150,Saraain el Faouqa - سرعين الفوقا,LBD0004
+cadas,LBN21151,Saraain et Tahta - سرعين التحتا,LBD0004
+cadas,LBN61096,Sarafand - صرفند,LBD0021
+cadas,LBN31105,Sarahmoul -  سرحمول,LBD0002
+cadas,LBN33186,Saraouniye - سرعونية,LBD0008
+cadas,LBN35166,Sarba - صربا,LBD0018
+cadas,LBN44055,Sarba El Nabatieh - صربا النبطية,LBD0014
+cadas,LBN43038,Mazraat Sarda - مزرعة  سردة,LBD0019
+cadas,LBN61097,Sari - ساري,LBD0021
+cadas,LBN34195,Sariita - سرعيتا,LBD0016
+cadas,LBN51233,Sbagha - صباغا,LBD0001
+cadas,LBN34196,Sbail - سبايل,LBD0016
+cadas,LBN21152,Sbouba - صبوبا,LBD0004
+cadas,LBN57073,Sebaal - سبعل زغرتا,LBD0026
+cadas,LBN34197,Sebrine - سربين,LBD0016
+cadas,LBN62106,Sejoud - سجد,LBD0017
+cadas,LBN52114,Selaata - سلعاتا,LBD0009
+cadas,LBN23030,Selsata Mazraat Dier el Aachayer - مزرعة سلساتا,LBD0020
+cadas,LBN51123,Semmaqiye - السماقية,LBD0001
+cadas,LBN51330,Semmaqli - سمقالي,LBD0001
+cadas,LBN57075,Seraal - سرعيل,LBD0026
+cadas,LBN43039,Serail - سراي,LBD0019
+cadas,LBN34117,Serghol - سرغل,LBD0016
+cadas,LBN55082,Sertouka - سرتوكا,LBD0013
+cadas,LBN36173,Sfaile - سفيلة,LBD0012
+cadas,LBN36187,sfaileh Bikfaya - سفيلة بكفيا,LBD0012
+cadas,LBN62107,Sfarai - صفاريه,LBD0017
+cadas,LBN51234,Sfaynet El-Qaitaa - سفينة القيطع,LBD0001
+cadas,LBN61099,Sfenti - سفنتا,LBD0021
+cadas,LBN51125,Sfinet ed Dreib - سفينة الدريب,LBD0001
+cadas,LBN55052,Sfire - سفيرة,LBD0013
+cadas,LBN52115,Sghar - صغار,LBD0009
+cadas,LBN35167,Shaile - سهيلة,LBD0018
+cadas,LBN51236,Shaqdouf Aakkar - شقدوف عكار,LBD0001
+cadas,LBN22082,Sharbine el Faouqa - شربين الفوقا,LBD0010
+cadas,LBN56027,Shok - شق,LBD0023
+cadas,LBN31106,Sibaal - سبعل,LBD0002
+cadas,LBN33187,Sibline - سبلين,LBD0008
+cadas,LBN320094,Sibnay - سبنيه,LBD0003
+cadas,LBN63100,Siddiqine - صديقين,LBD0022
+cadas,LBN62103,Sidoun - صيدون,LBD0017
+cadas,LBN21153,Sifri - سفري,LBD0004
+cadas,LBN36174,Sijn ej Jdid - سجن الجديد,LBD0012
+cadas,LBN31107,Sil - سيل,LBD0002
+cadas,LBN31108,Silfaya - سلفايا,LBD0002
+cadas,LBN61101,Sinai - سيناي,LBD0021
+cadas,LBN51238,Sindianet Zeidane - سنديانة زيدان,LBD0001
+cadas,LBN36175,Sinn el Fil - سن الفيل,LBD0012
+cadas,LBN34198,Sinnawr - سنور,LBD0016
+cadas,LBN11088,Sioufi - السيوفي,LBD0006
+cadas,LBN55083,Sir Ed Danniye - سير الضنية,LBD0013
+cadas,LBN44056,Sir el Gharbiye - صير الغربية,LBD0014
+cadas,LBN21154,Siret Hanna - سيرة هنا,LBD0004
+cadas,LBN34199,Sirine - سيران,LBD0016
+cadas,LBN33188,Sirjbal - سرجبال,LBD0008
+cadas,LBN35168,Sirje - سيرجه,LBD0018
+cadas,LBN42034,Slaiyeb - صلايب,LBD0015
+cadas,LBN34200,Slaiyeb Ghalboun - صلايب غلبون,LBD0016
+cadas,LBN21155,Slouqi - سلوقي,LBD0004
+cadas,LBN52116,Smar Jbail - سمار جبيل,LBD0009
+cadas,LBN61102,Snaiber - مزرعة سنيبر,LBD0021
+cadas,LBN62108,Sniye - سنيَا,LBD0017
+cadas,LBN35169,Snoubar - صنوبر يحشوش,LBD0018
+cadas,LBN11089,Snoubra - صنوبره,LBD0006
+cadas,LBN31109,Sofar -  صوفر,LBD0002
+cadas,LBN24037,Sohmor - سحمر,LBD0024
+cadas,LBN24038,Souairi - صويري,LBD0024
+cadas,LBN22083,Souaisse - السويسة,LBD0010
+cadas,LBN34201,Souane - صوانة,LBD0016
+cadas,LBN33189,Souane Bsaba - صوانة بسابا,LBD0008
+cadas,LBN43040,Souane Marjaayoun - صوانة مرجعيون,LBD0019
+cadas,LBN55084,Souaqi - السواقي,LBD0013
+cadas,LBN56028,Souayqa - السويقة,LBD0023
+cadas,LBN24047,Soultan Yaaqoub Aradi - سلطان يعقوب أراضي,LBD0024
+cadas,LBN24039,Soultane Yaaqoub el Faouqa - سلطان يعقوب الفوقا,LBD0024
+cadas,LBN24040,Soultane Yaaqoub el Tahta - سلطان يعقوب التحتا,LBD0024
+cadas,LBN41039,Soultaniye - سلطانية,LBD0007
+cadas,LBN34202,Souq el Firi - سوق الفارة,LBD0016
+cadas,LBN31110,Souq el Gharb - سوق الغرب,LBD0002
+cadas,LBN63110,Sour - صور,LBD0022
+cadas,LBN52117,Sourat - صورات,LBD0009
+cadas,LBN51239,Srar - سرار,LBD0001
+cadas,LBN41040,Sribbine - صربين,LBD0007
+cadas,LBN63102,Srifa - صريفا,LBD0022
+cadas,LBN62109,Sriri - سريرة,LBD0017
+cadas,LBN52118,Ssel'aal - سلع,LBD0009
+cadas,LBN62110,Taaid - تعيد,LBD0017
+cadas,LBN25067,Taalabaya - تعلبايا,LBD0025
+cadas,LBN25068,Taanayel - تعنايل,LBD0025
+cadas,LBN31111,Taazniye -  تعزانية,LBD0002
+cadas,LBN35170,Tabarja - طبرجا,LBD0018
+cadas,LBN56012,Tabbaneh - التبانة,LBD0023
+cadas,LBN320095,Tahouitet el Ghadir - تحويطة الغدير,LBD0003
+cadas,LBN34203,Taht el Qalaa - تحت القلعة,LBD0016
+cadas,LBN21156,Taibe Baalbek - طيبة بعلبك,LBD0004
+cadas,LBN43041,Taibe Marjaayoun - طيبة مرجعيون,LBD0019
+cadas,LBN63103,Taibe Sour - الطيبة صور,LBD0022
+cadas,LBN63104,Tair Debba - طير دبّه,LBD0022
+cadas,LBN63105,Tair Filsay - طير فلسيه,LBD0022
+cadas,LBN63106,Tair Harfa - طير حرفا,LBD0022
+cadas,LBN63107,Tair Semhat - طير سمحات,LBD0022
+cadas,LBN63120,Tair Zebna - طير زبنا,LBD0022
+cadas,LBN41041,Taire - طيري,LBD0007
+cadas,LBN51251,Takrit - تكريت,LBD0001
+cadas,LBN56013,Tal - التل,LBD0023
+cadas,LBN51332,Tal Meaayan - تلمعيان,LBD0001
+cadas,LBN34204,Talbita - تلبيتا,LBD0016
+cadas,LBN21157,Talia - طليا,LBD0004
+cadas,LBN51240,Tall Aabbas Ech-Charqi - تل عباس الشرقي,LBD0001
+cadas,LBN51245,Tall Aabbas el Gharbi - تلعباس غربي,LBD0001
+cadas,LBN51247,Tall Bire - تلبيرة,LBD0001
+cadas,LBN25070,Tall el Akhdar - تل الاخضر,LBD0025
+cadas,LBN22084,Tall El far - تل الفار,LBD0010
+cadas,LBN36176,Tall ez Zaatar - تل الزعتر,LBD0012
+cadas,LBN24041,Tall ez Zaazeaa - تل الزعزع,LBD0024
+cadas,LBN51248,Tall Hmayra - تلحميرة,LBD0001
+cadas,LBN21158,Tall Sougha - تل سغى,LBD0004
+cadas,LBN24042,Tall Znoub - تل زنوب,LBD0024
+cadas,LBN24043,Tall Znoub ej Jdide - تل زنوب جديدة,LBD0024
+cadas,LBN35171,Talle - تلة,LBD0018
+cadas,LBN11090,Tallet Druze - تلة الدروز,LBD0006
+cadas,LBN21159,Tallet ed Deir - تلة الدير,LBD0004
+cadas,LBN11053,Tallet el Khayat - تلة الخياط,LBD0006
+cadas,LBN51241,Tallet el Mjabber - تلة المجابر,LBD0001
+cadas,LBN42035,Tallet el Qaaqour - تلة القعقور,LBD0015
+cadas,LBN51242,Tallet ez Zefir - تلة الزفير,LBD0001
+cadas,LBN43042,Tallouse - طلوسة,LBD0019
+cadas,LBN21160,Tammine et Tahta - تمنين التحتا,LBD0004
+cadas,LBN21161,Tamnine El Faouqa - تمنين الفوقا,LBD0004
+cadas,LBN62117,Tamra - طمره,LBD0017
+cadas,LBN61103,Tanbourit - طنبوريت,LBD0021
+cadas,LBN23040,Tannoura - تنورة,LBD0020
+cadas,LBN52119,Tannourine el Faouqa - تنورين الفوقا,LBD0009
+cadas,LBN52120,Tanourine Et Tahta - تنورين التحتا,LBD0009
+cadas,LBN21162,Taraiya - طاريا,LBD0004
+cadas,LBN55086,Tarane - طاران,LBD0013
+cadas,LBN320096,Tarchich - ترشيش,LBD0003
+cadas,LBN11054,Tariq El Jdide - طريق الجديدة,LBD0006
+cadas,LBN34205,Tartij - ترتج,LBD0016
+cadas,LBN51243,Tashea - تاشع,LBD0001
+cadas,LBN25078,Tcheflik Eddeh Haouch - تشفلك اده حوش,LBD0025
+cadas,LBN25079,Tcheflik Qiqano - تشفلك قيقانو,LBD0025
+cadas,LBN61104,Tebna - تبنا,LBD0021
+cadas,LBN41042,Tebnine - تبنين,LBD0007
+cadas,LBN34206,Tedmor - تدمر,LBD0016
+cadas,LBN51246,Tell Bibi - تلبيبة,LBD0001
+cadas,LBN25071,Tell Chiha - تل شيحا,LBD0025
+cadas,LBN25069,Tell el Aamara - تل العمارة,LBD0025
+cadas,LBN51334,Tell Hayat - تل الحيات,LBD0001
+cadas,LBN51337,Tell Kindi - تل كندي,LBD0001
+cadas,LBN51249,Tell Kiri - تل كيري,LBD0001
+cadas,LBN51250,Tell Sebael - تل سبعل,LBD0001
+cadas,LBN25072,Terbol - تربل,LBD0025
+cadas,LBN55085,Terbol El Minieh - تربل المنيه,LBD0013
+cadas,LBN34207,Terouil - ترويل,LBD0016
+cadas,LBN21163,Tfail - طفيل,LBD0004
+cadas,LBN52122,Thoum - تحوم,LBD0009
+cadas,LBN51127,Tleil - التليل,LBD0001
+cadas,LBN63108,Touairi - طويري,LBD0022
+cadas,LBN25073,Touaite - تويتي,LBD0025
+cadas,LBN31112,Touayte Ain Dara - تويته عين داره,LBD0002
+cadas,LBN61105,Toufahta - تفاحتا,LBD0021
+cadas,LBN21164,Toufiqiye - التوفيقية,LBD0004
+cadas,LBN44057,Toul - تول,LBD0014
+cadas,LBN52123,Toula - تولا,LBD0009
+cadas,LBN57076,Toula zgharta - تولا زغرتا,LBD0026
+cadas,LBN43043,Touline - تولين,LBD0019
+cadas,LBN63109,Toura - طورا,LBD0022
+cadas,LBN53025,Tourza - طورزا,LBD0005
+cadas,LBN34208,Tourzaiya - طورزيا,LBD0016
+cadas,LBN56014,Trablous Jardins - بساتين طرابلس,LBD0023
+cadas,LBN56015,Trablous Zeitoun - طرابلس الزيتون,LBD0023
+cadas,LBN33148,Traile - تريله,LBD0008
+cadas,LBN56016,Tripoli - طرابلس,LBD0023
+cadas,LBN11055,Unesco - الاونسكو,LBD0006
+cadas,LBN11056,Universite Americaine - الجامعة الاميركية,LBD0006
+cadas,LBN11057,Universite St Joseph - جامعة القديس يوسف,LBD0006
+cadas,LBN51209,Wadi Al Hoor - وادي الحور,LBD0001
+cadas,LBN22079,Wadi Bnit - وادي بنيت,LBD0010
+cadas,LBN21133,Wadi el Assouad - وادي الاسود,LBD0004
+cadas,LBN34209,Wadi el Kalb - وادي الكلب,LBD0016
+cadas,LBN21134,Wadi el Oss - وادي القصص,LBD0004
+cadas,LBN55076,Wadi en Njass - وادي النجاص,LBD0013
+cadas,LBN22076,Wadi Faara - وادي فعرا,LBD0010
+cadas,LBN62089,Wadi Jezzine - وادي جزين,LBD0017
+cadas,LBN51252,Wadi Khaled - وادي خالد,LBD0001
+cadas,LBN53026,Wadi Qannoubine - وادي قنوبين,LBD0005
+cadas,LBN320097,Warware - الوروار,LBD0003
+cadas,LBN61085,Wastani - الوسطاني,LBD0021
+cadas,LBN36177,Wata Amaret Chalhoub - الوطى عمارة شلهوب,LBD0012
+cadas,LBN35172,Wata Tabriye - وطى طبرية,LBD0018
+cadas,LBN31113,Watiye - واطية,LBD0002
+cadas,LBN35173,Yahchouch - يحشوش,LBD0018
+cadas,LBN21165,Yahfoufa - يحفوفا,LBD0004
+cadas,LBN21166,Yammoune - يمونة,LBD0004
+cadas,LBN34210,Yanouh - يانوح,LBD0016
+cadas,LBN23041,Yanta - ينطا,LBD0020
+cadas,LBN63111,Yarine - يارين,LBD0022
+cadas,LBN52124,Yarita - ياريتا,LBD0009
+cadas,LBN41043,Yaroun - يارون,LBD0007
+cadas,LBN320098,Yarzeh - اليرزة,LBD0003
+cadas,LBN41044,Yater - ياطر,LBD0007
+cadas,LBN31114,Yinnar - ينار,LBD0002
+cadas,LBN63112,Ynouh - يانوح صور,LBD0022
+cadas,LBN44058,Yohmor - يحمر,LBD0014
+cadas,LBN24044,Yohmor West Bekaa - يحمر بقاع الغربي,LBD0024
+cadas,LBN21167,Younine - يونين,LBD0004
+cadas,LBN35174,Zaaitra - زعيتره,LBD0018
+cadas,LBN36178,Zaaitriye - زعيتريه,LBD0012
+cadas,LBN33190,Zaarour - زعرور,LBD0008
+cadas,LBN33191,Zaarouriye - زعرورية,LBD0008
+cadas,LBN34211,Zaayber - زعيبر,LBD0016
+cadas,LBN21168,Zabboud - زبود,LBD0004
+cadas,LBN36179,Zabbougha - زبوغا,LBD0012
+cadas,LBN63113,Zabqine - زبقين,LBD0022
+cadas,LBN61106,Zaghdraiya - زغدرايا,LBD0021
+cadas,LBN42036,Zaghla - زغلة,LBD0015
+cadas,LBN36180,Zaghrine El Meten - زغرين المتن,LBD0012
+cadas,LBN62111,Zaghrine Jezzine - زغرين جزين,LBD0017
+cadas,LBN25074,Zahle - زحلة,LBD0025
+cadas,LBN25082,Zahle  Mar Antonios - زحلة مار أنطونيوس,LBD0025
+cadas,LBN25083,Zahle  Mar Gerges - زحلة مار جرجس,LBD0025
+cadas,LBN25081,Zahle  Saydet En Najat - زحلة  سيدة النجاة,LBD0025
+cadas,LBN25080,Zahle Aradi - زحلة أراضي,LBD0025
+cadas,LBN25040,Zahle Maalaqa Aradi - زحلة معلقة أراضي,LBD0025
+cadas,LBN56017,Zahrieh - الزاهرية,LBD0023
+cadas,LBN63114,Zahriye - زهيرية,LBD0022
+cadas,LBN36181,Zahriye El Meten - زاهرية المتن,LBD0012
+cadas,LBN61108,Zaita - زيتا,LBD0021
+cadas,LBN54051,Zakroun - زكرون,LBD0011
+cadas,LBN54052,Zakzouk - زكزوك,LBD0011
+cadas,LBN63115,Zalloutiye - مزرعة الزلوطية,LBD0022
+cadas,LBN36182,Zalqa - الزلقا,LBD0012
+cadas,LBN320099,Zandouqa - زندوقة,LBD0003
+cadas,LBN52125,Zane - زان,LBD0009
+cadas,LBN44059,Zaoutar ech Charqiye - زوطر الشرقية,LBD0014
+cadas,LBN44060,Zaoutar el Gharbiye - زوطر الغربية,LBD0014
+cadas,LBN36183,Zaraaoun - زرعون,LBD0012
+cadas,LBN21169,Zarayeb - زرايب,LBD0004
+cadas,LBN21170,Zarayeb Choukr - زرايب شكر,LBD0004
+cadas,LBN35175,Zayer - زاير,LBD0018
+cadas,LBN34212,Zebdine - زبدين,LBD0016
+cadas,LBN44061,Zebdine El Nabatieh - زبدين النبطية,LBD0014
+cadas,LBN25075,Zebdol - زبدل,LBD0025
+cadas,LBN44062,Zefta - زفتا,LBD0014
+cadas,LBN35176,Zeitoun - زيتون,LBD0018
+cadas,LBN34213,Zelhmaya - زلحمايا,LBD0016
+cadas,LBN24045,Zellaya - زلايا,LBD0024
+cadas,LBN21171,Zeribet es Sabha - زريبة الصبحا,LBD0004
+cadas,LBN57077,Zgharta - زغرتا,LBD0026
+cadas,LBN54053,Zgharta el Mtaouleh - زغرتا المتاولة,LBD0011
+cadas,LBN55087,Zghartighrine - زغرتغرين,LBD0013
+cadas,LBN62112,Zhalta - زحلتا,LBD0017
+cadas,LBN22085,Zighrine - زغرين,LBD0010
+cadas,LBN22086,Zighrine Et Tahta - زغرين التحتى,LBD0010
+cadas,LBN36184,Zikrit - زكريت,LBD0012
+cadas,LBN35177,Zleikat - زليكات,LBD0018
+cadas,LBN34214,Zmar - زمار,LBD0016
+cadas,LBN11058,Zoqaq el Blat - زقاق البلاط,LBD0006
+cadas,LBN320100,Zouaitini - زويتينة,LBD0003
+cadas,LBN51253,Zouaitini Akkar - الزويتينة عكار,LBD0001
+cadas,LBN22087,Zouaitini Zighrine - الزويتينه زغرين,LBD0010
+cadas,LBN51128,Zouarib - الزواريب,LBD0001
+cadas,LBN36185,Zouk el Kharab - ذوق الخراب,LBD0012
+cadas,LBN51254,Zouk Haddara - ذوق حدارة,LBD0001
+cadas,LBN35178,Zouk Mosbeh - ذوق مصبح,LBD0018
+cadas,LBN55090,Zouq Bhannine - ذوق بحنين,LBD0013
+cadas,LBN51256,Zouq el Hassineh - ذوق الحصينة,LBD0001
+cadas,LBN51257,Zouq El Mqachrine - ذوق المقشرين,LBD0001
+cadas,LBN51255,Zouq El-Hbalsa - ذوق الحبالصة,LBD0001
+cadas,LBN35179,Zouq Mkayel - ذوق مكايل,LBD0018
+cadas,LBN61109,Zrariye - زرارية,LBD0021
+cadas,LBN21172,Zrazir - زرازير,LBD0004
